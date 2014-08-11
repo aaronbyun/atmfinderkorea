@@ -1,0 +1,2 @@
+/Users/macmath22/Development/IPhone/My Apps/ATM Korea/Classes/NearbyRootController.m: In function '-[NearbyRootController locationManager:didSuccessfullyFinishWithCLLocation:AndAddress:]':
+/Users/macmath22/Development/IPhone/My Apps/ATM Korea/Classes/NearbyRootController.m:277: warning: incompatible Objective-C types initializing 'struct MKPlacemark *', expected 'struct NSString *'

@@ -1,0 +1,766 @@
+TATM Korea
+v7
+r0
+t289116690.988765
+cCheck dependencies
+cProcessInfoPlistFile "/Users/macmath22/Development/IPhone/My Apps/ATM Korea/build/Debug-iphonesimulator/ATM Korea.app/Info.plist" ATM_Korea-Info.plist
+cCompileXIB "/Users/macmath22/Development/IPhone/My Apps/ATM Korea/English.lproj/MainWindow.xib"
+cCompileXIB "/Users/macmath22/Development/IPhone/My Apps/ATM Korea/ko.lproj/MainWindow.xib"
+cCompileXIB "/Users/macmath22/Development/IPhone/My Apps/ATM Korea/Classes/NearbyRootController.xib"
+cCompileXIB "/Users/macmath22/Development/IPhone/My Apps/ATM Korea/NearbyTableViewCell.xib"
+cCpResource "build/Debug-iphonesimulator/ATM Korea.app/ATM_Cell.png" ATM_Cell.png
+cCpResource "build/Debug-iphonesimulator/ATM Korea.app/ATM_Cell2.png" ATM_Cell2.png
+cCpResource "build/Debug-iphonesimulator/ATM Korea.app/Bank_Cell.png" Bank_Cell.png
+cCpResource "build/Debug-iphonesimulator/ATM Korea.app/Bank_Cell2.png" Bank_Cell2.png
+cCompileXIB "/Users/macmath22/Development/IPhone/My Apps/ATM Korea/SettingsController.xib"
+cCpResource "build/Debug-iphonesimulator/ATM Korea.app/About.png" About.png
+cCpResource "build/Debug-iphonesimulator/ATM Korea.app/Map_ATM_1.png" Map_ATM_1.png
+cCpResource "build/Debug-iphonesimulator/ATM Korea.app/Map_Bank_1.png" Map_Bank_1.png
+cCpResource "build/Debug-iphonesimulator/ATM Korea.app/Nearby.png" Nearby.png
+cCpResource "build/Debug-iphonesimulator/ATM Korea.app/Search.png" Search.png
+cCpResource "build/Debug-iphonesimulator/ATM Korea.app/Default.png" Default.png
+cCpResource "build/Debug-iphonesimulator/ATM Korea.app/Icon.png" Icon.png
+cCopyStringsFile "/Users/macmath22/Development/IPhone/My Apps/ATM Korea/build/Debug-iphonesimulator/ATM Korea.app/English.lproj/Localizable.strings" English.lproj/Localizable.strings
+cCopyStringsFile "/Users/macmath22/Development/IPhone/My Apps/ATM Korea/build/Debug-iphonesimulator/ATM Korea.app/ko.lproj/Localizable.strings" ko.lproj/Localizable.strings
+cProcessPCH /var/folders/lR/lR4Jr+itHKycB0liBwNolE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/ATM_Korea_Prefix-bmtdzwqhwdsueydnfltarhxuejzj/ATM_Korea_Prefix.pch.gch ATM_Korea_Prefix.pch normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC "build/ATM Korea.build/Debug-iphonesimulator/ATM Korea.build/Objects-normal/i386/main.o" "/Users/macmath22/Development/IPhone/My Apps/ATM Korea/main.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC "build/ATM Korea.build/Debug-iphonesimulator/ATM Korea.build/Objects-normal/i386/ATM_KoreaAppDelegate.o" "/Users/macmath22/Development/IPhone/My Apps/ATM Korea/Classes/ATM_KoreaAppDelegate.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC "build/ATM Korea.build/Debug-iphonesimulator/ATM Korea.build/Objects-normal/i386/NearbyRootController.o" "/Users/macmath22/Development/IPhone/My Apps/ATM Korea/Classes/NearbyRootController.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC "build/ATM Korea.build/Debug-iphonesimulator/ATM Korea.build/Objects-normal/i386/Settings.o" "/Users/macmath22/Development/IPhone/My Apps/ATM Korea/Classes/Settings.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC "build/ATM Korea.build/Debug-iphonesimulator/ATM Korea.build/Objects-normal/i386/SettingsController.o" "/Users/macmath22/Development/IPhone/My Apps/ATM Korea/Classes/SettingsController.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC "build/ATM Korea.build/Debug-iphonesimulator/ATM Korea.build/Objects-normal/i386/LocationManager.o" "/Users/macmath22/Development/IPhone/My Apps/ATM Korea/Classes/LocationManager.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.3.sdk
+c000000004B6C4E1B00000000000000EE
+t1265389083
+s238
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.3.sdk/System/Library/Frameworks/CoreGraphics.framework/CoreGraphics
+c000000004B2B4CC3000000000026EE30
+t1261128899
+s2551344
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.3.sdk/System/Library/Frameworks/CoreLocation.framework/CoreLocation
+c000000004B2B61C3000000000004AFC0
+t1261134275
+s307136
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.3.sdk/System/Library/Frameworks/CoreLocation.framework/Headers/CLLocation.h
+c000000004B2B61BB0000000000001454
+t1261134267
+s5204
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.3.sdk/System/Library/Frameworks/CoreLocation.framework/Headers/CoreLocation.h
+c000000004B2B61BC00000000000001AF
+t1261134268
+s431
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.3.sdk/System/Library/Frameworks/Foundation.framework/Foundation
+c000000004B2B4DC8000000000027E880
+t1261129160
+s2615424
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.3.sdk/System/Library/Frameworks/Foundation.framework/Headers/Foundation.h
+c000000004B2B4DAE0000000000001355
+t1261129134
+s4949
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.3.sdk/System/Library/Frameworks/MapKit.framework/Headers/MapKit.h
+c000000004B2B634C000000000000017D
+t1261134668
+s381
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.3.sdk/System/Library/Frameworks/MapKit.framework/MapKit
+c000000004B2B6372000000000010EB60
+t1261134706
+s1108832
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.3.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIKit.h
+c000000004B2B61620000000000000788
+t1261134178
+s1928
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.3.sdk/System/Library/Frameworks/UIKit.framework/UIKit
+c000000004B2B62B500000000016721E0
+t1261134517
+s23536096
+
+N/Users/macmath22/Development/IPhone/My Apps/ATM Korea/ATM_Cell.png
+c000000004B8117AE000000000000038E
+t1266751406
+s910
+
+N/Users/macmath22/Development/IPhone/My Apps/ATM Korea/ATM_Cell2.png
+c000000004B8689FA000000000000033F
+t1267108346
+s831
+
+N/Users/macmath22/Development/IPhone/My Apps/ATM Korea/ATM_Korea_Prefix.pch
+c000000004B89DA4C00000000000000BB
+t1267325516
+s187
+i<Foundation/Foundation.h>
+i<UIKit/UIKit.h>
+
+N/Users/macmath22/Development/IPhone/My Apps/ATM Korea/About.png
+c000000004B49F3B60000000000000154
+t1263137718
+s340
+
+N/Users/macmath22/Development/IPhone/My Apps/ATM Korea/Bank_Cell.png
+c000000004B8117AF000000000000034F
+t1266751407
+s847
+
+N/Users/macmath22/Development/IPhone/My Apps/ATM Korea/Bank_Cell2.png
+c000000004B8689FA0000000000000339
+t1267108346
+s825
+
+N/Users/macmath22/Development/IPhone/My Apps/ATM Korea/Classes/ATM_KoreaAppDelegate.h
+c000000004B89DC4700000000000001B9
+t1267326023
+s441
+i<UIKit/UIKit.h>
+
+N/Users/macmath22/Development/IPhone/My Apps/ATM Korea/Classes/ATM_KoreaAppDelegate.m
+c000000004B89DBF90000000000000240
+t1267325945
+s576
+i"ATM_KoreaAppDelegate.h"
+
+N/Users/macmath22/Development/IPhone/My Apps/ATM Korea/Classes/AppConstant.h
+c000000004B8A110700000000000000A2
+t1267339527
+s162
+
+N/Users/macmath22/Development/IPhone/My Apps/ATM Korea/Classes/LocationManager.h
+c000000004B8B599800000000000003DC
+t1267423640
+s988
+i<Foundation/Foundation.h>
+i<CoreLocation/CoreLocation.h>
+i<MapKit/MapKit.h>
+
+N/Users/macmath22/Development/IPhone/My Apps/ATM Korea/Classes/LocationManager.m
+c000000004B8B5A8F0000000000000D99
+t1267423887
+s3481
+i"LocationManager.h"
+
+N/Users/macmath22/Development/IPhone/My Apps/ATM Korea/Classes/NearbyRootController.h
+c000000004B8AA89A000000000000037B
+t1267378330
+s891
+i<UIKit/UIKit.h>
+i<CoreLocation/CoreLocation.h>
+i<CoreLocation/CLLocation.h>
+i"SettingsController.h"
+i"LocationManager.h"
+
+N/Users/macmath22/Development/IPhone/My Apps/ATM Korea/Classes/NearbyRootController.m
+c000000004B8B59880000000000001D48
+t1267423624
+s7496
+i"NearbyRootController.h"
+i"SettingsController.h"
+i"AppConstant.h"
+
+N/Users/macmath22/Development/IPhone/My Apps/ATM Korea/Classes/NearbyRootController.xib
+c000000004B89EE80000000000000403B
+t1267330688
+s16443
+
+N/Users/macmath22/Development/IPhone/My Apps/ATM Korea/Classes/Settings.h
+c000000004B89E38700000000000000D9
+t1267327879
+s217
+i<Foundation/Foundation.h>
+
+N/Users/macmath22/Development/IPhone/My Apps/ATM Korea/Classes/Settings.m
+c000000004B89E38700000000000000C1
+t1267327879
+s193
+i"Settings.h"
+
+N/Users/macmath22/Development/IPhone/My Apps/ATM Korea/Classes/SettingsController.h
+c000000004B8A0BD800000000000004A8
+t1267338200
+s1192
+i<UIKit/UIKit.h>
+i"Settings.h"
+
+N/Users/macmath22/Development/IPhone/My Apps/ATM Korea/Classes/SettingsController.m
+c000000004B8A578E0000000000001B6C
+t1267357582
+s7020
+i"SettingsController.h"
+i"AppConstant.h"
+
+N/Users/macmath22/Development/IPhone/My Apps/ATM Korea/Default.png
+c000000004B8A991E0000000000002CFF
+t1267374366
+s11519
+
+N/Users/macmath22/Development/IPhone/My Apps/ATM Korea/English.lproj/Localizable.strings
+c000000004B8AA58700000000000004A0
+t1267377543
+s1184
+
+N/Users/macmath22/Development/IPhone/My Apps/ATM Korea/English.lproj/MainWindow.xib
+c000000004B8A56140000000000007189
+t1267357204
+s29065
+
+N/Users/macmath22/Development/IPhone/My Apps/ATM Korea/Icon.png
+c000000004B8A99210000000000000FAC
+t1267374369
+s4012
+
+N/Users/macmath22/Development/IPhone/My Apps/ATM Korea/Map_ATM_1.png
+c000000004B8689FA000000000000028D
+t1267108346
+s653
+
+N/Users/macmath22/Development/IPhone/My Apps/ATM Korea/Map_Bank_1.png
+c000000004B8689FA00000000000002B7
+t1267108346
+s695
+
+N/Users/macmath22/Development/IPhone/My Apps/ATM Korea/Nearby.png
+c000000004B49F0DA0000000000000215
+t1263136986
+s533
+
+N/Users/macmath22/Development/IPhone/My Apps/ATM Korea/NearbyTableViewCell.xib
+c000000004B8A9F9C000000000000467F
+t1267376028
+s18047
+
+N/Users/macmath22/Development/IPhone/My Apps/ATM Korea/Search.png
+c000000004B49F2220000000000000207
+t1263137314
+s519
+
+N/Users/macmath22/Development/IPhone/My Apps/ATM Korea/SettingsController.xib
+c000000004B8A01BC000000000000596B
+t1267335612
+s22891
+
+N/Users/macmath22/Development/IPhone/My Apps/ATM Korea/build/ATM Korea.build/Debug-iphonesimulator/ATM Korea.build/Objects-normal/i386/ATM Korea.LinkFileList
+c000000004B8B5A90000000000000038B
+t1267423888
+s907
+
+N/Users/macmath22/Development/IPhone/My Apps/ATM Korea/build/ATM Korea.build/Debug-iphonesimulator/ATM Korea.build/Objects-normal/i386/ATM_KoreaAppDelegate.o
+t1267423890
+s40436
+
+N/Users/macmath22/Development/IPhone/My Apps/ATM Korea/build/ATM Korea.build/Debug-iphonesimulator/ATM Korea.build/Objects-normal/i386/LocationManager.o
+t2
+s0
+
+N/Users/macmath22/Development/IPhone/My Apps/ATM Korea/build/ATM Korea.build/Debug-iphonesimulator/ATM Korea.build/Objects-normal/i386/NearbyRootController.o
+t1267423890
+s57212
+
+N/Users/macmath22/Development/IPhone/My Apps/ATM Korea/build/ATM Korea.build/Debug-iphonesimulator/ATM Korea.build/Objects-normal/i386/Settings.o
+t1267423890
+s4920
+
+N/Users/macmath22/Development/IPhone/My Apps/ATM Korea/build/ATM Korea.build/Debug-iphonesimulator/ATM Korea.build/Objects-normal/i386/SettingsController.o
+t1267423890
+s48656
+
+N/Users/macmath22/Development/IPhone/My Apps/ATM Korea/build/ATM Korea.build/Debug-iphonesimulator/ATM Korea.build/Objects-normal/i386/main.o
+t1267423890
+s5988
+
+N/Users/macmath22/Development/IPhone/My Apps/ATM Korea/build/Debug-iphonesimulator/ATM Korea.app
+t2
+s0
+
+N/Users/macmath22/Development/IPhone/My Apps/ATM Korea/build/Debug-iphonesimulator/ATM Korea.app.dSYM
+t2
+s0
+
+N/Users/macmath22/Development/IPhone/My Apps/ATM Korea/build/Debug-iphonesimulator/ATM Korea.app/ATM Korea
+t2
+s0
+
+N/Users/macmath22/Development/IPhone/My Apps/ATM Korea/build/Debug-iphonesimulator/ATM Korea.app/ATM_Cell.png
+t1267423889
+s910
+
+N/Users/macmath22/Development/IPhone/My Apps/ATM Korea/build/Debug-iphonesimulator/ATM Korea.app/ATM_Cell2.png
+t1267423889
+s831
+
+N/Users/macmath22/Development/IPhone/My Apps/ATM Korea/build/Debug-iphonesimulator/ATM Korea.app/About.png
+t1267423889
+s340
+
+N/Users/macmath22/Development/IPhone/My Apps/ATM Korea/build/Debug-iphonesimulator/ATM Korea.app/Bank_Cell.png
+t1267423889
+s847
+
+N/Users/macmath22/Development/IPhone/My Apps/ATM Korea/build/Debug-iphonesimulator/ATM Korea.app/Bank_Cell2.png
+t1267423889
+s825
+
+N/Users/macmath22/Development/IPhone/My Apps/ATM Korea/build/Debug-iphonesimulator/ATM Korea.app/Default.png
+t1267423889
+s11519
+
+N/Users/macmath22/Development/IPhone/My Apps/ATM Korea/build/Debug-iphonesimulator/ATM Korea.app/English.lproj/Localizable.strings
+t1267423889
+s214
+
+N/Users/macmath22/Development/IPhone/My Apps/ATM Korea/build/Debug-iphonesimulator/ATM Korea.app/English.lproj/MainWindow.nib
+t1267423888
+s3385
+
+N/Users/macmath22/Development/IPhone/My Apps/ATM Korea/build/Debug-iphonesimulator/ATM Korea.app/Icon.png
+t1267423889
+s4012
+
+N/Users/macmath22/Development/IPhone/My Apps/ATM Korea/build/Debug-iphonesimulator/ATM Korea.app/Info.plist
+t1267423888
+s572
+
+N/Users/macmath22/Development/IPhone/My Apps/ATM Korea/build/Debug-iphonesimulator/ATM Korea.app/Map_ATM_1.png
+t1267423889
+s653
+
+N/Users/macmath22/Development/IPhone/My Apps/ATM Korea/build/Debug-iphonesimulator/ATM Korea.app/Map_Bank_1.png
+t1267423889
+s695
+
+N/Users/macmath22/Development/IPhone/My Apps/ATM Korea/build/Debug-iphonesimulator/ATM Korea.app/Nearby.png
+t1267423889
+s533
+
+N/Users/macmath22/Development/IPhone/My Apps/ATM Korea/build/Debug-iphonesimulator/ATM Korea.app/NearbyRootController.nib
+t1267423889
+s1229
+
+N/Users/macmath22/Development/IPhone/My Apps/ATM Korea/build/Debug-iphonesimulator/ATM Korea.app/NearbyTableViewCell.nib
+t1267423889
+s2922
+
+N/Users/macmath22/Development/IPhone/My Apps/ATM Korea/build/Debug-iphonesimulator/ATM Korea.app/PkgInfo
+t1267423888
+s8
+
+N/Users/macmath22/Development/IPhone/My Apps/ATM Korea/build/Debug-iphonesimulator/ATM Korea.app/Search.png
+t1267423889
+s519
+
+N/Users/macmath22/Development/IPhone/My Apps/ATM Korea/build/Debug-iphonesimulator/ATM Korea.app/SettingsController.nib
+t1267423889
+s2147
+
+N/Users/macmath22/Development/IPhone/My Apps/ATM Korea/build/Debug-iphonesimulator/ATM Korea.app/ko.lproj/Localizable.strings
+t1267423889
+s425
+
+N/Users/macmath22/Development/IPhone/My Apps/ATM Korea/build/Debug-iphonesimulator/ATM Korea.app/ko.lproj/MainWindow.nib
+t1267423888
+s3386
+
+N/Users/macmath22/Development/IPhone/My Apps/ATM Korea/ko.lproj/Localizable.strings
+c000000004B8B27440000000000000448
+t1267410756
+s1096
+
+N/Users/macmath22/Development/IPhone/My Apps/ATM Korea/ko.lproj/MainWindow.xib
+c000000004B8A5E000000000000007191
+t1267359232
+s29073
+
+N/Users/macmath22/Development/IPhone/My Apps/ATM Korea/main.m
+c000000004B89DA4C000000000000016C
+t1267325516
+s364
+i<UIKit/UIKit.h>
+
+N/var/folders/lR/lR4Jr+itHKycB0liBwNolE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/ATM_Korea_Prefix-bmtdzwqhwdsueydnfltarhxuejzj/ATM_Korea_Prefix.pch.gch
+t1267423890
+s13034960
+
+NATM_Korea-Info.plist
+c000000004B89DA4C000000000000038D
+t1267325516
+s909
+
+CCheck dependencies
+r0
+lSLF07#2@18"Check dependencies289116688#289116688#0(0"0(0#1#0"4300885448#0"0#
+
+CCompileC "build/ATM Korea.build/Debug-iphonesimulator/ATM Korea.build/Objects-normal/i386/ATM_KoreaAppDelegate.o" "/Users/macmath22/Development/IPhone/My Apps/ATM Korea/Classes/ATM_KoreaAppDelegate.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+s289116690.614898
+e289116690.751377
+r1
+xCompileC
+xbuild/ATM Korea.build/Debug-iphonesimulator/ATM Korea.build/Objects-normal/i386/ATM_KoreaAppDelegate.o
+x/Users/macmath22/Development/IPhone/My Apps/ATM Korea/Classes/ATM_KoreaAppDelegate.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@92"Compile /Users/macmath22/Development/IPhone/My Apps/ATM Korea/Classes/ATM_KoreaAppDelegate.m289116690#289116690#0(0"0(0#0#84"/Users/macmath22/Development/IPhone/My Apps/ATM Korea/Classes/ATM_KoreaAppDelegate.m4300885448#2126"    cd "/Users/macmath22/Development/IPhone/My Apps/ATM Korea"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30000 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.3.sdk -fvisibility=hidden -mmacosx-version-min=10.5 -gdwarf-2 -iquote "/Users/macmath22/Development/IPhone/My Apps/ATM Korea/build/ATM Korea.build/Debug-iphonesimulator/ATM Korea.build/ATM Korea-generated-files.hmap" "-I/Users/macmath22/Development/IPhone/My Apps/ATM Korea/build/ATM Korea.build/Debug-iphonesimulator/ATM Korea.build/ATM Korea-own-target-headers.hmap" "-I/Users/macmath22/Development/IPhone/My Apps/ATM Korea/build/ATM Korea.build/Debug-iphonesimulator/ATM Korea.build/ATM Korea-all-target-headers.hmap" -iquote "/Users/macmath22/Development/IPhone/My Apps/ATM Korea/build/ATM Korea.build/Debug-iphonesimulator/ATM Korea.build/ATM Korea-project-headers.hmap" "-F/Users/macmath22/Development/IPhone/My Apps/ATM Korea/build/Debug-iphonesimulator" "-I/Users/macmath22/Development/IPhone/My Apps/ATM Korea/build/Debug-iphonesimulator/include" "-I/Users/macmath22/Development/IPhone/My Apps/ATM Korea/build/ATM Korea.build/Debug-iphonesimulator/ATM Korea.build/DerivedSources/i386" "-I/Users/macmath22/Development/IPhone/My Apps/ATM Korea/build/ATM Korea.build/Debug-iphonesimulator/ATM Korea.build/DerivedSources" -include /var/folders/lR/lR4Jr+itHKycB0liBwNolE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/ATM_Korea_Prefix-bmtdzwqhwdsueydnfltarhxuejzj/ATM_Korea_Prefix.pch -c "/Users/macmath22/Development/IPhone/My Apps/ATM Korea/Classes/ATM_KoreaAppDelegate.m" -o "/Users/macmath22/Development/IPhone/My Apps/ATM Korea/build/ATM Korea.build/Debug-iphonesimulator/ATM Korea.build/Objects-normal/i386/ATM_KoreaAppDelegate.o"0#
+
+CCompileC "build/ATM Korea.build/Debug-iphonesimulator/ATM Korea.build/Objects-normal/i386/LocationManager.o" "/Users/macmath22/Development/IPhone/My Apps/ATM Korea/Classes/LocationManager.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+s289116690.901967
+e289116690.988674
+r0
+xCompileC
+xbuild/ATM Korea.build/Debug-iphonesimulator/ATM Korea.build/Objects-normal/i386/LocationManager.o
+x/Users/macmath22/Development/IPhone/My Apps/ATM Korea/Classes/LocationManager.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+o/Users/macmath22/Development/IPhone/My Apps/ATM Korea/Classes/LocationManager.m: In function '-[LocationManager locationManager:didUpdateToLocation:fromLocation:]':
+o/Users/macmath22/Development/IPhone/My Apps/ATM Korea/Classes/LocationManager.m:110: error: request for member 'longitude' in something not a structure or union
+o/Users/macmath22/Development/IPhone/My Apps/ATM Korea/Classes/LocationManager.m:110: error: request for member 'latitude' in something not a structure or union
+o{standard input}:518:non-relocatable subtraction expression, "L_OBJC_SELECTOR_REFERENCES_15" minus "L00000000005$pb"
+o{standard input}:518:symbol: "L_OBJC_SELECTOR_REFERENCES_15" can't be undefined in a subtraction expression
+o{standard input}:509:non-relocatable subtraction expression, "L_OBJC_SELECTOR_REFERENCES_15" minus "L00000000005$pb"
+o{standard input}:509:symbol: "L_OBJC_SELECTOR_REFERENCES_15" can't be undefined in a subtraction expression
+o{standard input}:493:non-relocatable subtraction expression, "L_OBJC_SELECTOR_REFERENCES_15" minus "L00000000005$pb"
+o{standard input}:493:symbol: "L_OBJC_SELECTOR_REFERENCES_15" can't be undefined in a subtraction expression
+o{standard input}:469:non-relocatable subtraction expression, "L_OBJC_SELECTOR_REFERENCES_14" minus "L00000000005$pb"
+o{standard input}:469:symbol: "L_OBJC_SELECTOR_REFERENCES_14" can't be undefined in a subtraction expression
+o{standard input}:410:non-relocatable subtraction expression, "L_OBJC_SELECTOR_REFERENCES_13" minus "L00000000004$pb"
+o{standard input}:410:symbol: "L_OBJC_SELECTOR_REFERENCES_13" can't be undefined in a subtraction expression
+o{standard input}:406:non-relocatable subtraction expression, "L_OBJC_CLASS_LocationManager" minus "L00000000004$pb"
+o{standard input}:406:symbol: "L_OBJC_CLASS_LocationManager" can't be undefined in a subtraction expression
+o{standard input}:398:non-relocatable subtraction expression, "L_OBJC_SELECTOR_REFERENCES_6" minus "L00000000004$pb"
+o{standard input}:398:symbol: "L_OBJC_SELECTOR_REFERENCES_6" can't be undefined in a subtraction expression
+o{standard input}:389:non-relocatable subtraction expression, "L_OBJC_SELECTOR_REFERENCES_6" minus "L00000000004$pb"
+o{standard input}:389:symbol: "L_OBJC_SELECTOR_REFERENCES_6" can't be undefined in a subtraction expression
+o{standard input}:380:non-relocatable subtraction expression, "L_OBJC_SELECTOR_REFERENCES_6" minus "L00000000004$pb"
+o{standard input}:380:symbol: "L_OBJC_SELECTOR_REFERENCES_6" can't be undefined in a subtraction expression
+o{standard input}:349:non-relocatable subtraction expression, "L_OBJC_SELECTOR_REFERENCES_8" minus "L00000000003$pb"
+o{standard input}:349:symbol: "L_OBJC_SELECTOR_REFERENCES_8" can't be undefined in a subtraction expression
+o{standard input}:340:non-relocatable subtraction expression, "L_OBJC_SELECTOR_REFERENCES_12" minus "L00000000003$pb"
+o{standard input}:340:symbol: "L_OBJC_SELECTOR_REFERENCES_12" can't be undefined in a subtraction expression
+o{standard input}:310:non-relocatable subtraction expression, "L_OBJC_SELECTOR_REFERENCES_11" minus "L00000000002$pb"
+o{standard input}:310:symbol: "L_OBJC_SELECTOR_REFERENCES_11" can't be undefined in a subtraction expression
+o{standard input}:272:non-relocatable subtraction expression, "L_OBJC_SELECTOR_REFERENCES_9" minus "L00000000001$pb"
+o{standard input}:272:symbol: "L_OBJC_SELECTOR_REFERENCES_9" can't be undefined in a subtraction expression
+o{standard input}:264:non-relocatable subtraction expression, "L_OBJC_SELECTOR_REFERENCES_8" minus "L00000000001$pb"
+o{standard input}:264:symbol: "L_OBJC_SELECTOR_REFERENCES_8" can't be undefined in a subtraction expression
+o{standard input}:253:non-relocatable subtraction expression, "L_OBJC_SELECTOR_REFERENCES_7" minus "L00000000001$pb"
+o{standard input}:253:symbol: "L_OBJC_SELECTOR_REFERENCES_7" can't be undefined in a subtraction expression
+o{standard input}:250:non-relocatable subtraction expression, "L_kCLLocationAccuracyKilometer$non_lazy_ptr" minus "L00000000001$pb"
+o{standard input}:250:symbol: "L_kCLLocationAccuracyKilometer$non_lazy_ptr" can't be undefined in a subtraction expression
+o{standard input}:236:non-relocatable subtraction expression, "L_OBJC_SELECTOR_REFERENCES_6" minus "L00000000001$pb"
+o{standard input}:236:symbol: "L_OBJC_SELECTOR_REFERENCES_6" can't be undefined in a subtraction expression
+o{standard input}:229:non-relocatable subtraction expression, "L_OBJC_SELECTOR_REFERENCES_5" minus "L00000000001$pb"
+o{standard input}:229:symbol: "L_OBJC_SELECTOR_REFERENCES_5" can't be undefined in a subtraction expression
+o{standard input}:213:non-relocatable subtraction expression, "L_OBJC_SELECTOR_REFERENCES_4" minus "L00000000001$pb"
+o{standard input}:213:symbol: "L_OBJC_SELECTOR_REFERENCES_4" can't be undefined in a subtraction expression
+o{standard input}:204:non-relocatable subtraction expression, "L_OBJC_SELECTOR_REFERENCES_3" minus "L00000000001$pb"
+o{standard input}:204:symbol: "L_OBJC_SELECTOR_REFERENCES_3" can't be undefined in a subtraction expression
+o{standard input}:196:non-relocatable subtraction expression, "L_OBJC_SELECTOR_REFERENCES_2" minus "L00000000001$pb"
+o{standard input}:196:symbol: "L_OBJC_SELECTOR_REFERENCES_2" can't be undefined in a subtraction expression
+o{standard input}:193:non-relocatable subtraction expression, "L_OBJC_CLASS_REFERENCES_2" minus "L00000000001$pb"
+o{standard input}:193:symbol: "L_OBJC_CLASS_REFERENCES_2" can't be undefined in a subtraction expression
+o{standard input}:184:non-relocatable subtraction expression, "L_OBJC_SELECTOR_REFERENCES_3" minus "L00000000001$pb"
+o{standard input}:184:symbol: "L_OBJC_SELECTOR_REFERENCES_3" can't be undefined in a subtraction expression
+o{standard input}:176:non-relocatable subtraction expression, "L_OBJC_SELECTOR_REFERENCES_2" minus "L00000000001$pb"
+o{standard input}:176:symbol: "L_OBJC_SELECTOR_REFERENCES_2" can't be undefined in a subtraction expression
+o{standard input}:173:non-relocatable subtraction expression, "L_OBJC_CLASS_REFERENCES_2" minus "L00000000001$pb"
+o{standard input}:173:symbol: "L_OBJC_CLASS_REFERENCES_2" can't be undefined in a subtraction expression
+o{standard input}:162:non-relocatable subtraction expression, "L_OBJC_SELECTOR_REFERENCES_3" minus "L00000000001$pb"
+o{standard input}:162:symbol: "L_OBJC_SELECTOR_REFERENCES_3" can't be undefined in a subtraction expression
+o{standard input}:154:non-relocatable subtraction expression, "L_OBJC_SELECTOR_REFERENCES_2" minus "L00000000001$pb"
+o{standard input}:154:symbol: "L_OBJC_SELECTOR_REFERENCES_2" can't be undefined in a subtraction expression
+o{standard input}:151:non-relocatable subtraction expression, "L_OBJC_CLASS_REFERENCES_2" minus "L00000000001$pb"
+o{standard input}:151:symbol: "L_OBJC_CLASS_REFERENCES_2" can't be undefined in a subtraction expression
+o{standard input}:145:non-relocatable subtraction expression, "L_OBJC_SELECTOR_REFERENCES_1" minus "L00000000001$pb"
+o{standard input}:145:symbol: "L_OBJC_SELECTOR_REFERENCES_1" can't be undefined in a subtraction expression
+o{standard input}:142:non-relocatable subtraction expression, "L_OBJC_CLASS_REFERENCES_1" minus "L00000000001$pb"
+o{standard input}:142:symbol: "L_OBJC_CLASS_REFERENCES_1" can't be undefined in a subtraction expression
+o{standard input}:133:non-relocatable subtraction expression, "L_OBJC_SELECTOR_REFERENCES_10" minus "L00000000001$pb"
+o{standard input}:133:symbol: "L_OBJC_SELECTOR_REFERENCES_10" can't be undefined in a subtraction expression
+o{standard input}:121:non-relocatable subtraction expression, "L_OBJC_SELECTOR_REFERENCES_0" minus "L00000000001$pb"
+o{standard input}:121:symbol: "L_OBJC_SELECTOR_REFERENCES_0" can't be undefined in a subtraction expression
+o{standard input}:115:non-relocatable subtraction expression, "L_OBJC_SELECTOR_REFERENCES_1" minus "L00000000001$pb"
+o{standard input}:115:symbol: "L_OBJC_SELECTOR_REFERENCES_1" can't be undefined in a subtraction expression
+o{standard input}:112:non-relocatable subtraction expression, "L_OBJC_CLASS_REFERENCES_0" minus "L00000000001$pb"
+o{standard input}:112:symbol: "L_OBJC_CLASS_REFERENCES_0" can't be undefined in a subtraction expression
+o{standard input}:102:non-relocatable subtraction expression, "L_OBJC_SELECTOR_REFERENCES_0" minus "L00000000001$pb"
+o{standard input}:102:symbol: "L_OBJC_SELECTOR_REFERENCES_0" can't be undefined in a subtraction expression
+o{standard input}:98:non-relocatable subtraction expression, "L_OBJC_CLASS_LocationManager" minus "L00000000001$pb"
+o{standard input}:98:symbol: "L_OBJC_CLASS_LocationManager" can't be undefined in a subtraction expression
+o{standard input}:unknown:Undefined local symbol L_OBJC_CLASS_LocationManager
+o{standard input}:unknown:Undefined local symbol L_OBJC_SELECTOR_REFERENCES_0
+o{standard input}:unknown:Undefined local symbol L_OBJC_CLASS_REFERENCES_0
+o{standard input}:unknown:Undefined local symbol L_OBJC_SELECTOR_REFERENCES_1
+o{standard input}:unknown:Undefined local symbol L_OBJC_SELECTOR_REFERENCES_10
+o{standard input}:unknown:Undefined local symbol L_OBJC_CLASS_REFERENCES_1
+o{standard input}:unknown:Undefined local symbol L_OBJC_CLASS_REFERENCES_2
+o{standard input}:unknown:Undefined local symbol L_OBJC_SELECTOR_REFERENCES_2
+o{standard input}:unknown:Undefined local symbol L_OBJC_SELECTOR_REFERENCES_3
+o{standard input}:unknown:Undefined local symbol L_OBJC_SELECTOR_REFERENCES_4
+o{standard input}:unknown:Undefined local symbol L_OBJC_SELECTOR_REFERENCES_5
+o{standard input}:unknown:Undefined local symbol L_OBJC_SELECTOR_REFERENCES_6
+o{standard input}:unknown:Undefined local symbol L_kCLLocationAccuracyKilometer$non_lazy_ptr
+o{standard input}:unknown:Undefined local symbol L_OBJC_SELECTOR_REFERENCES_7
+o{standard input}:unknown:Undefined local symbol L_OBJC_SELECTOR_REFERENCES_8
+o{standard input}:unknown:Undefined local symbol L_OBJC_SELECTOR_REFERENCES_9
+o{standard input}:unknown:Undefined local symbol L_OBJC_SELECTOR_REFERENCES_11
+o{standard input}:unknown:Undefined local symbol L_OBJC_SELECTOR_REFERENCES_12
+o{standard input}:unknown:Undefined local symbol L_OBJC_SELECTOR_REFERENCES_13
+o{standard input}:unknown:Undefined local symbol L_OBJC_SELECTOR_REFERENCES_14
+o{standard input}:unknown:Undefined local symbol L_OBJC_SELECTOR_REFERENCES_15
+lSLF07#2@87"Compile /Users/macmath22/Development/IPhone/My Apps/ATM Korea/Classes/LocationManager.m289116690#289116690#0(10157"/Users/macmath22/Development/IPhone/My Apps/ATM Korea/Classes/LocationManager.m: In function '-[LocationManager locationManager:didUpdateToLocation:fromLocation:]':/Users/macmath22/Development/IPhone/My Apps/ATM Korea/Classes/LocationManager.m:110: error: request for member 'longitude' in something not a structure or union/Users/macmath22/Development/IPhone/My Apps/ATM Korea/Classes/LocationManager.m:110: error: request for member 'latitude' in something not a structure or union{standard input}:518:non-relocatable subtraction expression, "L_OBJC_SELECTOR_REFERENCES_15" minus "L00000000005$pb"{standard input}:518:symbol: "L_OBJC_SELECTOR_REFERENCES_15" can't be undefined in a subtraction expression{standard input}:509:non-relocatable subtraction expression, "L_OBJC_SELECTOR_REFERENCES_15" minus "L00000000005$pb"{standard input}:509:symbol: "L_OBJC_SELECTOR_REFERENCES_15" can't be undefined in a subtraction expression{standard input}:493:non-relocatable subtraction expression, "L_OBJC_SELECTOR_REFERENCES_15" minus "L00000000005$pb"{standard input}:493:symbol: "L_OBJC_SELECTOR_REFERENCES_15" can't be undefined in a subtraction expression{standard input}:469:non-relocatable subtraction expression, "L_OBJC_SELECTOR_REFERENCES_14" minus "L00000000005$pb"{standard input}:469:symbol: "L_OBJC_SELECTOR_REFERENCES_14" can't be undefined in a subtraction expression{standard input}:410:non-relocatable subtraction expression, "L_OBJC_SELECTOR_REFERENCES_13" minus "L00000000004$pb"{standard input}:410:symbol: "L_OBJC_SELECTOR_REFERENCES_13" can't be undefined in a subtraction expression{standard input}:406:non-relocatable subtraction expression, "L_OBJC_CLASS_LocationManager" minus "L00000000004$pb"{standard input}:406:symbol: "L_OBJC_CLASS_LocationManager" can't be undefined in a subtraction expression{standard input}:398:non-relocatable subtraction expression, "L_OBJC_SELECTOR_REFERENCES_6" minus "L00000000004$pb"{standard input}:398:symbol: "L_OBJC_SELECTOR_REFERENCES_6" can't be undefined in a subtraction expression{standard input}:389:non-relocatable subtraction expression, "L_OBJC_SELECTOR_REFERENCES_6" minus "L00000000004$pb"{standard input}:389:symbol: "L_OBJC_SELECTOR_REFERENCES_6" can't be undefined in a subtraction expression{standard input}:380:non-relocatable subtraction expression, "L_OBJC_SELECTOR_REFERENCES_6" minus "L00000000004$pb"{standard input}:380:symbol: "L_OBJC_SELECTOR_REFERENCES_6" can't be undefined in a subtraction expression{standard input}:349:non-relocatable subtraction expression, "L_OBJC_SELECTOR_REFERENCES_8" minus "L00000000003$pb"{standard input}:349:symbol: "L_OBJC_SELECTOR_REFERENCES_8" can't be undefined in a subtraction expression{standard input}:340:non-relocatable subtraction expression, "L_OBJC_SELECTOR_REFERENCES_12" minus "L00000000003$pb"{standard input}:340:symbol: "L_OBJC_SELECTOR_REFERENCES_12" can't be undefined in a subtraction expression{standard input}:310:non-relocatable subtraction expression, "L_OBJC_SELECTOR_REFERENCES_11" minus "L00000000002$pb"{standard input}:310:symbol: "L_OBJC_SELECTOR_REFERENCES_11" can't be undefined in a subtraction expression{standard input}:272:non-relocatable subtraction expression, "L_OBJC_SELECTOR_REFERENCES_9" minus "L00000000001$pb"{standard input}:272:symbol: "L_OBJC_SELECTOR_REFERENCES_9" can't be undefined in a subtraction expression{standard input}:264:non-relocatable subtraction expression, "L_OBJC_SELECTOR_REFERENCES_8" minus "L00000000001$pb"{standard input}:264:symbol: "L_OBJC_SELECTOR_REFERENCES_8" can't be undefined in a subtraction expression{standard input}:253:non-relocatable subtraction expression, "L_OBJC_SELECTOR_REFERENCES_7" minus "L00000000001$pb"{standard input}:253:symbol: "L_OBJC_SELECTOR_REFERENCES_7" can't be undefined in a subtraction expression{standard input}:250:non-relocatable subtraction expression, "L_kCLLocationAccuracyKilometer$non_lazy_ptr" minus "L00000000001$pb"{standard input}:250:symbol: "L_kCLLocationAccuracyKilometer$non_lazy_ptr" can't be undefined in a subtraction expression{standard input}:236:non-relocatable subtraction expression, "L_OBJC_SELECTOR_REFERENCES_6" minus "L00000000001$pb"{standard input}:236:symbol: "L_OBJC_SELECTOR_REFERENCES_6" can't be undefined in a subtraction expression{standard input}:229:non-relocatable subtraction expression, "L_OBJC_SELECTOR_REFERENCES_5" minus "L00000000001$pb"{standard input}:229:symbol: "L_OBJC_SELECTOR_REFERENCES_5" can't be undefined in a subtraction expression{standard input}:213:non-relocatable subtraction expression, "L_OBJC_SELECTOR_REFERENCES_4" minus "L00000000001$pb"{standard input}:213:symbol: "L_OBJC_SELECTOR_REFERENCES_4" can't be undefined in a subtraction expression{standard input}:204:non-relocatable subtraction expression, "L_OBJC_SELECTOR_REFERENCES_3" minus "L00000000001$pb"{standard input}:204:symbol: "L_OBJC_SELECTOR_REFERENCES_3" can't be undefined in a subtraction expression{standard input}:196:non-relocatable subtraction expression, "L_OBJC_SELECTOR_REFERENCES_2" minus "L00000000001$pb"{standard input}:196:symbol: "L_OBJC_SELECTOR_REFERENCES_2" can't be undefined in a subtraction expression{standard input}:193:non-relocatable subtraction expression, "L_OBJC_CLASS_REFERENCES_2" minus "L00000000001$pb"{standard input}:193:symbol: "L_OBJC_CLASS_REFERENCES_2" can't be undefined in a subtraction expression{standard input}:184:non-relocatable subtraction expression, "L_OBJC_SELECTOR_REFERENCES_3" minus "L00000000001$pb"{standard input}:184:symbol: "L_OBJC_SELECTOR_REFERENCES_3" can't be undefined in a subtraction expression{standard input}:176:non-relocatable subtraction expression, "L_OBJC_SELECTOR_REFERENCES_2" minus "L00000000001$pb"{standard input}:176:symbol: "L_OBJC_SELECTOR_REFERENCES_2" can't be undefined in a subtraction expression{standard input}:173:non-relocatable subtraction expression, "L_OBJC_CLASS_REFERENCES_2" minus "L00000000001$pb"{standard input}:173:symbol: "L_OBJC_CLASS_REFERENCES_2" can't be undefined in a subtraction expression{standard input}:162:non-relocatable subtraction expression, "L_OBJC_SELECTOR_REFERENCES_3" minus "L00000000001$pb"{standard input}:162:symbol: "L_OBJC_SELECTOR_REFERENCES_3" can't be undefined in a subtraction expression{standard input}:154:non-relocatable subtraction expression, "L_OBJC_SELECTOR_REFERENCES_2" minus "L00000000001$pb"{standard input}:154:symbol: "L_OBJC_SELECTOR_REFERENCES_2" can't be undefined in a subtraction expression{standard input}:151:non-relocatable subtraction expression, "L_OBJC_CLASS_REFERENCES_2" minus "L00000000001$pb"{standard input}:151:symbol: "L_OBJC_CLASS_REFERENCES_2" can't be undefined in a subtraction expression{standard input}:145:non-relocatable subtraction expression, "L_OBJC_SELECTOR_REFERENCES_1" minus "L00000000001$pb"{standard input}:145:symbol: "L_OBJC_SELECTOR_REFERENCES_1" can't be undefined in a subtraction expression{standard input}:142:non-relocatable subtraction expression, "L_OBJC_CLASS_REFERENCES_1" minus "L00000000001$pb"{standard input}:142:symbol: "L_OBJC_CLASS_REFERENCES_1" can't be undefined in a subtraction expression{standard input}:133:non-relocatable subtraction expression, "L_OBJC_SELECTOR_REFERENCES_10" minus "L00000000001$pb"{standard input}:133:symbol: "L_OBJC_SELECTOR_REFERENCES_10" can't be undefined in a subtraction expression{standard input}:121:non-relocatable subtraction expression, "L_OBJC_SELECTOR_REFERENCES_0" minus "L00000000001$pb"{standard input}:121:symbol: "L_OBJC_SELECTOR_REFERENCES_0" can't be undefined in a subtraction expression{standard input}:115:non-relocatable subtraction expression, "L_OBJC_SELECTOR_REFERENCES_1" minus "L00000000001$pb"{standard input}:115:symbol: "L_OBJC_SELECTOR_REFERENCES_1" can't be undefined in a subtraction expression{standard input}:112:non-relocatable subtraction expression, "L_OBJC_CLASS_REFERENCES_0" minus "L00000000001$pb"{standard input}:112:symbol: "L_OBJC_CLASS_REFERENCES_0" can't be undefined in a subtraction expression{standard input}:102:non-relocatable subtraction expression, "L_OBJC_SELECTOR_REFERENCES_0" minus "L00000000001$pb"{standard input}:102:symbol: "L_OBJC_SELECTOR_REFERENCES_0" can't be undefined in a subtraction expression{standard input}:98:non-relocatable subtraction expression, "L_OBJC_CLASS_LocationManager" minus "L00000000001$pb"{standard input}:98:symbol: "L_OBJC_CLASS_LocationManager" can't be undefined in a subtraction expression{standard input}:unknown:Undefined local symbol L_OBJC_CLASS_LocationManager{standard input}:unknown:Undefined local symbol L_OBJC_SELECTOR_REFERENCES_0{standard input}:unknown:Undefined local symbol L_OBJC_CLASS_REFERENCES_0{standard input}:unknown:Undefined local symbol L_OBJC_SELECTOR_REFERENCES_1{standard input}:unknown:Undefined local symbol L_OBJC_SELECTOR_REFERENCES_10{standard input}:unknown:Undefined local symbol L_OBJC_CLASS_REFERENCES_1{standard input}:unknown:Undefined local symbol L_OBJC_CLASS_REFERENCES_2{standard input}:unknown:Undefined local symbol L_OBJC_SELECTOR_REFERENCES_2{standard input}:unknown:Undefined local symbol L_OBJC_SELECTOR_REFERENCES_3{standard input}:unknown:Undefined local symbol L_OBJC_SELECTOR_REFERENCES_4{standard input}:unknown:Undefined local symbol L_OBJC_SELECTOR_REFERENCES_5{standard input}:unknown:Undefined local symbol L_OBJC_SELECTOR_REFERENCES_6{standard input}:unknown:Undefined local symbol L_kCLLocationAccuracyKilometer$non_lazy_ptr{standard input}:unknown:Undefined local symbol L_OBJC_SELECTOR_REFERENCES_7{standard input}:unknown:Undefined local symbol L_OBJC_SELECTOR_REFERENCES_8{standard input}:unknown:Undefined local symbol L_OBJC_SELECTOR_REFERENCES_9{standard input}:unknown:Undefined local symbol L_OBJC_SELECTOR_REFERENCES_11{standard input}:unknown:Undefined local symbol L_OBJC_SELECTOR_REFERENCES_12{standard input}:unknown:Undefined local symbol L_OBJC_SELECTOR_REFERENCES_13{standard input}:unknown:Undefined local symbol L_OBJC_SELECTOR_REFERENCES_14{standard input}:unknown:Undefined local symbol L_OBJC_SELECTOR_REFERENCES_152(4@68"Request for member 'longitude' in something not a structure or union289116690#165#161#0(6@79"/Users/macmath22/Development/IPhone/My Apps/ATM Korea/Classes/LocationManager.m289116687#110#0#110#0#0"0(4@67"Request for member 'latitude' in something not a structure or union289116690#326#160#0(6@79"/Users/macmath22/Development/IPhone/My Apps/ATM Korea/Classes/LocationManager.m289116687#110#0#110#0#0"0(0#0#79"/Users/macmath22/Development/IPhone/My Apps/ATM Korea/Classes/LocationManager.m4300885448#2116"    cd "/Users/macmath22/Development/IPhone/My Apps/ATM Korea"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30000 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.3.sdk -fvisibility=hidden -mmacosx-version-min=10.5 -gdwarf-2 -iquote "/Users/macmath22/Development/IPhone/My Apps/ATM Korea/build/ATM Korea.build/Debug-iphonesimulator/ATM Korea.build/ATM Korea-generated-files.hmap" "-I/Users/macmath22/Development/IPhone/My Apps/ATM Korea/build/ATM Korea.build/Debug-iphonesimulator/ATM Korea.build/ATM Korea-own-target-headers.hmap" "-I/Users/macmath22/Development/IPhone/My Apps/ATM Korea/build/ATM Korea.build/Debug-iphonesimulator/ATM Korea.build/ATM Korea-all-target-headers.hmap" -iquote "/Users/macmath22/Development/IPhone/My Apps/ATM Korea/build/ATM Korea.build/Debug-iphonesimulator/ATM Korea.build/ATM Korea-project-headers.hmap" "-F/Users/macmath22/Development/IPhone/My Apps/ATM Korea/build/Debug-iphonesimulator" "-I/Users/macmath22/Development/IPhone/My Apps/ATM Korea/build/Debug-iphonesimulator/include" "-I/Users/macmath22/Development/IPhone/My Apps/ATM Korea/build/ATM Korea.build/Debug-iphonesimulator/ATM Korea.build/DerivedSources/i386" "-I/Users/macmath22/Development/IPhone/My Apps/ATM Korea/build/ATM Korea.build/Debug-iphonesimulator/ATM Korea.build/DerivedSources" -include /var/folders/lR/lR4Jr+itHKycB0liBwNolE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/ATM_Korea_Prefix-bmtdzwqhwdsueydnfltarhxuejzj/ATM_Korea_Prefix.pch -c "/Users/macmath22/Development/IPhone/My Apps/ATM Korea/Classes/LocationManager.m" -o "/Users/macmath22/Development/IPhone/My Apps/ATM Korea/build/ATM Korea.build/Debug-iphonesimulator/ATM Korea.build/Objects-normal/i386/LocationManager.o"1#
+
+CCompileC "build/ATM Korea.build/Debug-iphonesimulator/ATM Korea.build/Objects-normal/i386/NearbyRootController.o" "/Users/macmath22/Development/IPhone/My Apps/ATM Korea/Classes/NearbyRootController.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+s289116690.738019
+e289116690.901842
+r1
+xCompileC
+xbuild/ATM Korea.build/Debug-iphonesimulator/ATM Korea.build/Objects-normal/i386/NearbyRootController.o
+x/Users/macmath22/Development/IPhone/My Apps/ATM Korea/Classes/NearbyRootController.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+o/Users/macmath22/Development/IPhone/My Apps/ATM Korea/Classes/NearbyRootController.m: In function '-[NearbyRootController locationManager:didSuccessfullyFinishWithCLLocation:AndAddress:]':
+o/Users/macmath22/Development/IPhone/My Apps/ATM Korea/Classes/NearbyRootController.m:281: warning: format not a string literal and no format arguments
+lSLF07#2@92"Compile /Users/macmath22/Development/IPhone/My Apps/ATM Korea/Classes/NearbyRootController.m289116690#289116690#0(340"/Users/macmath22/Development/IPhone/My Apps/ATM Korea/Classes/NearbyRootController.m: In function '-[NearbyRootController locationManager:didSuccessfullyFinishWithCLLocation:AndAddress:]':/Users/macmath22/Development/IPhone/My Apps/ATM Korea/Classes/NearbyRootController.m:281: warning: format not a string literal and no format arguments1(22@51"Format not a string literal and no format arguments289116690#189#151#0(6@84"/Users/macmath22/Development/IPhone/My Apps/ATM Korea/Classes/NearbyRootController.m289116424#281#0#281#0#51"format not a string literal and no format arguments0(0#0#84"/Users/macmath22/Development/IPhone/My Apps/ATM Korea/Classes/NearbyRootController.m4300885448#2126"    cd "/Users/macmath22/Development/IPhone/My Apps/ATM Korea"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30000 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.3.sdk -fvisibility=hidden -mmacosx-version-min=10.5 -gdwarf-2 -iquote "/Users/macmath22/Development/IPhone/My Apps/ATM Korea/build/ATM Korea.build/Debug-iphonesimulator/ATM Korea.build/ATM Korea-generated-files.hmap" "-I/Users/macmath22/Development/IPhone/My Apps/ATM Korea/build/ATM Korea.build/Debug-iphonesimulator/ATM Korea.build/ATM Korea-own-target-headers.hmap" "-I/Users/macmath22/Development/IPhone/My Apps/ATM Korea/build/ATM Korea.build/Debug-iphonesimulator/ATM Korea.build/ATM Korea-all-target-headers.hmap" -iquote "/Users/macmath22/Development/IPhone/My Apps/ATM Korea/build/ATM Korea.build/Debug-iphonesimulator/ATM Korea.build/ATM Korea-project-headers.hmap" "-F/Users/macmath22/Development/IPhone/My Apps/ATM Korea/build/Debug-iphonesimulator" "-I/Users/macmath22/Development/IPhone/My Apps/ATM Korea/build/Debug-iphonesimulator/include" "-I/Users/macmath22/Development/IPhone/My Apps/ATM Korea/build/ATM Korea.build/Debug-iphonesimulator/ATM Korea.build/DerivedSources/i386" "-I/Users/macmath22/Development/IPhone/My Apps/ATM Korea/build/ATM Korea.build/Debug-iphonesimulator/ATM Korea.build/DerivedSources" -include /var/folders/lR/lR4Jr+itHKycB0liBwNolE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/ATM_Korea_Prefix-bmtdzwqhwdsueydnfltarhxuejzj/ATM_Korea_Prefix.pch -c "/Users/macmath22/Development/IPhone/My Apps/ATM Korea/Classes/NearbyRootController.m" -o "/Users/macmath22/Development/IPhone/My Apps/ATM Korea/build/ATM Korea.build/Debug-iphonesimulator/ATM Korea.build/Objects-normal/i386/NearbyRootController.o"0#
+
+CCompileC "build/ATM Korea.build/Debug-iphonesimulator/ATM Korea.build/Objects-normal/i386/Settings.o" "/Users/macmath22/Development/IPhone/My Apps/ATM Korea/Classes/Settings.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+s289116690.751498
+e289116690.803137
+r1
+xCompileC
+xbuild/ATM Korea.build/Debug-iphonesimulator/ATM Korea.build/Objects-normal/i386/Settings.o
+x/Users/macmath22/Development/IPhone/My Apps/ATM Korea/Classes/Settings.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@80"Compile /Users/macmath22/Development/IPhone/My Apps/ATM Korea/Classes/Settings.m289116690#289116690#0(0"0(0#0#72"/Users/macmath22/Development/IPhone/My Apps/ATM Korea/Classes/Settings.m4300885448#2102"    cd "/Users/macmath22/Development/IPhone/My Apps/ATM Korea"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30000 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.3.sdk -fvisibility=hidden -mmacosx-version-min=10.5 -gdwarf-2 -iquote "/Users/macmath22/Development/IPhone/My Apps/ATM Korea/build/ATM Korea.build/Debug-iphonesimulator/ATM Korea.build/ATM Korea-generated-files.hmap" "-I/Users/macmath22/Development/IPhone/My Apps/ATM Korea/build/ATM Korea.build/Debug-iphonesimulator/ATM Korea.build/ATM Korea-own-target-headers.hmap" "-I/Users/macmath22/Development/IPhone/My Apps/ATM Korea/build/ATM Korea.build/Debug-iphonesimulator/ATM Korea.build/ATM Korea-all-target-headers.hmap" -iquote "/Users/macmath22/Development/IPhone/My Apps/ATM Korea/build/ATM Korea.build/Debug-iphonesimulator/ATM Korea.build/ATM Korea-project-headers.hmap" "-F/Users/macmath22/Development/IPhone/My Apps/ATM Korea/build/Debug-iphonesimulator" "-I/Users/macmath22/Development/IPhone/My Apps/ATM Korea/build/Debug-iphonesimulator/include" "-I/Users/macmath22/Development/IPhone/My Apps/ATM Korea/build/ATM Korea.build/Debug-iphonesimulator/ATM Korea.build/DerivedSources/i386" "-I/Users/macmath22/Development/IPhone/My Apps/ATM Korea/build/ATM Korea.build/Debug-iphonesimulator/ATM Korea.build/DerivedSources" -include /var/folders/lR/lR4Jr+itHKycB0liBwNolE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/ATM_Korea_Prefix-bmtdzwqhwdsueydnfltarhxuejzj/ATM_Korea_Prefix.pch -c "/Users/macmath22/Development/IPhone/My Apps/ATM Korea/Classes/Settings.m" -o "/Users/macmath22/Development/IPhone/My Apps/ATM Korea/build/ATM Korea.build/Debug-iphonesimulator/ATM Korea.build/Objects-normal/i386/Settings.o"0#
+
+CCompileC "build/ATM Korea.build/Debug-iphonesimulator/ATM Korea.build/Objects-normal/i386/SettingsController.o" "/Users/macmath22/Development/IPhone/My Apps/ATM Korea/Classes/SettingsController.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+s289116690.803261
+e289116690.974783
+r1
+xCompileC
+xbuild/ATM Korea.build/Debug-iphonesimulator/ATM Korea.build/Objects-normal/i386/SettingsController.o
+x/Users/macmath22/Development/IPhone/My Apps/ATM Korea/Classes/SettingsController.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@90"Compile /Users/macmath22/Development/IPhone/My Apps/ATM Korea/Classes/SettingsController.m289116690#289116690#0(0"0(0#0#82"/Users/macmath22/Development/IPhone/My Apps/ATM Korea/Classes/SettingsController.m4300885448#2122"    cd "/Users/macmath22/Development/IPhone/My Apps/ATM Korea"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30000 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.3.sdk -fvisibility=hidden -mmacosx-version-min=10.5 -gdwarf-2 -iquote "/Users/macmath22/Development/IPhone/My Apps/ATM Korea/build/ATM Korea.build/Debug-iphonesimulator/ATM Korea.build/ATM Korea-generated-files.hmap" "-I/Users/macmath22/Development/IPhone/My Apps/ATM Korea/build/ATM Korea.build/Debug-iphonesimulator/ATM Korea.build/ATM Korea-own-target-headers.hmap" "-I/Users/macmath22/Development/IPhone/My Apps/ATM Korea/build/ATM Korea.build/Debug-iphonesimulator/ATM Korea.build/ATM Korea-all-target-headers.hmap" -iquote "/Users/macmath22/Development/IPhone/My Apps/ATM Korea/build/ATM Korea.build/Debug-iphonesimulator/ATM Korea.build/ATM Korea-project-headers.hmap" "-F/Users/macmath22/Development/IPhone/My Apps/ATM Korea/build/Debug-iphonesimulator" "-I/Users/macmath22/Development/IPhone/My Apps/ATM Korea/build/Debug-iphonesimulator/include" "-I/Users/macmath22/Development/IPhone/My Apps/ATM Korea/build/ATM Korea.build/Debug-iphonesimulator/ATM Korea.build/DerivedSources/i386" "-I/Users/macmath22/Development/IPhone/My Apps/ATM Korea/build/ATM Korea.build/Debug-iphonesimulator/ATM Korea.build/DerivedSources" -include /var/folders/lR/lR4Jr+itHKycB0liBwNolE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/ATM_Korea_Prefix-bmtdzwqhwdsueydnfltarhxuejzj/ATM_Korea_Prefix.pch -c "/Users/macmath22/Development/IPhone/My Apps/ATM Korea/Classes/SettingsController.m" -o "/Users/macmath22/Development/IPhone/My Apps/ATM Korea/build/ATM Korea.build/Debug-iphonesimulator/ATM Korea.build/Objects-normal/i386/SettingsController.o"0#
+
+CCompileC "build/ATM Korea.build/Debug-iphonesimulator/ATM Korea.build/Objects-normal/i386/main.o" "/Users/macmath22/Development/IPhone/My Apps/ATM Korea/main.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+s289116690.613626
+e289116690.737759
+r1
+xCompileC
+xbuild/ATM Korea.build/Debug-iphonesimulator/ATM Korea.build/Objects-normal/i386/main.o
+x/Users/macmath22/Development/IPhone/My Apps/ATM Korea/main.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@68"Compile /Users/macmath22/Development/IPhone/My Apps/ATM Korea/main.m289116690#289116690#0(0"0(0#0#60"/Users/macmath22/Development/IPhone/My Apps/ATM Korea/main.m4300885448#2086"    cd "/Users/macmath22/Development/IPhone/My Apps/ATM Korea"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30000 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.3.sdk -fvisibility=hidden -mmacosx-version-min=10.5 -gdwarf-2 -iquote "/Users/macmath22/Development/IPhone/My Apps/ATM Korea/build/ATM Korea.build/Debug-iphonesimulator/ATM Korea.build/ATM Korea-generated-files.hmap" "-I/Users/macmath22/Development/IPhone/My Apps/ATM Korea/build/ATM Korea.build/Debug-iphonesimulator/ATM Korea.build/ATM Korea-own-target-headers.hmap" "-I/Users/macmath22/Development/IPhone/My Apps/ATM Korea/build/ATM Korea.build/Debug-iphonesimulator/ATM Korea.build/ATM Korea-all-target-headers.hmap" -iquote "/Users/macmath22/Development/IPhone/My Apps/ATM Korea/build/ATM Korea.build/Debug-iphonesimulator/ATM Korea.build/ATM Korea-project-headers.hmap" "-F/Users/macmath22/Development/IPhone/My Apps/ATM Korea/build/Debug-iphonesimulator" "-I/Users/macmath22/Development/IPhone/My Apps/ATM Korea/build/Debug-iphonesimulator/include" "-I/Users/macmath22/Development/IPhone/My Apps/ATM Korea/build/ATM Korea.build/Debug-iphonesimulator/ATM Korea.build/DerivedSources/i386" "-I/Users/macmath22/Development/IPhone/My Apps/ATM Korea/build/ATM Korea.build/Debug-iphonesimulator/ATM Korea.build/DerivedSources" -include /var/folders/lR/lR4Jr+itHKycB0liBwNolE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/ATM_Korea_Prefix-bmtdzwqhwdsueydnfltarhxuejzj/ATM_Korea_Prefix.pch -c "/Users/macmath22/Development/IPhone/My Apps/ATM Korea/main.m" -o "/Users/macmath22/Development/IPhone/My Apps/ATM Korea/build/ATM Korea.build/Debug-iphonesimulator/ATM Korea.build/Objects-normal/i386/main.o"0#
+
+CCompileXIB "/Users/macmath22/Development/IPhone/My Apps/ATM Korea/Classes/NearbyRootController.xib"
+s289116688.885600
+e289116689.211356
+r1
+xCompileXIB
+x/Users/macmath22/Development/IPhone/My Apps/ATM Korea/Classes/NearbyRootController.xib
+lSLF07#2@43"CompileXIB Classes/NearbyRootController.xib289116688#289116689#0(0"0(0#0#86"/Users/macmath22/Development/IPhone/My Apps/ATM Korea/Classes/NearbyRootController.xib4300885448#563"    cd "/Users/macmath22/Development/IPhone/My Apps/ATM Korea"    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 3.1.3    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile "/Users/macmath22/Development/IPhone/My Apps/ATM Korea/build/Debug-iphonesimulator/ATM Korea.app/NearbyRootController.nib" "/Users/macmath22/Development/IPhone/My Apps/ATM Korea/Classes/NearbyRootController.xib"0#
+
+CCompileXIB "/Users/macmath22/Development/IPhone/My Apps/ATM Korea/English.lproj/MainWindow.xib"
+s289116688.486896
+e289116688.885487
+r1
+xCompileXIB
+x/Users/macmath22/Development/IPhone/My Apps/ATM Korea/English.lproj/MainWindow.xib
+oCouldn't open shared capabilities memory GSCapabilities (No such file or directory)
+lSLF07#2@39"CompileXIB English.lproj/MainWindow.xib289116688#289116688#0(84"Couldn't open shared capabilities memory GSCapabilities (No such file or directory)0(0#0#82"/Users/macmath22/Development/IPhone/My Apps/ATM Korea/English.lproj/MainWindow.xib4300885448#563"    cd "/Users/macmath22/Development/IPhone/My Apps/ATM Korea"    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 3.1.3    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile "/Users/macmath22/Development/IPhone/My Apps/ATM Korea/build/Debug-iphonesimulator/ATM Korea.app/English.lproj/MainWindow.nib" "/Users/macmath22/Development/IPhone/My Apps/ATM Korea/English.lproj/MainWindow.xib"0#
+
+CCompileXIB "/Users/macmath22/Development/IPhone/My Apps/ATM Korea/NearbyTableViewCell.xib"
+s289116688.962686
+e289116689.428801
+r1
+xCompileXIB
+x/Users/macmath22/Development/IPhone/My Apps/ATM Korea/NearbyTableViewCell.xib
+lSLF07#2@34"CompileXIB NearbyTableViewCell.xib289116688#289116689#0(0"0(0#0#77"/Users/macmath22/Development/IPhone/My Apps/ATM Korea/NearbyTableViewCell.xib4300885448#553"    cd "/Users/macmath22/Development/IPhone/My Apps/ATM Korea"    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 3.1.3    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile "/Users/macmath22/Development/IPhone/My Apps/ATM Korea/build/Debug-iphonesimulator/ATM Korea.app/NearbyTableViewCell.nib" "/Users/macmath22/Development/IPhone/My Apps/ATM Korea/NearbyTableViewCell.xib"0#
+
+CCompileXIB "/Users/macmath22/Development/IPhone/My Apps/ATM Korea/SettingsController.xib"
+s289116689.215769
+e289116689.649817
+r1
+xCompileXIB
+x/Users/macmath22/Development/IPhone/My Apps/ATM Korea/SettingsController.xib
+lSLF07#2@33"CompileXIB SettingsController.xib289116689#289116689#0(0"0(0#0#76"/Users/macmath22/Development/IPhone/My Apps/ATM Korea/SettingsController.xib4300885448#551"    cd "/Users/macmath22/Development/IPhone/My Apps/ATM Korea"    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 3.1.3    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile "/Users/macmath22/Development/IPhone/My Apps/ATM Korea/build/Debug-iphonesimulator/ATM Korea.app/SettingsController.nib" "/Users/macmath22/Development/IPhone/My Apps/ATM Korea/SettingsController.xib"0#
+
+CCompileXIB "/Users/macmath22/Development/IPhone/My Apps/ATM Korea/ko.lproj/MainWindow.xib"
+s289116688.487756
+e289116688.962502
+r1
+xCompileXIB
+x/Users/macmath22/Development/IPhone/My Apps/ATM Korea/ko.lproj/MainWindow.xib
+oCouldn't open shared capabilities memory GSCapabilities (No such file or directory)
+lSLF07#2@34"CompileXIB ko.lproj/MainWindow.xib289116688#289116688#0(84"Couldn't open shared capabilities memory GSCapabilities (No such file or directory)0(0#0#77"/Users/macmath22/Development/IPhone/My Apps/ATM Korea/ko.lproj/MainWindow.xib4300885448#553"    cd "/Users/macmath22/Development/IPhone/My Apps/ATM Korea"    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 3.1.3    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile "/Users/macmath22/Development/IPhone/My Apps/ATM Korea/build/Debug-iphonesimulator/ATM Korea.app/ko.lproj/MainWindow.nib" "/Users/macmath22/Development/IPhone/My Apps/ATM Korea/ko.lproj/MainWindow.xib"0#
+
+CCopyStringsFile "/Users/macmath22/Development/IPhone/My Apps/ATM Korea/build/Debug-iphonesimulator/ATM Korea.app/English.lproj/Localizable.strings" English.lproj/Localizable.strings
+s289116689.442228
+e289116689.707707
+r1
+xCopyStringsFile
+x/Users/macmath22/Development/IPhone/My Apps/ATM Korea/build/Debug-iphonesimulator/ATM Korea.app/English.lproj/Localizable.strings
+xEnglish.lproj/Localizable.strings
+lSLF07#2@38"Copy English.lproj/Localizable.strings289116689#289116689#0(0"0(0#0#87"/Users/macmath22/Development/IPhone/My Apps/ATM Korea/English.lproj/Localizable.strings4300885448#532"    cd "/Users/macmath22/Development/IPhone/My Apps/ATM Korea"    setenv ICONV /usr/bin/iconv    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/Xcode/Plug-ins/CoreBuildTasks.xcplugin/Contents/Resources/copystrings --validate --inputencoding utf-16 --outputencoding binary English.lproj/Localizable.strings --outdir "/Users/macmath22/Development/IPhone/My Apps/ATM Korea/build/Debug-iphonesimulator/ATM Korea.app/English.lproj"0#
+
+CCopyStringsFile "/Users/macmath22/Development/IPhone/My Apps/ATM Korea/build/Debug-iphonesimulator/ATM Korea.app/ko.lproj/Localizable.strings" ko.lproj/Localizable.strings
+s289116689.649939
+e289116689.707459
+r1
+xCopyStringsFile
+x/Users/macmath22/Development/IPhone/My Apps/ATM Korea/build/Debug-iphonesimulator/ATM Korea.app/ko.lproj/Localizable.strings
+xko.lproj/Localizable.strings
+oko.lproj/Localizable.strings: warning: the specified encoding is utf-8, but file contents appear to be UTF-16; treating as UTF-16
+lSLF07#2@33"Copy ko.lproj/Localizable.strings289116689#289116689#0(130"ko.lproj/Localizable.strings: warning: the specified encoding is utf-8, but file contents appear to be UTF-16; treating as UTF-160(0#0#82"/Users/macmath22/Development/IPhone/My Apps/ATM Korea/ko.lproj/Localizable.strings4300885448#521"    cd "/Users/macmath22/Development/IPhone/My Apps/ATM Korea"    setenv ICONV /usr/bin/iconv    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/Xcode/Plug-ins/CoreBuildTasks.xcplugin/Contents/Resources/copystrings --validate --inputencoding utf-8 --outputencoding binary ko.lproj/Localizable.strings --outdir "/Users/macmath22/Development/IPhone/My Apps/ATM Korea/build/Debug-iphonesimulator/ATM Korea.app/ko.lproj"0#
+
+CCpResource "build/Debug-iphonesimulator/ATM Korea.app/ATM_Cell.png" ATM_Cell.png
+s289116689.211468
+e289116689.244958
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/ATM Korea.app/ATM_Cell.png
+xATM_Cell.png
+lSLF07#2@17"Copy ATM_Cell.png289116689#289116689#0(0"0(0#0#66"/Users/macmath22/Development/IPhone/My Apps/ATM Korea/ATM_Cell.png4300885448#509"    cd "/Users/macmath22/Development/IPhone/My Apps/ATM Korea"    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -resolve-src-symlinks "/Users/macmath22/Development/IPhone/My Apps/ATM Korea/ATM_Cell.png" "/Users/macmath22/Development/IPhone/My Apps/ATM Korea/build/Debug-iphonesimulator/ATM Korea.app"0#
+
+CCpResource "build/Debug-iphonesimulator/ATM Korea.app/ATM_Cell2.png" ATM_Cell2.png
+s289116689.212430
+e289116689.256275
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/ATM Korea.app/ATM_Cell2.png
+xATM_Cell2.png
+lSLF07#2@18"Copy ATM_Cell2.png289116689#289116689#0(0"0(0#0#67"/Users/macmath22/Development/IPhone/My Apps/ATM Korea/ATM_Cell2.png4300885448#510"    cd "/Users/macmath22/Development/IPhone/My Apps/ATM Korea"    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -resolve-src-symlinks "/Users/macmath22/Development/IPhone/My Apps/ATM Korea/ATM_Cell2.png" "/Users/macmath22/Development/IPhone/My Apps/ATM Korea/build/Debug-iphonesimulator/ATM Korea.app"0#
+
+CCpResource "build/Debug-iphonesimulator/ATM Korea.app/About.png" About.png
+s289116689.428905
+e289116689.457756
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/ATM Korea.app/About.png
+xAbout.png
+lSLF07#2@14"Copy About.png289116689#289116689#0(0"0(0#0#63"/Users/macmath22/Development/IPhone/My Apps/ATM Korea/About.png4300885448#506"    cd "/Users/macmath22/Development/IPhone/My Apps/ATM Korea"    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -resolve-src-symlinks "/Users/macmath22/Development/IPhone/My Apps/ATM Korea/About.png" "/Users/macmath22/Development/IPhone/My Apps/ATM Korea/build/Debug-iphonesimulator/ATM Korea.app"0#
+
+CCpResource "build/Debug-iphonesimulator/ATM Korea.app/Bank_Cell.png" Bank_Cell.png
+s289116689.213111
+e289116689.256433
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/ATM Korea.app/Bank_Cell.png
+xBank_Cell.png
+lSLF07#2@18"Copy Bank_Cell.png289116689#289116689#0(0"0(0#0#67"/Users/macmath22/Development/IPhone/My Apps/ATM Korea/Bank_Cell.png4300885448#510"    cd "/Users/macmath22/Development/IPhone/My Apps/ATM Korea"    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -resolve-src-symlinks "/Users/macmath22/Development/IPhone/My Apps/ATM Korea/Bank_Cell.png" "/Users/macmath22/Development/IPhone/My Apps/ATM Korea/build/Debug-iphonesimulator/ATM Korea.app"0#
+
+CCpResource "build/Debug-iphonesimulator/ATM Korea.app/Bank_Cell2.png" Bank_Cell2.png
+s289116689.213806
+e289116689.256595
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/ATM Korea.app/Bank_Cell2.png
+xBank_Cell2.png
+lSLF07#2@19"Copy Bank_Cell2.png289116689#289116689#0(0"0(0#0#68"/Users/macmath22/Development/IPhone/My Apps/ATM Korea/Bank_Cell2.png4300885448#511"    cd "/Users/macmath22/Development/IPhone/My Apps/ATM Korea"    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -resolve-src-symlinks "/Users/macmath22/Development/IPhone/My Apps/ATM Korea/Bank_Cell2.png" "/Users/macmath22/Development/IPhone/My Apps/ATM Korea/build/Debug-iphonesimulator/ATM Korea.app"0#
+
+CCpResource "build/Debug-iphonesimulator/ATM Korea.app/Default.png" Default.png
+s289116689.438521
+e289116689.487069
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/ATM Korea.app/Default.png
+xDefault.png
+lSLF07#2@16"Copy Default.png289116689#289116689#0(0"0(0#0#65"/Users/macmath22/Development/IPhone/My Apps/ATM Korea/Default.png4300885448#508"    cd "/Users/macmath22/Development/IPhone/My Apps/ATM Korea"    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -resolve-src-symlinks "/Users/macmath22/Development/IPhone/My Apps/ATM Korea/Default.png" "/Users/macmath22/Development/IPhone/My Apps/ATM Korea/build/Debug-iphonesimulator/ATM Korea.app"0#
+
+CCpResource "build/Debug-iphonesimulator/ATM Korea.app/Icon.png" Icon.png
+s289116689.440331
+e289116689.486300
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/ATM Korea.app/Icon.png
+xIcon.png
+lSLF07#2@13"Copy Icon.png289116689#289116689#0(0"0(0#0#62"/Users/macmath22/Development/IPhone/My Apps/ATM Korea/Icon.png4300885448#505"    cd "/Users/macmath22/Development/IPhone/My Apps/ATM Korea"    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -resolve-src-symlinks "/Users/macmath22/Development/IPhone/My Apps/ATM Korea/Icon.png" "/Users/macmath22/Development/IPhone/My Apps/ATM Korea/build/Debug-iphonesimulator/ATM Korea.app"0#
+
+CCpResource "build/Debug-iphonesimulator/ATM Korea.app/Map_ATM_1.png" Map_ATM_1.png
+s289116689.430883
+e289116689.457911
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/ATM Korea.app/Map_ATM_1.png
+xMap_ATM_1.png
+lSLF07#2@18"Copy Map_ATM_1.png289116689#289116689#0(0"0(0#0#67"/Users/macmath22/Development/IPhone/My Apps/ATM Korea/Map_ATM_1.png4300885448#510"    cd "/Users/macmath22/Development/IPhone/My Apps/ATM Korea"    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -resolve-src-symlinks "/Users/macmath22/Development/IPhone/My Apps/ATM Korea/Map_ATM_1.png" "/Users/macmath22/Development/IPhone/My Apps/ATM Korea/build/Debug-iphonesimulator/ATM Korea.app"0#
+
+CCpResource "build/Debug-iphonesimulator/ATM Korea.app/Map_Bank_1.png" Map_Bank_1.png
+s289116689.432751
+e289116689.458070
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/ATM Korea.app/Map_Bank_1.png
+xMap_Bank_1.png
+lSLF07#2@19"Copy Map_Bank_1.png289116689#289116689#0(0"0(0#0#68"/Users/macmath22/Development/IPhone/My Apps/ATM Korea/Map_Bank_1.png4300885448#511"    cd "/Users/macmath22/Development/IPhone/My Apps/ATM Korea"    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -resolve-src-symlinks "/Users/macmath22/Development/IPhone/My Apps/ATM Korea/Map_Bank_1.png" "/Users/macmath22/Development/IPhone/My Apps/ATM Korea/build/Debug-iphonesimulator/ATM Korea.app"0#
+
+CCpResource "build/Debug-iphonesimulator/ATM Korea.app/Nearby.png" Nearby.png
+s289116689.434763
+e289116689.458665
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/ATM Korea.app/Nearby.png
+xNearby.png
+lSLF07#2@15"Copy Nearby.png289116689#289116689#0(0"0(0#0#64"/Users/macmath22/Development/IPhone/My Apps/ATM Korea/Nearby.png4300885448#507"    cd "/Users/macmath22/Development/IPhone/My Apps/ATM Korea"    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -resolve-src-symlinks "/Users/macmath22/Development/IPhone/My Apps/ATM Korea/Nearby.png" "/Users/macmath22/Development/IPhone/My Apps/ATM Korea/build/Debug-iphonesimulator/ATM Korea.app"0#
+
+CCpResource "build/Debug-iphonesimulator/ATM Korea.app/Search.png" Search.png
+s289116689.436604
+e289116689.458798
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/ATM Korea.app/Search.png
+xSearch.png
+lSLF07#2@15"Copy Search.png289116689#289116689#0(0"0(0#0#64"/Users/macmath22/Development/IPhone/My Apps/ATM Korea/Search.png4300885448#507"    cd "/Users/macmath22/Development/IPhone/My Apps/ATM Korea"    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -resolve-src-symlinks "/Users/macmath22/Development/IPhone/My Apps/ATM Korea/Search.png" "/Users/macmath22/Development/IPhone/My Apps/ATM Korea/build/Debug-iphonesimulator/ATM Korea.app"0#
+
+CGenerateDSYMFile "/Users/macmath22/Development/IPhone/My Apps/ATM Korea/build/Debug-iphonesimulator/ATM Korea.app.dSYM" "/Users/macmath22/Development/IPhone/My Apps/ATM Korea/build/Debug-iphonesimulator/ATM Korea.app/ATM Korea"
+r0
+
+CLd "/Users/macmath22/Development/IPhone/My Apps/ATM Korea/build/Debug-iphonesimulator/ATM Korea.app/ATM Korea" normal i386
+r0
+
+CProcessInfoPlistFile "/Users/macmath22/Development/IPhone/My Apps/ATM Korea/build/Debug-iphonesimulator/ATM Korea.app/Info.plist" ATM_Korea-Info.plist
+s289116688.482623
+e289116688.486788
+r1
+xProcessInfoPlistFile
+x/Users/macmath22/Development/IPhone/My Apps/ATM Korea/build/Debug-iphonesimulator/ATM Korea.app/Info.plist
+xATM_Korea-Info.plist
+lSLF07#2@28"Process ATM_Korea-Info.plist289116688#289116688#0(0"0(0#0#74"/Users/macmath22/Development/IPhone/My Apps/ATM Korea/ATM_Korea-Info.plist4300885448#536"    cd "/Users/macmath22/Development/IPhone/My Apps/ATM Korea"    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-infoPlistUtility ATM_Korea-Info.plist -genpkginfo "/Users/macmath22/Development/IPhone/My Apps/ATM Korea/build/Debug-iphonesimulator/ATM Korea.app/PkgInfo" -expandbuildsettings -format binary -platform iphonesimulator -o "/Users/macmath22/Development/IPhone/My Apps/ATM Korea/build/Debug-iphonesimulator/ATM Korea.app/Info.plist"0#
+
+CProcessPCH /var/folders/lR/lR4Jr+itHKycB0liBwNolE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/ATM_Korea_Prefix-bmtdzwqhwdsueydnfltarhxuejzj/ATM_Korea_Prefix.pch.gch ATM_Korea_Prefix.pch normal i386 objective-c com.apple.compilers.gcc.4_2
+s289116689.707811
+e289116690.613358
+r1
+xProcessPCH
+x/var/folders/lR/lR4Jr+itHKycB0liBwNolE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/ATM_Korea_Prefix-bmtdzwqhwdsueydnfltarhxuejzj/ATM_Korea_Prefix.pch.gch
+xATM_Korea_Prefix.pch
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@31"Precompile ATM_Korea_Prefix.pch289116689#289116690#0(0"0(0#0#74"/Users/macmath22/Development/IPhone/My Apps/ATM Korea/ATM_Korea_Prefix.pch4300885448#1959"    cd "/Users/macmath22/Development/IPhone/My Apps/ATM Korea"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c-header -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30000 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.3.sdk -fvisibility=hidden -mmacosx-version-min=10.5 -gdwarf-2 -iquote "/Users/macmath22/Development/IPhone/My Apps/ATM Korea/build/ATM Korea.build/Debug-iphonesimulator/ATM Korea.build/ATM Korea-generated-files.hmap" "-I/Users/macmath22/Development/IPhone/My Apps/ATM Korea/build/ATM Korea.build/Debug-iphonesimulator/ATM Korea.build/ATM Korea-own-target-headers.hmap" "-I/Users/macmath22/Development/IPhone/My Apps/ATM Korea/build/ATM Korea.build/Debug-iphonesimulator/ATM Korea.build/ATM Korea-all-target-headers.hmap" -iquote "/Users/macmath22/Development/IPhone/My Apps/ATM Korea/build/ATM Korea.build/Debug-iphonesimulator/ATM Korea.build/ATM Korea-project-headers.hmap" "-F/Users/macmath22/Development/IPhone/My Apps/ATM Korea/build/Debug-iphonesimulator" "-I/Users/macmath22/Development/IPhone/My Apps/ATM Korea/build/Debug-iphonesimulator/include" "-I/Users/macmath22/Development/IPhone/My Apps/ATM Korea/build/ATM Korea.build/Debug-iphonesimulator/ATM Korea.build/DerivedSources/i386" "-I/Users/macmath22/Development/IPhone/My Apps/ATM Korea/build/ATM Korea.build/Debug-iphonesimulator/ATM Korea.build/DerivedSources" -c "/Users/macmath22/Development/IPhone/My Apps/ATM Korea/ATM_Korea_Prefix.pch" -o /var/folders/lR/lR4Jr+itHKycB0liBwNolE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/ATM_Korea_Prefix-bmtdzwqhwdsueydnfltarhxuejzj/ATM_Korea_Prefix.pch.gch0#
+
+CTouch "/Users/macmath22/Development/IPhone/My Apps/ATM Korea/build/Debug-iphonesimulator/ATM Korea.app"
+r0
+

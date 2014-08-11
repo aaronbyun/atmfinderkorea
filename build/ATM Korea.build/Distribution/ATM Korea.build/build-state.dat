@@ -1,0 +1,642 @@
+TATM Korea
+v7
+r1
+
+N/Users/macmath22/Development/IPhone/My Apps/ATM Korea/1_2.png
+c000000004BC0307400000000000004AB
+t1270886516
+s1195
+
+N/Users/macmath22/Development/IPhone/My Apps/ATM Korea/2_2.png
+c000000004BC0304C00000000000004F8
+t1270886476
+s1272
+
+N/Users/macmath22/Development/IPhone/My Apps/ATM Korea/3_2.png
+c000000004BC03084000000000000041F
+t1270886532
+s1055
+
+N/Users/macmath22/Development/IPhone/My Apps/ATM Korea/4_2.png
+c000000004BC0303E0000000000000719
+t1270886462
+s1817
+
+N/Users/macmath22/Development/IPhone/My Apps/ATM Korea/5_2.png
+c000000004BC0308E0000000000000598
+t1270886542
+s1432
+
+N/Users/macmath22/Development/IPhone/My Apps/ATM Korea/6_2.png
+c000000004BC0302E00000000000004B1
+t1270886446
+s1201
+
+N/Users/macmath22/Development/IPhone/My Apps/ATM Korea/7_2.png
+c000000004BC030580000000000000576
+t1270886488
+s1398
+
+N/Users/macmath22/Development/IPhone/My Apps/ATM Korea/8_2.png
+c000000004BC03066000000000000044D
+t1270886502
+s1101
+
+N/Users/macmath22/Development/IPhone/My Apps/ATM Korea/ABO.png
+c000000004BC0BCFC0000000000000217
+t1270922492
+s535
+
+N/Users/macmath22/Development/IPhone/My Apps/ATM Korea/ATMDB.sqlite
+c000000004BC5CE7E00000000001F0400
+t1271254654
+s2032640
+
+N/Users/macmath22/Development/IPhone/My Apps/ATM Korea/ATM_Cell3.png
+c000000004B8E7A4F00000000000009AA
+t1267628623
+s2474
+
+N/Users/macmath22/Development/IPhone/My Apps/ATM Korea/ATM_Cell4.png
+c000000004B8E7A4F0000000000000848
+t1267628623
+s2120
+
+N/Users/macmath22/Development/IPhone/My Apps/ATM Korea/About6.png
+c000000004BA6215600000000000001A8
+t1269178710
+s424
+
+N/Users/macmath22/Development/IPhone/My Apps/ATM Korea/AboutDetailView2Cell.xib
+c000000004B9D060700000000000042AD
+t1268581895
+s17069
+
+N/Users/macmath22/Development/IPhone/My Apps/ATM Korea/Bank_Cell3.png
+c000000004B8E7A5200000000000008C7
+t1267628626
+s2247
+
+N/Users/macmath22/Development/IPhone/My Apps/ATM Korea/Bank_Cell4.png
+c000000004B8E7A5200000000000007B2
+t1267628626
+s1970
+
+N/Users/macmath22/Development/IPhone/My Apps/ATM Korea/CellBG.png
+c000000004B8E7A52000000000000013A
+t1267628626
+s314
+
+N/Users/macmath22/Development/IPhone/My Apps/ATM Korea/Classes/AboutDetailViewController.xib
+c000000004B97BDAD0000000000004056
+t1268235693
+s16470
+
+N/Users/macmath22/Development/IPhone/My Apps/ATM Korea/Classes/AboutDetailViewController2.xib
+c000000004B9CFFB700000000000042E5
+t1268580279
+s17125
+
+N/Users/macmath22/Development/IPhone/My Apps/ATM Korea/Classes/AboutDetailViewController3.xib
+c000000004B9900DB0000000000004207
+t1268318427
+s16903
+
+N/Users/macmath22/Development/IPhone/My Apps/ATM Korea/Classes/AboutRootViewController.xib
+c000000004B97BED60000000000004D59
+t1268235990
+s19801
+
+N/Users/macmath22/Development/IPhone/My Apps/ATM Korea/Classes/English.lproj/MapRootViewController.xib
+c000000004BC0AA510000000000006178
+t1270917713
+s24952
+
+N/Users/macmath22/Development/IPhone/My Apps/ATM Korea/Classes/English.lproj/NearbyDetailViewController.xib
+c000000004BC0BA6400000000000064E3
+t1270921828
+s25827
+
+N/Users/macmath22/Development/IPhone/My Apps/ATM Korea/Classes/NearbyRootController.xib
+c000000004BAA35BA0000000000004E1C
+t1269446074
+s19996
+
+N/Users/macmath22/Development/IPhone/My Apps/ATM Korea/Classes/SearchViewController.xib
+c000000004B935BEF00000000000047C9
+t1267948527
+s18377
+
+N/Users/macmath22/Development/IPhone/My Apps/ATM Korea/Classes/ko.lproj/MapRootViewController.xib
+c000000004BA600980000000000005355
+t1269170328
+s21333
+
+N/Users/macmath22/Development/IPhone/My Apps/ATM Korea/Classes/ko.lproj/NearbyDetailViewController.xib
+c000000004BC0BA740000000000006598
+t1270921844
+s26008
+
+N/Users/macmath22/Development/IPhone/My Apps/ATM Korea/Default.png
+c000000004BC0A79F000000000000592B
+t1270917023
+s22827
+
+N/Users/macmath22/Development/IPhone/My Apps/ATM Korea/Default7.png
+c000000004B8A991E0000000000002CFF
+t1267374366
+s11519
+
+N/Users/macmath22/Development/IPhone/My Apps/ATM Korea/English.lproj/Localizable.strings
+c000000004BC01BEA0000000000000872
+t1270881258
+s2162
+
+N/Users/macmath22/Development/IPhone/My Apps/ATM Korea/English.lproj/MainWindow.xib
+c000000004BC0BD7F000000000000A3CA
+t1270922623
+s41930
+
+N/Users/macmath22/Development/IPhone/My Apps/ATM Korea/English.lproj/SettingsController.xib
+c000000004B8D4304000000000000596E
+t1267548932
+s22894
+
+N/Users/macmath22/Development/IPhone/My Apps/ATM Korea/Icon.png
+c000000004BC46630000000000000127D
+t1271162416
+s4733
+
+N/Users/macmath22/Development/IPhone/My Apps/ATM Korea/Icon2.png
+c000000004BC09444000000000000711A
+t1270912068
+s28954
+
+N/Users/macmath22/Development/IPhone/My Apps/ATM Korea/Icon3.png
+c000000004BC30B360000000000003012
+t1271073590
+s12306
+
+N/Users/macmath22/Development/IPhone/My Apps/ATM Korea/MAp.png
+c000000004BC0BCFC0000000000000221
+t1270922492
+s545
+
+N/Users/macmath22/Development/IPhone/My Apps/ATM Korea/Map4.png
+c000000004BA23AE400000000000001CB
+t1268923108
+s459
+
+N/Users/macmath22/Development/IPhone/My Apps/ATM Korea/Near.png
+c000000004BC0BCFC0000000000000200
+t1270922492
+s512
+
+N/Users/macmath22/Development/IPhone/My Apps/ATM Korea/Nearby.png
+c000000004B49F0DA0000000000000215
+t1263136986
+s533
+
+N/Users/macmath22/Development/IPhone/My Apps/ATM Korea/NearbyTableViewCell.xib
+c000000004BC313A80000000000004F20
+t1271075752
+s20256
+
+N/Users/macmath22/Development/IPhone/My Apps/ATM Korea/Search.png
+c000000004B49F2220000000000000207
+t1263137314
+s519
+
+N/Users/macmath22/Development/IPhone/My Apps/ATM Korea/bank_db.txt
+c000000004BBB3CF20000000000134B6C
+t1270562034
+s1264492
+
+N/Users/macmath22/Development/IPhone/My Apps/ATM Korea/build/Distribution/ATM Korea.app
+t2
+s0
+
+N/Users/macmath22/Development/IPhone/My Apps/ATM Korea/build/Distribution/ATM Korea.app/Contents/Info.plist
+t2
+s0
+
+N/Users/macmath22/Development/IPhone/My Apps/ATM Korea/build/Distribution/ATM Korea.app/Contents/PkgInfo
+t2
+s0
+
+N/Users/macmath22/Development/IPhone/My Apps/ATM Korea/build/Distribution/ATM Korea.app/Contents/Resources/1_2.png
+t2
+s0
+
+N/Users/macmath22/Development/IPhone/My Apps/ATM Korea/build/Distribution/ATM Korea.app/Contents/Resources/2_2.png
+t2
+s0
+
+N/Users/macmath22/Development/IPhone/My Apps/ATM Korea/build/Distribution/ATM Korea.app/Contents/Resources/3_2.png
+t2
+s0
+
+N/Users/macmath22/Development/IPhone/My Apps/ATM Korea/build/Distribution/ATM Korea.app/Contents/Resources/4_2.png
+t2
+s0
+
+N/Users/macmath22/Development/IPhone/My Apps/ATM Korea/build/Distribution/ATM Korea.app/Contents/Resources/5_2.png
+t2
+s0
+
+N/Users/macmath22/Development/IPhone/My Apps/ATM Korea/build/Distribution/ATM Korea.app/Contents/Resources/6_2.png
+t2
+s0
+
+N/Users/macmath22/Development/IPhone/My Apps/ATM Korea/build/Distribution/ATM Korea.app/Contents/Resources/7_2.png
+t2
+s0
+
+N/Users/macmath22/Development/IPhone/My Apps/ATM Korea/build/Distribution/ATM Korea.app/Contents/Resources/8_2.png
+t2
+s0
+
+N/Users/macmath22/Development/IPhone/My Apps/ATM Korea/build/Distribution/ATM Korea.app/Contents/Resources/ABO.png
+t2
+s0
+
+N/Users/macmath22/Development/IPhone/My Apps/ATM Korea/build/Distribution/ATM Korea.app/Contents/Resources/ATMDB.sqlite
+t2
+s0
+
+N/Users/macmath22/Development/IPhone/My Apps/ATM Korea/build/Distribution/ATM Korea.app/Contents/Resources/ATM_Cell3.png
+t2
+s0
+
+N/Users/macmath22/Development/IPhone/My Apps/ATM Korea/build/Distribution/ATM Korea.app/Contents/Resources/ATM_Cell4.png
+t2
+s0
+
+N/Users/macmath22/Development/IPhone/My Apps/ATM Korea/build/Distribution/ATM Korea.app/Contents/Resources/About6.png
+t2
+s0
+
+N/Users/macmath22/Development/IPhone/My Apps/ATM Korea/build/Distribution/ATM Korea.app/Contents/Resources/AboutDetailView2Cell.nib
+t2
+s0
+
+N/Users/macmath22/Development/IPhone/My Apps/ATM Korea/build/Distribution/ATM Korea.app/Contents/Resources/AboutDetailViewController.nib
+t2
+s0
+
+N/Users/macmath22/Development/IPhone/My Apps/ATM Korea/build/Distribution/ATM Korea.app/Contents/Resources/AboutDetailViewController2.nib
+t2
+s0
+
+N/Users/macmath22/Development/IPhone/My Apps/ATM Korea/build/Distribution/ATM Korea.app/Contents/Resources/AboutDetailViewController3.nib
+t2
+s0
+
+N/Users/macmath22/Development/IPhone/My Apps/ATM Korea/build/Distribution/ATM Korea.app/Contents/Resources/AboutRootViewController.nib
+t2
+s0
+
+N/Users/macmath22/Development/IPhone/My Apps/ATM Korea/build/Distribution/ATM Korea.app/Contents/Resources/Bank_Cell3.png
+t2
+s0
+
+N/Users/macmath22/Development/IPhone/My Apps/ATM Korea/build/Distribution/ATM Korea.app/Contents/Resources/Bank_Cell4.png
+t2
+s0
+
+N/Users/macmath22/Development/IPhone/My Apps/ATM Korea/build/Distribution/ATM Korea.app/Contents/Resources/CellBG.png
+t2
+s0
+
+N/Users/macmath22/Development/IPhone/My Apps/ATM Korea/build/Distribution/ATM Korea.app/Contents/Resources/Default.png
+t2
+s0
+
+N/Users/macmath22/Development/IPhone/My Apps/ATM Korea/build/Distribution/ATM Korea.app/Contents/Resources/Default7.png
+t2
+s0
+
+N/Users/macmath22/Development/IPhone/My Apps/ATM Korea/build/Distribution/ATM Korea.app/Contents/Resources/English.lproj/Localizable.strings
+t2
+s0
+
+N/Users/macmath22/Development/IPhone/My Apps/ATM Korea/build/Distribution/ATM Korea.app/Contents/Resources/English.lproj/MainWindow.nib
+t2
+s0
+
+N/Users/macmath22/Development/IPhone/My Apps/ATM Korea/build/Distribution/ATM Korea.app/Contents/Resources/English.lproj/MapRootViewController.nib
+t2
+s0
+
+N/Users/macmath22/Development/IPhone/My Apps/ATM Korea/build/Distribution/ATM Korea.app/Contents/Resources/English.lproj/NearbyDetailViewController.nib
+t2
+s0
+
+N/Users/macmath22/Development/IPhone/My Apps/ATM Korea/build/Distribution/ATM Korea.app/Contents/Resources/English.lproj/SettingsController.nib
+t2
+s0
+
+N/Users/macmath22/Development/IPhone/My Apps/ATM Korea/build/Distribution/ATM Korea.app/Contents/Resources/Icon.png
+t2
+s0
+
+N/Users/macmath22/Development/IPhone/My Apps/ATM Korea/build/Distribution/ATM Korea.app/Contents/Resources/Icon2.png
+t2
+s0
+
+N/Users/macmath22/Development/IPhone/My Apps/ATM Korea/build/Distribution/ATM Korea.app/Contents/Resources/Icon3.png
+t2
+s0
+
+N/Users/macmath22/Development/IPhone/My Apps/ATM Korea/build/Distribution/ATM Korea.app/Contents/Resources/MAp.png
+t2
+s0
+
+N/Users/macmath22/Development/IPhone/My Apps/ATM Korea/build/Distribution/ATM Korea.app/Contents/Resources/Map4.png
+t2
+s0
+
+N/Users/macmath22/Development/IPhone/My Apps/ATM Korea/build/Distribution/ATM Korea.app/Contents/Resources/Near.png
+t2
+s0
+
+N/Users/macmath22/Development/IPhone/My Apps/ATM Korea/build/Distribution/ATM Korea.app/Contents/Resources/Nearby.png
+t2
+s0
+
+N/Users/macmath22/Development/IPhone/My Apps/ATM Korea/build/Distribution/ATM Korea.app/Contents/Resources/NearbyRootController.nib
+t2
+s0
+
+N/Users/macmath22/Development/IPhone/My Apps/ATM Korea/build/Distribution/ATM Korea.app/Contents/Resources/NearbyTableViewCell.nib
+t2
+s0
+
+N/Users/macmath22/Development/IPhone/My Apps/ATM Korea/build/Distribution/ATM Korea.app/Contents/Resources/Search.png
+t2
+s0
+
+N/Users/macmath22/Development/IPhone/My Apps/ATM Korea/build/Distribution/ATM Korea.app/Contents/Resources/SearchViewController.nib
+t2
+s0
+
+N/Users/macmath22/Development/IPhone/My Apps/ATM Korea/build/Distribution/ATM Korea.app/Contents/Resources/bank_db.txt
+t2
+s0
+
+N/Users/macmath22/Development/IPhone/My Apps/ATM Korea/build/Distribution/ATM Korea.app/Contents/Resources/currentpos.png
+t2
+s0
+
+N/Users/macmath22/Development/IPhone/My Apps/ATM Korea/build/Distribution/ATM Korea.app/Contents/Resources/kingkong.png
+t2
+s0
+
+N/Users/macmath22/Development/IPhone/My Apps/ATM Korea/build/Distribution/ATM Korea.app/Contents/Resources/ko.lproj/Localizable.strings
+t2
+s0
+
+N/Users/macmath22/Development/IPhone/My Apps/ATM Korea/build/Distribution/ATM Korea.app/Contents/Resources/ko.lproj/MainWindow.nib
+t2
+s0
+
+N/Users/macmath22/Development/IPhone/My Apps/ATM Korea/build/Distribution/ATM Korea.app/Contents/Resources/ko.lproj/MapRootViewController.nib
+t2
+s0
+
+N/Users/macmath22/Development/IPhone/My Apps/ATM Korea/build/Distribution/ATM Korea.app/Contents/Resources/ko.lproj/NearbyDetailViewController.nib
+t2
+s0
+
+N/Users/macmath22/Development/IPhone/My Apps/ATM Korea/build/Distribution/ATM Korea.app/Contents/Resources/ko.lproj/SettingsController.nib
+t2
+s0
+
+N/Users/macmath22/Development/IPhone/My Apps/ATM Korea/build/Distribution/ATM Korea.app/Contents/Resources/likus_logo.png
+t2
+s0
+
+N/Users/macmath22/Development/IPhone/My Apps/ATM Korea/build/Distribution/ATM Korea.app/Contents/Resources/macmath22.png
+t2
+s0
+
+N/Users/macmath22/Development/IPhone/My Apps/ATM Korea/build/Distribution/ATM Korea.app/Contents/Resources/mypos.png
+t2
+s0
+
+N/Users/macmath22/Development/IPhone/My Apps/ATM Korea/build/Distribution/ATM Korea.app/Contents/Resources/saljjinnom.png
+t2
+s0
+
+N/Users/macmath22/Development/IPhone/My Apps/ATM Korea/currentpos.png
+c000000004BC0333A00000000000003FE
+t1270887226
+s1022
+
+N/Users/macmath22/Development/IPhone/My Apps/ATM Korea/kingkong.png
+c000000004B9CFEC80000000000000F2C
+t1268580040
+s3884
+
+N/Users/macmath22/Development/IPhone/My Apps/ATM Korea/ko.lproj/Localizable.strings
+c000000004BC01D1700000000000007A8
+t1270881559
+s1960
+
+N/Users/macmath22/Development/IPhone/My Apps/ATM Korea/ko.lproj/MainWindow.xib
+c000000004BC0BD9A000000000000A399
+t1270922650
+s41881
+
+N/Users/macmath22/Development/IPhone/My Apps/ATM Korea/ko.lproj/SettingsController.xib
+c000000004B8D4324000000000000596C
+t1267548964
+s22892
+
+N/Users/macmath22/Development/IPhone/My Apps/ATM Korea/likus_logo.png
+c000000004B97B3CB0000000000000336
+t1268233163
+s822
+
+N/Users/macmath22/Development/IPhone/My Apps/ATM Korea/macmath22.png
+c000000004B9CFEC900000000000011D8
+t1268580041
+s4568
+
+N/Users/macmath22/Development/IPhone/My Apps/ATM Korea/mypos.png
+c000000004BC0859A00000000000003D2
+t1270908314
+s978
+
+N/Users/macmath22/Development/IPhone/My Apps/ATM Korea/saljjinnom.png
+c000000004B9CFEC90000000000000F42
+t1268580041
+s3906
+
+NATM_Korea-Info.plist
+c000000004BC713630000000000000364
+t1271337827
+s868
+
+CCodeSign "/Users/macmath22/Development/IPhone/My Apps/ATM Korea/build/Distribution/ATM Korea.app"
+r0
+
+CCompileXIB "/Users/macmath22/Development/IPhone/My Apps/ATM Korea/AboutDetailView2Cell.xib"
+r0
+
+CCompileXIB "/Users/macmath22/Development/IPhone/My Apps/ATM Korea/Classes/AboutDetailViewController.xib"
+r0
+
+CCompileXIB "/Users/macmath22/Development/IPhone/My Apps/ATM Korea/Classes/AboutDetailViewController2.xib"
+r0
+
+CCompileXIB "/Users/macmath22/Development/IPhone/My Apps/ATM Korea/Classes/AboutDetailViewController3.xib"
+r0
+
+CCompileXIB "/Users/macmath22/Development/IPhone/My Apps/ATM Korea/Classes/AboutRootViewController.xib"
+r0
+
+CCompileXIB "/Users/macmath22/Development/IPhone/My Apps/ATM Korea/Classes/English.lproj/MapRootViewController.xib"
+r0
+
+CCompileXIB "/Users/macmath22/Development/IPhone/My Apps/ATM Korea/Classes/English.lproj/NearbyDetailViewController.xib"
+r0
+
+CCompileXIB "/Users/macmath22/Development/IPhone/My Apps/ATM Korea/Classes/NearbyRootController.xib"
+r0
+
+CCompileXIB "/Users/macmath22/Development/IPhone/My Apps/ATM Korea/Classes/SearchViewController.xib"
+r0
+
+CCompileXIB "/Users/macmath22/Development/IPhone/My Apps/ATM Korea/Classes/ko.lproj/MapRootViewController.xib"
+r0
+
+CCompileXIB "/Users/macmath22/Development/IPhone/My Apps/ATM Korea/Classes/ko.lproj/NearbyDetailViewController.xib"
+r0
+
+CCompileXIB "/Users/macmath22/Development/IPhone/My Apps/ATM Korea/English.lproj/MainWindow.xib"
+r0
+
+CCompileXIB "/Users/macmath22/Development/IPhone/My Apps/ATM Korea/English.lproj/SettingsController.xib"
+r0
+
+CCompileXIB "/Users/macmath22/Development/IPhone/My Apps/ATM Korea/NearbyTableViewCell.xib"
+r0
+
+CCompileXIB "/Users/macmath22/Development/IPhone/My Apps/ATM Korea/ko.lproj/MainWindow.xib"
+r0
+
+CCompileXIB "/Users/macmath22/Development/IPhone/My Apps/ATM Korea/ko.lproj/SettingsController.xib"
+r0
+
+CCopyStringsFile "/Users/macmath22/Development/IPhone/My Apps/ATM Korea/build/Distribution/ATM Korea.app/Contents/Resources/English.lproj/Localizable.strings" English.lproj/Localizable.strings
+r0
+
+CCopyStringsFile "/Users/macmath22/Development/IPhone/My Apps/ATM Korea/build/Distribution/ATM Korea.app/Contents/Resources/ko.lproj/Localizable.strings" ko.lproj/Localizable.strings
+r0
+
+CCpResource "build/Distribution/ATM Korea.app/Contents/Resources/1_2.png" 1_2.png
+r0
+
+CCpResource "build/Distribution/ATM Korea.app/Contents/Resources/2_2.png" 2_2.png
+r0
+
+CCpResource "build/Distribution/ATM Korea.app/Contents/Resources/3_2.png" 3_2.png
+r0
+
+CCpResource "build/Distribution/ATM Korea.app/Contents/Resources/4_2.png" 4_2.png
+r0
+
+CCpResource "build/Distribution/ATM Korea.app/Contents/Resources/5_2.png" 5_2.png
+r0
+
+CCpResource "build/Distribution/ATM Korea.app/Contents/Resources/6_2.png" 6_2.png
+r0
+
+CCpResource "build/Distribution/ATM Korea.app/Contents/Resources/7_2.png" 7_2.png
+r0
+
+CCpResource "build/Distribution/ATM Korea.app/Contents/Resources/8_2.png" 8_2.png
+r0
+
+CCpResource "build/Distribution/ATM Korea.app/Contents/Resources/ABO.png" ABO.png
+r0
+
+CCpResource "build/Distribution/ATM Korea.app/Contents/Resources/ATMDB.sqlite" ATMDB.sqlite
+r0
+
+CCpResource "build/Distribution/ATM Korea.app/Contents/Resources/ATM_Cell3.png" ATM_Cell3.png
+r0
+
+CCpResource "build/Distribution/ATM Korea.app/Contents/Resources/ATM_Cell4.png" ATM_Cell4.png
+r0
+
+CCpResource "build/Distribution/ATM Korea.app/Contents/Resources/About6.png" About6.png
+r0
+
+CCpResource "build/Distribution/ATM Korea.app/Contents/Resources/Bank_Cell3.png" Bank_Cell3.png
+r0
+
+CCpResource "build/Distribution/ATM Korea.app/Contents/Resources/Bank_Cell4.png" Bank_Cell4.png
+r0
+
+CCpResource "build/Distribution/ATM Korea.app/Contents/Resources/CellBG.png" CellBG.png
+r0
+
+CCpResource "build/Distribution/ATM Korea.app/Contents/Resources/Default.png" Default.png
+r0
+
+CCpResource "build/Distribution/ATM Korea.app/Contents/Resources/Default7.png" Default7.png
+r0
+
+CCpResource "build/Distribution/ATM Korea.app/Contents/Resources/Icon.png" Icon.png
+r0
+
+CCpResource "build/Distribution/ATM Korea.app/Contents/Resources/Icon2.png" Icon2.png
+r0
+
+CCpResource "build/Distribution/ATM Korea.app/Contents/Resources/Icon3.png" Icon3.png
+r0
+
+CCpResource "build/Distribution/ATM Korea.app/Contents/Resources/MAp.png" MAp.png
+r0
+
+CCpResource "build/Distribution/ATM Korea.app/Contents/Resources/Map4.png" Map4.png
+r0
+
+CCpResource "build/Distribution/ATM Korea.app/Contents/Resources/Near.png" Near.png
+r0
+
+CCpResource "build/Distribution/ATM Korea.app/Contents/Resources/Nearby.png" Nearby.png
+r0
+
+CCpResource "build/Distribution/ATM Korea.app/Contents/Resources/Search.png" Search.png
+r0
+
+CCpResource "build/Distribution/ATM Korea.app/Contents/Resources/bank_db.txt" bank_db.txt
+r0
+
+CCpResource "build/Distribution/ATM Korea.app/Contents/Resources/currentpos.png" currentpos.png
+r0
+
+CCpResource "build/Distribution/ATM Korea.app/Contents/Resources/kingkong.png" kingkong.png
+r0
+
+CCpResource "build/Distribution/ATM Korea.app/Contents/Resources/likus_logo.png" likus_logo.png
+r0
+
+CCpResource "build/Distribution/ATM Korea.app/Contents/Resources/macmath22.png" macmath22.png
+r0
+
+CCpResource "build/Distribution/ATM Korea.app/Contents/Resources/mypos.png" mypos.png
+r0
+
+CCpResource "build/Distribution/ATM Korea.app/Contents/Resources/saljjinnom.png" saljjinnom.png
+r0
+
+CProcessInfoPlistFile "/Users/macmath22/Development/IPhone/My Apps/ATM Korea/build/Distribution/ATM Korea.app/Contents/Info.plist" ATM_Korea-Info.plist
+r0
+
+CTouch "/Users/macmath22/Development/IPhone/My Apps/ATM Korea/build/Distribution/ATM Korea.app"
+r0
+

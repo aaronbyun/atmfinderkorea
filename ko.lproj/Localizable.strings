@@ -1,0 +1,53 @@
+﻿/* SETTING_NEAR_BANK */
+"Bank list" = "은행 목록";
+
+/* ROOT_NEAR_PROMPT_UNSUCCESS */
+"Can't find your location." = "위치 정보 찾기에 실패 하였습니다.";
+
+/* ROOT_NEAR_PROMPT_DENIED */
+"Location service was denied." =  "위치 서비스가 거부 되었습니다.";
+
+/* LOCATION_CANCEL */
+"Confirm" = "확인";
+
+/* LOCATIONMANAGER_CURRENT_POSITION */
+"Current position : " = "현재 위치 : ";
+
+/* ROOT_NEAR_PROMPT_SUCCESS */
+"Detected..." = "위치 정보 찾기에 성공 하였습니다.";
+
+/* ROOT_NEAR_PROMPT */
+"Detecting your location..." = "GPS 정보를 가져오는 중 입니다.";
+
+/* ROOT_NEAR_DONE */
+"Done" = "완료";
+
+/* LOCATION_TITLE */
+"Error" = "위치 서비스 오류";
+
+/* ROOT_NEAR_TITLE */
+"Nearby" = "주변 검색";
+
+/* LOCATION_MESSAGE */
+"Please check your LBS service state." = "LBS 서비스 상태를 확인 해 주세요.";
+
+/* SETTING_NEAR_DISTANCE */
+"Search distance" = "검색 범위";
+
+/* ROOT_NEAR_SETTING */
+"Setting" = "설정";
+
+/* ROOT_NEAR_PROMPT_GEOSTARTED */
+"Geo coding service started..." = "ATM기를 찾는 중 입니다. ";
+
+/* DETAIL_NEAR_TITLE */
+"Map Info." = "지도 정보";
+
+/* ABOUT_ROOT_TITLE */
+"About" = "정보";
+
+/*ROOT_NEAR_SETTING_SELECT_BANK*/
+"Please select banks in setting." = "설정에서 은행을 선택해 주세요.";
+
+/*NEARBY_DETAIL_INFO_TITLE*/
+"Detail Information" = "상세 정보";

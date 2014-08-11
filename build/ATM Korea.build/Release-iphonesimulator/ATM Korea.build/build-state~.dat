@@ -1,0 +1,1682 @@
+TATM Korea
+v7
+r0
+t292860534.598621
+cCheck dependencies
+cProcessInfoPlistFile "/Users/macmath22/Development/IPhone/My Apps/ATM Korea/build/Release-iphonesimulator/ATM Korea.app/Info.plist" ATM_Korea-Info.plist
+cCompileXIB "/Users/macmath22/Development/IPhone/My Apps/ATM Korea/English.lproj/MainWindow.xib"
+cCompileXIB "/Users/macmath22/Development/IPhone/My Apps/ATM Korea/ko.lproj/MainWindow.xib"
+cCompileXIB "/Users/macmath22/Development/IPhone/My Apps/ATM Korea/Classes/NearbyRootController.xib"
+cCompileXIB "/Users/macmath22/Development/IPhone/My Apps/ATM Korea/NearbyTableViewCell.xib"
+cCompileXIB "/Users/macmath22/Development/IPhone/My Apps/ATM Korea/English.lproj/SettingsController.xib"
+cCompileXIB "/Users/macmath22/Development/IPhone/My Apps/ATM Korea/ko.lproj/SettingsController.xib"
+cCpResource "build/Release-iphonesimulator/ATM Korea.app/Nearby.png" Nearby.png
+cCpResource "build/Release-iphonesimulator/ATM Korea.app/Search.png" Search.png
+cCpResource "build/Release-iphonesimulator/ATM Korea.app/Default7.png" Default7.png
+cCpResource "build/Release-iphonesimulator/ATM Korea.app/bank_db.txt" bank_db.txt
+cCpResource "build/Release-iphonesimulator/ATM Korea.app/Bank_Cell3.png" Bank_Cell3.png
+cCpResource "build/Release-iphonesimulator/ATM Korea.app/ATM_Cell3.png" ATM_Cell3.png
+cCpResource "build/Release-iphonesimulator/ATM Korea.app/Bank_Cell4.png" Bank_Cell4.png
+cCpResource "build/Release-iphonesimulator/ATM Korea.app/ATM_Cell4.png" ATM_Cell4.png
+cCpResource "build/Release-iphonesimulator/ATM Korea.app/CellBG.png" CellBG.png
+cCpResource "build/Release-iphonesimulator/ATM Korea.app/ATMDB.sqlite" ATMDB.sqlite
+cCopyStringsFile "/Users/macmath22/Development/IPhone/My Apps/ATM Korea/build/Release-iphonesimulator/ATM Korea.app/English.lproj/Localizable.strings" English.lproj/Localizable.strings
+cCopyStringsFile "/Users/macmath22/Development/IPhone/My Apps/ATM Korea/build/Release-iphonesimulator/ATM Korea.app/ko.lproj/Localizable.strings" ko.lproj/Localizable.strings
+cCompileXIB "/Users/macmath22/Development/IPhone/My Apps/ATM Korea/Classes/English.lproj/NearbyDetailViewController.xib"
+cCompileXIB "/Users/macmath22/Development/IPhone/My Apps/ATM Korea/Classes/ko.lproj/NearbyDetailViewController.xib"
+cCompileXIB "/Users/macmath22/Development/IPhone/My Apps/ATM Korea/Classes/AboutRootViewController.xib"
+cCompileXIB "/Users/macmath22/Development/IPhone/My Apps/ATM Korea/Classes/SearchViewController.xib"
+cCpResource "build/Release-iphonesimulator/ATM Korea.app/likus_logo.png" likus_logo.png
+cCompileXIB "/Users/macmath22/Development/IPhone/My Apps/ATM Korea/Classes/AboutDetailViewController.xib"
+cCompileXIB "/Users/macmath22/Development/IPhone/My Apps/ATM Korea/Classes/AboutDetailViewController3.xib"
+cCompileXIB "/Users/macmath22/Development/IPhone/My Apps/ATM Korea/Classes/AboutDetailViewController2.xib"
+cCompileXIB "/Users/macmath22/Development/IPhone/My Apps/ATM Korea/AboutDetailView2Cell.xib"
+cCpResource "build/Release-iphonesimulator/ATM Korea.app/kingkong.png" kingkong.png
+cCpResource "build/Release-iphonesimulator/ATM Korea.app/macmath22.png" macmath22.png
+cCpResource "build/Release-iphonesimulator/ATM Korea.app/saljjinnom.png" saljjinnom.png
+cCompileXIB "/Users/macmath22/Development/IPhone/My Apps/ATM Korea/Classes/English.lproj/MapRootViewController.xib"
+cCompileXIB "/Users/macmath22/Development/IPhone/My Apps/ATM Korea/Classes/ko.lproj/MapRootViewController.xib"
+cCpResource "build/Release-iphonesimulator/ATM Korea.app/Map4.png" Map4.png
+cCpResource "build/Release-iphonesimulator/ATM Korea.app/About6.png" About6.png
+cCpResource "build/Release-iphonesimulator/ATM Korea.app/1_2.png" 1_2.png
+cCpResource "build/Release-iphonesimulator/ATM Korea.app/2_2.png" 2_2.png
+cCpResource "build/Release-iphonesimulator/ATM Korea.app/3_2.png" 3_2.png
+cCpResource "build/Release-iphonesimulator/ATM Korea.app/4_2.png" 4_2.png
+cCpResource "build/Release-iphonesimulator/ATM Korea.app/5_2.png" 5_2.png
+cCpResource "build/Release-iphonesimulator/ATM Korea.app/6_2.png" 6_2.png
+cCpResource "build/Release-iphonesimulator/ATM Korea.app/7_2.png" 7_2.png
+cCpResource "build/Release-iphonesimulator/ATM Korea.app/8_2.png" 8_2.png
+cCpResource "build/Release-iphonesimulator/ATM Korea.app/currentpos.png" currentpos.png
+cCpResource "build/Release-iphonesimulator/ATM Korea.app/mypos.png" mypos.png
+cCpResource "build/Release-iphonesimulator/ATM Korea.app/Icon2.png" Icon2.png
+cCpResource "build/Release-iphonesimulator/ATM Korea.app/Default.png" Default.png
+cCpResource "build/Release-iphonesimulator/ATM Korea.app/ABO.png" ABO.png
+cCpResource "build/Release-iphonesimulator/ATM Korea.app/MAp.png" MAp.png
+cCpResource "build/Release-iphonesimulator/ATM Korea.app/Near.png" Near.png
+cCpResource "build/Release-iphonesimulator/ATM Korea.app/Icon3.png" Icon3.png
+cCpResource "build/Release-iphonesimulator/ATM Korea.app/Icon.png" Icon.png
+cProcessPCH /var/folders/lR/lR4Jr+itHKycB0liBwNolE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/ATM_Korea_Prefix-avsscilhfspeyfauvccvkrowylkk/ATM_Korea_Prefix.pch.gch ATM_Korea_Prefix.pch normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC "build/ATM Korea.build/Release-iphonesimulator/ATM Korea.build/Objects-normal/i386/main.o" "/Users/macmath22/Development/IPhone/My Apps/ATM Korea/main.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC "build/ATM Korea.build/Release-iphonesimulator/ATM Korea.build/Objects-normal/i386/ATM_KoreaAppDelegate.o" "/Users/macmath22/Development/IPhone/My Apps/ATM Korea/Classes/ATM_KoreaAppDelegate.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC "build/ATM Korea.build/Release-iphonesimulator/ATM Korea.build/Objects-normal/i386/NearbyRootController.o" "/Users/macmath22/Development/IPhone/My Apps/ATM Korea/Classes/NearbyRootController.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC "build/ATM Korea.build/Release-iphonesimulator/ATM Korea.build/Objects-normal/i386/SettingsController.o" "/Users/macmath22/Development/IPhone/My Apps/ATM Korea/Classes/SettingsController.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC "build/ATM Korea.build/Release-iphonesimulator/ATM Korea.build/Objects-normal/i386/LocationManager.o" "/Users/macmath22/Development/IPhone/My Apps/ATM Korea/Classes/LocationManager.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC "build/ATM Korea.build/Release-iphonesimulator/ATM Korea.build/Objects-normal/i386/DatabaseManager.o" "/Users/macmath22/Development/IPhone/My Apps/ATM Korea/Classes/DatabaseManager.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC "build/ATM Korea.build/Release-iphonesimulator/ATM Korea.build/Objects-normal/i386/ATM_Info.o" "/Users/macmath22/Development/IPhone/My Apps/ATM Korea/Classes/ATM_Info.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC "build/ATM Korea.build/Release-iphonesimulator/ATM Korea.build/Objects-normal/i386/NearbyDetailViewController.o" "/Users/macmath22/Development/IPhone/My Apps/ATM Korea/Classes/NearbyDetailViewController.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC "build/ATM Korea.build/Release-iphonesimulator/ATM Korea.build/Objects-normal/i386/AboutRootViewController.o" "/Users/macmath22/Development/IPhone/My Apps/ATM Korea/Classes/AboutRootViewController.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC "build/ATM Korea.build/Release-iphonesimulator/ATM Korea.build/Objects-normal/i386/ImageAnnotation.o" "/Users/macmath22/Development/IPhone/My Apps/ATM Korea/Classes/ImageAnnotation.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC "build/ATM Korea.build/Release-iphonesimulator/ATM Korea.build/Objects-normal/i386/ImageAnnotationView.o" "/Users/macmath22/Development/IPhone/My Apps/ATM Korea/Classes/ImageAnnotationView.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC "build/ATM Korea.build/Release-iphonesimulator/ATM Korea.build/Objects-normal/i386/SearchViewController.o" "/Users/macmath22/Development/IPhone/My Apps/ATM Korea/Classes/SearchViewController.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC "build/ATM Korea.build/Release-iphonesimulator/ATM Korea.build/Objects-normal/i386/AboutDetailViewController.o" "/Users/macmath22/Development/IPhone/My Apps/ATM Korea/Classes/AboutDetailViewController.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC "build/ATM Korea.build/Release-iphonesimulator/ATM Korea.build/Objects-normal/i386/AboutDetailViewController3.o" "/Users/macmath22/Development/IPhone/My Apps/ATM Korea/Classes/AboutDetailViewController3.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC "build/ATM Korea.build/Release-iphonesimulator/ATM Korea.build/Objects-normal/i386/AboutDetailViewController2.o" "/Users/macmath22/Development/IPhone/My Apps/ATM Korea/Classes/AboutDetailViewController2.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC "build/ATM Korea.build/Release-iphonesimulator/ATM Korea.build/Objects-normal/i386/MapRootViewController.o" "/Users/macmath22/Development/IPhone/My Apps/ATM Korea/Classes/MapRootViewController.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+cLd "/Users/macmath22/Development/IPhone/My Apps/ATM Korea/build/Release-iphonesimulator/ATM Korea.app/ATM Korea" normal i386
+cGenerateDSYMFile "/Users/macmath22/Development/IPhone/My Apps/ATM Korea/build/Release-iphonesimulator/ATM Korea.app.dSYM" "/Users/macmath22/Development/IPhone/My Apps/ATM Korea/build/Release-iphonesimulator/ATM Korea.app/ATM Korea"
+cTouch "/Users/macmath22/Development/IPhone/My Apps/ATM Korea/build/Release-iphonesimulator/ATM Korea.app"
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.3.sdk
+c000000004B99753100000000000000EE
+t1268348209
+s238
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.3.sdk/System/Library/Frameworks/CoreGraphics.framework/CoreGraphics
+c000000004B2B4CC3000000000026DB60
+t1261128899
+s2546528
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.3.sdk/System/Library/Frameworks/CoreLocation.framework/CoreLocation
+c000000004B2B61C30000000000049D50
+t1261134275
+s302416
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.3.sdk/System/Library/Frameworks/CoreLocation.framework/Headers/CLLocation.h
+c000000004B2B61BB0000000000001454
+t1261134267
+s5204
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.3.sdk/System/Library/Frameworks/CoreLocation.framework/Headers/CoreLocation.h
+c000000004B2B61BC00000000000001AF
+t1261134268
+s431
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.3.sdk/System/Library/Frameworks/Foundation.framework/Foundation
+c000000004B2B4DC8000000000027D5E0
+t1261129160
+s2610656
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.3.sdk/System/Library/Frameworks/Foundation.framework/Headers/Foundation.h
+c000000004B2B4DAE0000000000001355
+t1261129134
+s4949
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.3.sdk/System/Library/Frameworks/MapKit.framework/Headers/MapKit.h
+c000000004B2B634C000000000000017D
+t1261134668
+s381
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.3.sdk/System/Library/Frameworks/MapKit.framework/MapKit
+c000000004B2B6372000000000010D890
+t1261134706
+s1104016
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.3.sdk/System/Library/Frameworks/QuartzCore.framework/Headers/QuartzCore.h
+c000000004B2B537F000000000000007D
+t1261130623
+s125
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.3.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIKit.h
+c000000004B2B61620000000000000788
+t1261134178
+s1928
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.3.sdk/System/Library/Frameworks/UIKit.framework/UIKit
+c000000004B2B62B50000000001670F70
+t1261134517
+s23531376
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.3.sdk/usr/include/sqlite3.h
+c000000004B2B49B3000000000003D86F
+t1261128115
+s252015
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.3.sdk/usr/lib/libsqlite3.0.dylib
+c000000004B2B49D500000000000C39E0
+t1261128149
+s801248
+
+N/Users/macmath22/Development/IPhone/My Apps/ATM Korea/1_2.png
+c000000004BC0307400000000000004AB
+t1270886516
+s1195
+
+N/Users/macmath22/Development/IPhone/My Apps/ATM Korea/2_2.png
+c000000004BC0304C00000000000004F8
+t1270886476
+s1272
+
+N/Users/macmath22/Development/IPhone/My Apps/ATM Korea/3_2.png
+c000000004BC03084000000000000041F
+t1270886532
+s1055
+
+N/Users/macmath22/Development/IPhone/My Apps/ATM Korea/4_2.png
+c000000004BC0303E0000000000000719
+t1270886462
+s1817
+
+N/Users/macmath22/Development/IPhone/My Apps/ATM Korea/5_2.png
+c000000004BC0308E0000000000000598
+t1270886542
+s1432
+
+N/Users/macmath22/Development/IPhone/My Apps/ATM Korea/6_2.png
+c000000004BC0302E00000000000004B1
+t1270886446
+s1201
+
+N/Users/macmath22/Development/IPhone/My Apps/ATM Korea/7_2.png
+c000000004BC030580000000000000576
+t1270886488
+s1398
+
+N/Users/macmath22/Development/IPhone/My Apps/ATM Korea/8_2.png
+c000000004BC03066000000000000044D
+t1270886502
+s1101
+
+N/Users/macmath22/Development/IPhone/My Apps/ATM Korea/ABO.png
+c000000004BC0BCFC0000000000000217
+t1270922492
+s535
+
+N/Users/macmath22/Development/IPhone/My Apps/ATM Korea/ATMDB.sqlite
+c000000004BC465F200000000001F0400
+t1271162354
+s2032640
+
+N/Users/macmath22/Development/IPhone/My Apps/ATM Korea/ATM_Cell3.png
+c000000004B8E7A4F00000000000009AA
+t1267628623
+s2474
+
+N/Users/macmath22/Development/IPhone/My Apps/ATM Korea/ATM_Cell4.png
+c000000004B8E7A4F0000000000000848
+t1267628623
+s2120
+
+N/Users/macmath22/Development/IPhone/My Apps/ATM Korea/ATM_Korea_Prefix.pch
+c000000004B89DA4C00000000000000BB
+t1267325516
+s187
+i<Foundation/Foundation.h>
+i<UIKit/UIKit.h>
+
+N/Users/macmath22/Development/IPhone/My Apps/ATM Korea/About6.png
+c000000004BA6215600000000000001A8
+t1269178710
+s424
+
+N/Users/macmath22/Development/IPhone/My Apps/ATM Korea/AboutDetailView2Cell.xib
+c000000004B9D060700000000000042AD
+t1268581895
+s17069
+
+N/Users/macmath22/Development/IPhone/My Apps/ATM Korea/Bank_Cell3.png
+c000000004B8E7A5200000000000008C7
+t1267628626
+s2247
+
+N/Users/macmath22/Development/IPhone/My Apps/ATM Korea/Bank_Cell4.png
+c000000004B8E7A5200000000000007B2
+t1267628626
+s1970
+
+N/Users/macmath22/Development/IPhone/My Apps/ATM Korea/CellBG.png
+c000000004B8E7A52000000000000013A
+t1267628626
+s314
+
+N/Users/macmath22/Development/IPhone/My Apps/ATM Korea/Classes/ATM_Info.h
+c000000004B8D15E0000000000000035D
+t1267537376
+s861
+i<Foundation/Foundation.h>
+
+N/Users/macmath22/Development/IPhone/My Apps/ATM Korea/Classes/ATM_Info.m
+c000000004B8D15D000000000000001A0
+t1267537360
+s416
+i"ATM_Info.h"
+
+N/Users/macmath22/Development/IPhone/My Apps/ATM Korea/Classes/ATM_KoreaAppDelegate.h
+c000000004BAA2D48000000000000025C
+t1269443912
+s604
+i<UIKit/UIKit.h>
+
+N/Users/macmath22/Development/IPhone/My Apps/ATM Korea/Classes/ATM_KoreaAppDelegate.m
+c000000004BC4723600000000000005C3
+t1271165494
+s1475
+i"ATM_KoreaAppDelegate.h"
+
+N/Users/macmath22/Development/IPhone/My Apps/ATM Korea/Classes/AboutDetailViewController.h
+c000000004B97BCBE00000000000000F9
+t1268235454
+s249
+i<UIKit/UIKit.h>
+
+N/Users/macmath22/Development/IPhone/My Apps/ATM Korea/Classes/AboutDetailViewController.m
+c000000004B97BCBE000000000000058E
+t1268235454
+s1422
+i"AboutDetailViewController.h"
+
+N/Users/macmath22/Development/IPhone/My Apps/ATM Korea/Classes/AboutDetailViewController.xib
+c000000004B97BDAD0000000000004056
+t1268235693
+s16470
+
+N/Users/macmath22/Development/IPhone/My Apps/ATM Korea/Classes/AboutDetailViewController2.h
+c000000004B9CFCAE0000000000000146
+t1268579502
+s326
+i<UIKit/UIKit.h>
+
+N/Users/macmath22/Development/IPhone/My Apps/ATM Korea/Classes/AboutDetailViewController2.m
+c000000004B9CFC7800000000000005E4
+t1268579448
+s1508
+i"AboutDetailViewController2.h"
+
+N/Users/macmath22/Development/IPhone/My Apps/ATM Korea/Classes/AboutDetailViewController2.xib
+c000000004B9CFFB700000000000042E5
+t1268580279
+s17125
+
+N/Users/macmath22/Development/IPhone/My Apps/ATM Korea/Classes/AboutDetailViewController3.h
+c000000004B9CD4E30000000000000202
+t1268569315
+s514
+i<UIKit/UIKit.h>
+
+N/Users/macmath22/Development/IPhone/My Apps/ATM Korea/Classes/AboutDetailViewController3.m
+c000000004B9CFD5F00000000000009BB
+t1268579679
+s2491
+i"AboutDetailViewController3.h"
+
+N/Users/macmath22/Development/IPhone/My Apps/ATM Korea/Classes/AboutDetailViewController3.xib
+c000000004B9900DB0000000000004207
+t1268318427
+s16903
+
+N/Users/macmath22/Development/IPhone/My Apps/ATM Korea/Classes/AboutRootViewController.h
+c000000004BC0B5CB0000000000000179
+t1270920651
+s377
+i<UIKit/UIKit.h>
+
+N/Users/macmath22/Development/IPhone/My Apps/ATM Korea/Classes/AboutRootViewController.m
+c000000004BC318A10000000000001E56
+t1271077025
+s7766
+i"AboutRootViewController.h"
+i"AboutDetailViewController.h"
+i"AboutDetailViewController2.h"
+i"AboutDetailViewController3.h"
+
+N/Users/macmath22/Development/IPhone/My Apps/ATM Korea/Classes/AboutRootViewController.xib
+c000000004B97BED60000000000004D59
+t1268235990
+s19801
+
+N/Users/macmath22/Development/IPhone/My Apps/ATM Korea/Classes/AppConstant.h
+c000000004B8B608C0000000000000123
+t1267425420
+s291
+
+N/Users/macmath22/Development/IPhone/My Apps/ATM Korea/Classes/DatabaseManager.h
+c000000004BC00313000000000000048A
+t1270874899
+s1162
+i<Foundation/Foundation.h>
+i<sqlite3.h>
+i<CoreLocation/CoreLocation.h>
+i<MapKit/MapKit.h>
+
+N/Users/macmath22/Development/IPhone/My Apps/ATM Korea/Classes/DatabaseManager.m
+c000000004BC0BCB90000000000003671
+t1270922425
+s13937
+i"DatabaseManager.h"
+i"ATM_Info.h"
+i"AppConstant.h"
+
+N/Users/macmath22/Development/IPhone/My Apps/ATM Korea/Classes/English.lproj/MapRootViewController.xib
+c000000004BC0AA510000000000006178
+t1270917713
+s24952
+
+N/Users/macmath22/Development/IPhone/My Apps/ATM Korea/Classes/English.lproj/NearbyDetailViewController.xib
+c000000004BC0BA6400000000000064E3
+t1270921828
+s25827
+
+N/Users/macmath22/Development/IPhone/My Apps/ATM Korea/Classes/ImageAnnotation.h
+c000000004BA6068400000000000002D4
+t1269171844
+s724
+i<Foundation/Foundation.h>
+i<MapKit/MapKit.h>
+
+N/Users/macmath22/Development/IPhone/My Apps/ATM Korea/Classes/ImageAnnotation.m
+c000000004BAB8F03000000000000048E
+t1269534467
+s1166
+i"ImageAnnotation.h"
+i"AppConstant.h"
+
+N/Users/macmath22/Development/IPhone/My Apps/ATM Korea/Classes/ImageAnnotationView.h
+c000000004B91EDCF000000000000010F
+t1267854799
+s271
+i<Foundation/Foundation.h>
+i<MapKit/MapKit.h>
+
+N/Users/macmath22/Development/IPhone/My Apps/ATM Korea/Classes/ImageAnnotationView.m
+c000000004BC0A03A00000000000006E8
+t1270915130
+s1768
+i"ImageAnnotationView.h"
+i"ImageAnnotation.h"
+
+N/Users/macmath22/Development/IPhone/My Apps/ATM Korea/Classes/LocationManager.h
+c000000004B9E4B770000000000000570
+t1268665207
+s1392
+i<Foundation/Foundation.h>
+i<CoreLocation/CoreLocation.h>
+i<MapKit/MapKit.h>
+i"AppConstant.h"
+
+N/Users/macmath22/Development/IPhone/My Apps/ATM Korea/Classes/LocationManager.m
+c000000004BC47509000000000000171F
+t1271166217
+s5919
+i"LocationManager.h"
+
+N/Users/macmath22/Development/IPhone/My Apps/ATM Korea/Classes/MapRootViewController.h
+c000000004BAB90FB0000000000000409
+t1269534971
+s1033
+i<UIKit/UIKit.h>
+i<MapKit/MapKit.h>
+i"LocationManager.h"
+i"DatabaseManager.h"
+
+N/Users/macmath22/Development/IPhone/My Apps/ATM Korea/Classes/MapRootViewController.m
+c000000004BC0B4000000000000001C50
+t1270920192
+s7248
+i"MapRootViewController.h"
+i"ImageAnnotation.h"
+i"ImageAnnotationView.h"
+i"ATM_Info.h"
+
+N/Users/macmath22/Development/IPhone/My Apps/ATM Korea/Classes/NearbyDetailViewController.h
+c000000004BC0BA330000000000000400
+t1270921779
+s1024
+i<UIKit/UIKit.h>
+i<MapKit/MapKit.h>
+i"ImageAnnotation.h"
+i"ImageAnnotationView.h"
+
+N/Users/macmath22/Development/IPhone/My Apps/ATM Korea/Classes/NearbyDetailViewController.m
+c000000004BC0BA86000000000000165D
+t1270921862
+s5725
+i"NearbyDetailViewController.h"
+i<QuartzCore/QuartzCore.h>
+
+N/Users/macmath22/Development/IPhone/My Apps/ATM Korea/Classes/NearbyRootController.h
+c000000004BC468A50000000000000677
+t1271163045
+s1655
+i<UIKit/UIKit.h>
+i<CoreLocation/CoreLocation.h>
+i<CoreLocation/CLLocation.h>
+i"SettingsController.h"
+i"LocationManager.h"
+i"DatabaseManager.h"
+
+N/Users/macmath22/Development/IPhone/My Apps/ATM Korea/Classes/NearbyRootController.m
+c000000004BC469520000000000003A35
+t1271163218
+s14901
+i"NearbyRootController.h"
+i"NearbyDetailViewController.h"
+i"SettingsController.h"
+i"ATM_Info.h"
+i"AppConstant.h"
+
+N/Users/macmath22/Development/IPhone/My Apps/ATM Korea/Classes/NearbyRootController.xib
+c000000004BAA35BA0000000000004E1C
+t1269446074
+s19996
+
+N/Users/macmath22/Development/IPhone/My Apps/ATM Korea/Classes/SearchViewController.h
+c000000004B935AA300000000000000EF
+t1267948195
+s239
+i<UIKit/UIKit.h>
+
+N/Users/macmath22/Development/IPhone/My Apps/ATM Korea/Classes/SearchViewController.m
+c000000004B934251000000000000057E
+t1267941969
+s1406
+i"SearchViewController.h"
+
+N/Users/macmath22/Development/IPhone/My Apps/ATM Korea/Classes/SearchViewController.xib
+c000000004B935BEF00000000000047C9
+t1267948527
+s18377
+
+N/Users/macmath22/Development/IPhone/My Apps/ATM Korea/Classes/SettingsController.h
+c000000004B8B705E0000000000000493
+t1267429470
+s1171
+i<UIKit/UIKit.h>
+
+N/Users/macmath22/Development/IPhone/My Apps/ATM Korea/Classes/SettingsController.m
+c000000004BC0B4420000000000001BC5
+t1270920258
+s7109
+i"SettingsController.h"
+i"AppConstant.h"
+
+N/Users/macmath22/Development/IPhone/My Apps/ATM Korea/Classes/ko.lproj/MapRootViewController.xib
+c000000004BA600980000000000005355
+t1269170328
+s21333
+
+N/Users/macmath22/Development/IPhone/My Apps/ATM Korea/Classes/ko.lproj/NearbyDetailViewController.xib
+c000000004BC0BA740000000000006598
+t1270921844
+s26008
+
+N/Users/macmath22/Development/IPhone/My Apps/ATM Korea/Default.png
+c000000004BC0A79F000000000000592B
+t1270917023
+s22827
+
+N/Users/macmath22/Development/IPhone/My Apps/ATM Korea/Default7.png
+c000000004B8A991E0000000000002CFF
+t1267374366
+s11519
+
+N/Users/macmath22/Development/IPhone/My Apps/ATM Korea/English.lproj/Localizable.strings
+c000000004BC01BEA0000000000000872
+t1270881258
+s2162
+
+N/Users/macmath22/Development/IPhone/My Apps/ATM Korea/English.lproj/MainWindow.xib
+c000000004BC0BD7F000000000000A3CA
+t1270922623
+s41930
+
+N/Users/macmath22/Development/IPhone/My Apps/ATM Korea/English.lproj/SettingsController.xib
+c000000004B8D4304000000000000596E
+t1267548932
+s22894
+
+N/Users/macmath22/Development/IPhone/My Apps/ATM Korea/Icon.png
+c000000004BC46630000000000000127D
+t1271162416
+s4733
+
+N/Users/macmath22/Development/IPhone/My Apps/ATM Korea/Icon2.png
+c000000004BC09444000000000000711A
+t1270912068
+s28954
+
+N/Users/macmath22/Development/IPhone/My Apps/ATM Korea/Icon3.png
+c000000004BC30B360000000000003012
+t1271073590
+s12306
+
+N/Users/macmath22/Development/IPhone/My Apps/ATM Korea/MAp.png
+c000000004BC0BCFC0000000000000221
+t1270922492
+s545
+
+N/Users/macmath22/Development/IPhone/My Apps/ATM Korea/Map4.png
+c000000004BA23AE400000000000001CB
+t1268923108
+s459
+
+N/Users/macmath22/Development/IPhone/My Apps/ATM Korea/Near.png
+c000000004BC0BCFC0000000000000200
+t1270922492
+s512
+
+N/Users/macmath22/Development/IPhone/My Apps/ATM Korea/Nearby.png
+c000000004B49F0DA0000000000000215
+t1263136986
+s533
+
+N/Users/macmath22/Development/IPhone/My Apps/ATM Korea/NearbyTableViewCell.xib
+c000000004BC313A80000000000004F20
+t1271075752
+s20256
+
+N/Users/macmath22/Development/IPhone/My Apps/ATM Korea/Search.png
+c000000004B49F2220000000000000207
+t1263137314
+s519
+
+N/Users/macmath22/Development/IPhone/My Apps/ATM Korea/bank_db.txt
+c000000004BBB3CF20000000000134B6C
+t1270562034
+s1264492
+
+N/Users/macmath22/Development/IPhone/My Apps/ATM Korea/build/ATM Korea.build/Release-iphonesimulator/ATM Korea.build/Objects-normal/i386/ATM Korea.LinkFileList
+c000000004BC47ACE00000000000009DD
+t1271167694
+s2525
+
+N/Users/macmath22/Development/IPhone/My Apps/ATM Korea/build/ATM Korea.build/Release-iphonesimulator/ATM Korea.build/Objects-normal/i386/ATM_Info.o
+t1271167731
+s12780
+
+N/Users/macmath22/Development/IPhone/My Apps/ATM Korea/build/ATM Korea.build/Release-iphonesimulator/ATM Korea.build/Objects-normal/i386/ATM_KoreaAppDelegate.o
+t1271167730
+s43160
+
+N/Users/macmath22/Development/IPhone/My Apps/ATM Korea/build/ATM Korea.build/Release-iphonesimulator/ATM Korea.build/Objects-normal/i386/AboutDetailViewController.o
+t1271167732
+s29880
+
+N/Users/macmath22/Development/IPhone/My Apps/ATM Korea/build/ATM Korea.build/Release-iphonesimulator/ATM Korea.build/Objects-normal/i386/AboutDetailViewController2.o
+t1271167733
+s31616
+
+N/Users/macmath22/Development/IPhone/My Apps/ATM Korea/build/ATM Korea.build/Release-iphonesimulator/ATM Korea.build/Objects-normal/i386/AboutDetailViewController3.o
+t1271167733
+s40320
+
+N/Users/macmath22/Development/IPhone/My Apps/ATM Korea/build/ATM Korea.build/Release-iphonesimulator/ATM Korea.build/Objects-normal/i386/AboutRootViewController.o
+t1271167732
+s49772
+
+N/Users/macmath22/Development/IPhone/My Apps/ATM Korea/build/ATM Korea.build/Release-iphonesimulator/ATM Korea.build/Objects-normal/i386/DatabaseManager.o
+t1271167732
+s30492
+
+N/Users/macmath22/Development/IPhone/My Apps/ATM Korea/build/ATM Korea.build/Release-iphonesimulator/ATM Korea.build/Objects-normal/i386/ImageAnnotation.o
+t1271167732
+s14596
+
+N/Users/macmath22/Development/IPhone/My Apps/ATM Korea/build/ATM Korea.build/Release-iphonesimulator/ATM Korea.build/Objects-normal/i386/ImageAnnotationView.o
+t1271167732
+s13312
+
+N/Users/macmath22/Development/IPhone/My Apps/ATM Korea/build/ATM Korea.build/Release-iphonesimulator/ATM Korea.build/Objects-normal/i386/LocationManager.o
+t1271167731
+s36536
+
+N/Users/macmath22/Development/IPhone/My Apps/ATM Korea/build/ATM Korea.build/Release-iphonesimulator/ATM Korea.build/Objects-normal/i386/MapRootViewController.o
+t1271167733
+s54268
+
+N/Users/macmath22/Development/IPhone/My Apps/ATM Korea/build/ATM Korea.build/Release-iphonesimulator/ATM Korea.build/Objects-normal/i386/NearbyDetailViewController.o
+t1271167732
+s52096
+
+N/Users/macmath22/Development/IPhone/My Apps/ATM Korea/build/ATM Korea.build/Release-iphonesimulator/ATM Korea.build/Objects-normal/i386/NearbyRootController.o
+t1271167731
+s75464
+
+N/Users/macmath22/Development/IPhone/My Apps/ATM Korea/build/ATM Korea.build/Release-iphonesimulator/ATM Korea.build/Objects-normal/i386/SearchViewController.o
+t1271167732
+s29816
+
+N/Users/macmath22/Development/IPhone/My Apps/ATM Korea/build/ATM Korea.build/Release-iphonesimulator/ATM Korea.build/Objects-normal/i386/SettingsController.o
+t1271167730
+s47908
+
+N/Users/macmath22/Development/IPhone/My Apps/ATM Korea/build/ATM Korea.build/Release-iphonesimulator/ATM Korea.build/Objects-normal/i386/main.o
+t1271167730
+s5960
+
+N/Users/macmath22/Development/IPhone/My Apps/ATM Korea/build/Release-iphonesimulator/ATM Korea.app
+t1271167734
+s1632
+
+N/Users/macmath22/Development/IPhone/My Apps/ATM Korea/build/Release-iphonesimulator/ATM Korea.app.dSYM
+t1271167734
+s102
+
+N/Users/macmath22/Development/IPhone/My Apps/ATM Korea/build/Release-iphonesimulator/ATM Korea.app/1_2.png
+t1271167725
+s1195
+
+N/Users/macmath22/Development/IPhone/My Apps/ATM Korea/build/Release-iphonesimulator/ATM Korea.app/2_2.png
+t1271167725
+s1272
+
+N/Users/macmath22/Development/IPhone/My Apps/ATM Korea/build/Release-iphonesimulator/ATM Korea.app/3_2.png
+t1271167725
+s1055
+
+N/Users/macmath22/Development/IPhone/My Apps/ATM Korea/build/Release-iphonesimulator/ATM Korea.app/4_2.png
+t1271167725
+s1817
+
+N/Users/macmath22/Development/IPhone/My Apps/ATM Korea/build/Release-iphonesimulator/ATM Korea.app/5_2.png
+t1271167725
+s1432
+
+N/Users/macmath22/Development/IPhone/My Apps/ATM Korea/build/Release-iphonesimulator/ATM Korea.app/6_2.png
+t1271167725
+s1201
+
+N/Users/macmath22/Development/IPhone/My Apps/ATM Korea/build/Release-iphonesimulator/ATM Korea.app/7_2.png
+t1271167725
+s1398
+
+N/Users/macmath22/Development/IPhone/My Apps/ATM Korea/build/Release-iphonesimulator/ATM Korea.app/8_2.png
+t1271167725
+s1101
+
+N/Users/macmath22/Development/IPhone/My Apps/ATM Korea/build/Release-iphonesimulator/ATM Korea.app/ABO.png
+t1271167725
+s535
+
+N/Users/macmath22/Development/IPhone/My Apps/ATM Korea/build/Release-iphonesimulator/ATM Korea.app/ATM Korea
+t1271167734
+s109208
+
+N/Users/macmath22/Development/IPhone/My Apps/ATM Korea/build/Release-iphonesimulator/ATM Korea.app/ATMDB.sqlite
+t1271167715
+s2032640
+
+N/Users/macmath22/Development/IPhone/My Apps/ATM Korea/build/Release-iphonesimulator/ATM Korea.app/ATM_Cell3.png
+t1271167714
+s2474
+
+N/Users/macmath22/Development/IPhone/My Apps/ATM Korea/build/Release-iphonesimulator/ATM Korea.app/ATM_Cell4.png
+t1271167714
+s2120
+
+N/Users/macmath22/Development/IPhone/My Apps/ATM Korea/build/Release-iphonesimulator/ATM Korea.app/About6.png
+t1271167725
+s424
+
+N/Users/macmath22/Development/IPhone/My Apps/ATM Korea/build/Release-iphonesimulator/ATM Korea.app/AboutDetailView2Cell.nib
+t1271167724
+s3584
+
+N/Users/macmath22/Development/IPhone/My Apps/ATM Korea/build/Release-iphonesimulator/ATM Korea.app/AboutDetailViewController.nib
+t1271167722
+s1818
+
+N/Users/macmath22/Development/IPhone/My Apps/ATM Korea/build/Release-iphonesimulator/ATM Korea.app/AboutDetailViewController2.nib
+t1271167723
+s1779
+
+N/Users/macmath22/Development/IPhone/My Apps/ATM Korea/build/Release-iphonesimulator/ATM Korea.app/AboutDetailViewController3.nib
+t1271167724
+s1651
+
+N/Users/macmath22/Development/IPhone/My Apps/ATM Korea/build/Release-iphonesimulator/ATM Korea.app/AboutRootViewController.nib
+t1271167721
+s2415
+
+N/Users/macmath22/Development/IPhone/My Apps/ATM Korea/build/Release-iphonesimulator/ATM Korea.app/Bank_Cell3.png
+t1271167714
+s2247
+
+N/Users/macmath22/Development/IPhone/My Apps/ATM Korea/build/Release-iphonesimulator/ATM Korea.app/Bank_Cell4.png
+t1271167714
+s1970
+
+N/Users/macmath22/Development/IPhone/My Apps/ATM Korea/build/Release-iphonesimulator/ATM Korea.app/CellBG.png
+t1271167714
+s314
+
+N/Users/macmath22/Development/IPhone/My Apps/ATM Korea/build/Release-iphonesimulator/ATM Korea.app/Default.png
+t1271167725
+s22827
+
+N/Users/macmath22/Development/IPhone/My Apps/ATM Korea/build/Release-iphonesimulator/ATM Korea.app/Default7.png
+t1271167714
+s11519
+
+N/Users/macmath22/Development/IPhone/My Apps/ATM Korea/build/Release-iphonesimulator/ATM Korea.app/English.lproj/Localizable.strings
+t1271167718
+s451
+
+N/Users/macmath22/Development/IPhone/My Apps/ATM Korea/build/Release-iphonesimulator/ATM Korea.app/English.lproj/MainWindow.nib
+t1271167709
+s4491
+
+N/Users/macmath22/Development/IPhone/My Apps/ATM Korea/build/Release-iphonesimulator/ATM Korea.app/English.lproj/MapRootViewController.nib
+t1271167725
+s3121
+
+N/Users/macmath22/Development/IPhone/My Apps/ATM Korea/build/Release-iphonesimulator/ATM Korea.app/English.lproj/NearbyDetailViewController.nib
+t1271167721
+s3860
+
+N/Users/macmath22/Development/IPhone/My Apps/ATM Korea/build/Release-iphonesimulator/ATM Korea.app/English.lproj/SettingsController.nib
+t1271167714
+s2521
+
+N/Users/macmath22/Development/IPhone/My Apps/ATM Korea/build/Release-iphonesimulator/ATM Korea.app/Icon.png
+t1271167725
+s4733
+
+N/Users/macmath22/Development/IPhone/My Apps/ATM Korea/build/Release-iphonesimulator/ATM Korea.app/Icon2.png
+t1271167725
+s28954
+
+N/Users/macmath22/Development/IPhone/My Apps/ATM Korea/build/Release-iphonesimulator/ATM Korea.app/Icon3.png
+t1271167725
+s12306
+
+N/Users/macmath22/Development/IPhone/My Apps/ATM Korea/build/Release-iphonesimulator/ATM Korea.app/Info.plist
+t1271167694
+s596
+
+N/Users/macmath22/Development/IPhone/My Apps/ATM Korea/build/Release-iphonesimulator/ATM Korea.app/MAp.png
+t1271167725
+s545
+
+N/Users/macmath22/Development/IPhone/My Apps/ATM Korea/build/Release-iphonesimulator/ATM Korea.app/Map4.png
+t1271167725
+s459
+
+N/Users/macmath22/Development/IPhone/My Apps/ATM Korea/build/Release-iphonesimulator/ATM Korea.app/Near.png
+t1271167725
+s512
+
+N/Users/macmath22/Development/IPhone/My Apps/ATM Korea/build/Release-iphonesimulator/ATM Korea.app/Nearby.png
+t1271167714
+s533
+
+N/Users/macmath22/Development/IPhone/My Apps/ATM Korea/build/Release-iphonesimulator/ATM Korea.app/NearbyRootController.nib
+t1271167713
+s1958
+
+N/Users/macmath22/Development/IPhone/My Apps/ATM Korea/build/Release-iphonesimulator/ATM Korea.app/NearbyTableViewCell.nib
+t1271167713
+s3382
+
+N/Users/macmath22/Development/IPhone/My Apps/ATM Korea/build/Release-iphonesimulator/ATM Korea.app/PkgInfo
+t1271167694
+s8
+
+N/Users/macmath22/Development/IPhone/My Apps/ATM Korea/build/Release-iphonesimulator/ATM Korea.app/Search.png
+t1271167714
+s519
+
+N/Users/macmath22/Development/IPhone/My Apps/ATM Korea/build/Release-iphonesimulator/ATM Korea.app/SearchViewController.nib
+t1271167722
+s2026
+
+N/Users/macmath22/Development/IPhone/My Apps/ATM Korea/build/Release-iphonesimulator/ATM Korea.app/bank_db.txt
+t1271167717
+s1264492
+
+N/Users/macmath22/Development/IPhone/My Apps/ATM Korea/build/Release-iphonesimulator/ATM Korea.app/currentpos.png
+t1271167725
+s1022
+
+N/Users/macmath22/Development/IPhone/My Apps/ATM Korea/build/Release-iphonesimulator/ATM Korea.app/kingkong.png
+t1271167724
+s3884
+
+N/Users/macmath22/Development/IPhone/My Apps/ATM Korea/build/Release-iphonesimulator/ATM Korea.app/ko.lproj/Localizable.strings
+t1271167719
+s743
+
+N/Users/macmath22/Development/IPhone/My Apps/ATM Korea/build/Release-iphonesimulator/ATM Korea.app/ko.lproj/MainWindow.nib
+t1271167709
+s4504
+
+N/Users/macmath22/Development/IPhone/My Apps/ATM Korea/build/Release-iphonesimulator/ATM Korea.app/ko.lproj/MapRootViewController.nib
+t1271167726
+s2642
+
+N/Users/macmath22/Development/IPhone/My Apps/ATM Korea/build/Release-iphonesimulator/ATM Korea.app/ko.lproj/NearbyDetailViewController.nib
+t1271167721
+s3799
+
+N/Users/macmath22/Development/IPhone/My Apps/ATM Korea/build/Release-iphonesimulator/ATM Korea.app/ko.lproj/SettingsController.nib
+t1271167714
+s2517
+
+N/Users/macmath22/Development/IPhone/My Apps/ATM Korea/build/Release-iphonesimulator/ATM Korea.app/likus_logo.png
+t1271167722
+s822
+
+N/Users/macmath22/Development/IPhone/My Apps/ATM Korea/build/Release-iphonesimulator/ATM Korea.app/macmath22.png
+t1271167724
+s4568
+
+N/Users/macmath22/Development/IPhone/My Apps/ATM Korea/build/Release-iphonesimulator/ATM Korea.app/mypos.png
+t1271167725
+s978
+
+N/Users/macmath22/Development/IPhone/My Apps/ATM Korea/build/Release-iphonesimulator/ATM Korea.app/saljjinnom.png
+t1271167724
+s3906
+
+N/Users/macmath22/Development/IPhone/My Apps/ATM Korea/currentpos.png
+c000000004BC0333A00000000000003FE
+t1270887226
+s1022
+
+N/Users/macmath22/Development/IPhone/My Apps/ATM Korea/kingkong.png
+c000000004B9CFEC80000000000000F2C
+t1268580040
+s3884
+
+N/Users/macmath22/Development/IPhone/My Apps/ATM Korea/ko.lproj/Localizable.strings
+c000000004BC01D1700000000000007A8
+t1270881559
+s1960
+
+N/Users/macmath22/Development/IPhone/My Apps/ATM Korea/ko.lproj/MainWindow.xib
+c000000004BC0BD9A000000000000A399
+t1270922650
+s41881
+
+N/Users/macmath22/Development/IPhone/My Apps/ATM Korea/ko.lproj/SettingsController.xib
+c000000004B8D4324000000000000596C
+t1267548964
+s22892
+
+N/Users/macmath22/Development/IPhone/My Apps/ATM Korea/likus_logo.png
+c000000004B97B3CB0000000000000336
+t1268233163
+s822
+
+N/Users/macmath22/Development/IPhone/My Apps/ATM Korea/macmath22.png
+c000000004B9CFEC900000000000011D8
+t1268580041
+s4568
+
+N/Users/macmath22/Development/IPhone/My Apps/ATM Korea/main.m
+c000000004B89DA4C000000000000016C
+t1267325516
+s364
+i<UIKit/UIKit.h>
+
+N/Users/macmath22/Development/IPhone/My Apps/ATM Korea/mypos.png
+c000000004BC0859A00000000000003D2
+t1270908314
+s978
+
+N/Users/macmath22/Development/IPhone/My Apps/ATM Korea/saljjinnom.png
+c000000004B9CFEC90000000000000F42
+t1268580041
+s3906
+
+N/var/folders/lR/lR4Jr+itHKycB0liBwNolE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/ATM_Korea_Prefix-avsscilhfspeyfauvccvkrowylkk/ATM_Korea_Prefix.pch.gch
+t1271167729
+s12731856
+
+NATM_Korea-Info.plist
+c000000004BC1F1420000000000000382
+t1271001410
+s898
+
+CCheck dependencies
+r0
+lSLF07#2@18"Check dependencies292860491#292860494#0(0"0(0#1#0"4300739032#0"0#
+
+CCompileC "build/ATM Korea.build/Release-iphonesimulator/ATM Korea.build/Objects-normal/i386/ATM_Info.o" "/Users/macmath22/Development/IPhone/My Apps/ATM Korea/Classes/ATM_Info.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+s292860531.507949
+e292860531.638450
+r1
+xCompileC
+xbuild/ATM Korea.build/Release-iphonesimulator/ATM Korea.build/Objects-normal/i386/ATM_Info.o
+x/Users/macmath22/Development/IPhone/My Apps/ATM Korea/Classes/ATM_Info.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@80"Compile /Users/macmath22/Development/IPhone/My Apps/ATM Korea/Classes/ATM_Info.m292860531#292860531#0(0"0(0#0#72"/Users/macmath22/Development/IPhone/My Apps/ATM Korea/Classes/ATM_Info.m4300739032#2137"    cd "/Users/macmath22/Development/IPhone/My Apps/ATM Korea"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -Os -mdynamic-no-pic -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30000 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.3.sdk -fvisibility=hidden -mmacosx-version-min=10.5 -gdwarf-2 -iquote "/Users/macmath22/Development/IPhone/My Apps/ATM Korea/build/ATM Korea.build/Release-iphonesimulator/ATM Korea.build/ATM Korea-generated-files.hmap" "-I/Users/macmath22/Development/IPhone/My Apps/ATM Korea/build/ATM Korea.build/Release-iphonesimulator/ATM Korea.build/ATM Korea-own-target-headers.hmap" "-I/Users/macmath22/Development/IPhone/My Apps/ATM Korea/build/ATM Korea.build/Release-iphonesimulator/ATM Korea.build/ATM Korea-all-target-headers.hmap" -iquote "/Users/macmath22/Development/IPhone/My Apps/ATM Korea/build/ATM Korea.build/Release-iphonesimulator/ATM Korea.build/ATM Korea-project-headers.hmap" "-F/Users/macmath22/Development/IPhone/My Apps/ATM Korea/build/Release-iphonesimulator" "-I/Users/macmath22/Development/IPhone/My Apps/ATM Korea/build/Release-iphonesimulator/include" "-I/Users/macmath22/Development/IPhone/My Apps/ATM Korea/build/ATM Korea.build/Release-iphonesimulator/ATM Korea.build/DerivedSources/i386" "-I/Users/macmath22/Development/IPhone/My Apps/ATM Korea/build/ATM Korea.build/Release-iphonesimulator/ATM Korea.build/DerivedSources" -include /var/folders/lR/lR4Jr+itHKycB0liBwNolE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/ATM_Korea_Prefix-avsscilhfspeyfauvccvkrowylkk/ATM_Korea_Prefix.pch -c "/Users/macmath22/Development/IPhone/My Apps/ATM Korea/Classes/ATM_Info.m" -o "/Users/macmath22/Development/IPhone/My Apps/ATM Korea/build/ATM Korea.build/Release-iphonesimulator/ATM Korea.build/Objects-normal/i386/ATM_Info.o"0#
+
+CCompileC "build/ATM Korea.build/Release-iphonesimulator/ATM Korea.build/Objects-normal/i386/ATM_KoreaAppDelegate.o" "/Users/macmath22/Development/IPhone/My Apps/ATM Korea/Classes/ATM_KoreaAppDelegate.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+s292860529.724651
+e292860530.061429
+r1
+xCompileC
+xbuild/ATM Korea.build/Release-iphonesimulator/ATM Korea.build/Objects-normal/i386/ATM_KoreaAppDelegate.o
+x/Users/macmath22/Development/IPhone/My Apps/ATM Korea/Classes/ATM_KoreaAppDelegate.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@92"Compile /Users/macmath22/Development/IPhone/My Apps/ATM Korea/Classes/ATM_KoreaAppDelegate.m292860529#292860530#0(0"0(0#0#84"/Users/macmath22/Development/IPhone/My Apps/ATM Korea/Classes/ATM_KoreaAppDelegate.m4300739032#2161"    cd "/Users/macmath22/Development/IPhone/My Apps/ATM Korea"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -Os -mdynamic-no-pic -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30000 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.3.sdk -fvisibility=hidden -mmacosx-version-min=10.5 -gdwarf-2 -iquote "/Users/macmath22/Development/IPhone/My Apps/ATM Korea/build/ATM Korea.build/Release-iphonesimulator/ATM Korea.build/ATM Korea-generated-files.hmap" "-I/Users/macmath22/Development/IPhone/My Apps/ATM Korea/build/ATM Korea.build/Release-iphonesimulator/ATM Korea.build/ATM Korea-own-target-headers.hmap" "-I/Users/macmath22/Development/IPhone/My Apps/ATM Korea/build/ATM Korea.build/Release-iphonesimulator/ATM Korea.build/ATM Korea-all-target-headers.hmap" -iquote "/Users/macmath22/Development/IPhone/My Apps/ATM Korea/build/ATM Korea.build/Release-iphonesimulator/ATM Korea.build/ATM Korea-project-headers.hmap" "-F/Users/macmath22/Development/IPhone/My Apps/ATM Korea/build/Release-iphonesimulator" "-I/Users/macmath22/Development/IPhone/My Apps/ATM Korea/build/Release-iphonesimulator/include" "-I/Users/macmath22/Development/IPhone/My Apps/ATM Korea/build/ATM Korea.build/Release-iphonesimulator/ATM Korea.build/DerivedSources/i386" "-I/Users/macmath22/Development/IPhone/My Apps/ATM Korea/build/ATM Korea.build/Release-iphonesimulator/ATM Korea.build/DerivedSources" -include /var/folders/lR/lR4Jr+itHKycB0liBwNolE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/ATM_Korea_Prefix-avsscilhfspeyfauvccvkrowylkk/ATM_Korea_Prefix.pch -c "/Users/macmath22/Development/IPhone/My Apps/ATM Korea/Classes/ATM_KoreaAppDelegate.m" -o "/Users/macmath22/Development/IPhone/My Apps/ATM Korea/build/ATM Korea.build/Release-iphonesimulator/ATM Korea.build/Objects-normal/i386/ATM_KoreaAppDelegate.o"0#
+
+CCompileC "build/ATM Korea.build/Release-iphonesimulator/ATM Korea.build/Objects-normal/i386/AboutDetailViewController.o" "/Users/macmath22/Development/IPhone/My Apps/ATM Korea/Classes/AboutDetailViewController.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+s292860532.737798
+e292860532.903008
+r1
+xCompileC
+xbuild/ATM Korea.build/Release-iphonesimulator/ATM Korea.build/Objects-normal/i386/AboutDetailViewController.o
+x/Users/macmath22/Development/IPhone/My Apps/ATM Korea/Classes/AboutDetailViewController.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@97"Compile /Users/macmath22/Development/IPhone/My Apps/ATM Korea/Classes/AboutDetailViewController.m292860532#292860532#0(0"0(0#0#89"/Users/macmath22/Development/IPhone/My Apps/ATM Korea/Classes/AboutDetailViewController.m4300739032#2171"    cd "/Users/macmath22/Development/IPhone/My Apps/ATM Korea"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -Os -mdynamic-no-pic -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30000 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.3.sdk -fvisibility=hidden -mmacosx-version-min=10.5 -gdwarf-2 -iquote "/Users/macmath22/Development/IPhone/My Apps/ATM Korea/build/ATM Korea.build/Release-iphonesimulator/ATM Korea.build/ATM Korea-generated-files.hmap" "-I/Users/macmath22/Development/IPhone/My Apps/ATM Korea/build/ATM Korea.build/Release-iphonesimulator/ATM Korea.build/ATM Korea-own-target-headers.hmap" "-I/Users/macmath22/Development/IPhone/My Apps/ATM Korea/build/ATM Korea.build/Release-iphonesimulator/ATM Korea.build/ATM Korea-all-target-headers.hmap" -iquote "/Users/macmath22/Development/IPhone/My Apps/ATM Korea/build/ATM Korea.build/Release-iphonesimulator/ATM Korea.build/ATM Korea-project-headers.hmap" "-F/Users/macmath22/Development/IPhone/My Apps/ATM Korea/build/Release-iphonesimulator" "-I/Users/macmath22/Development/IPhone/My Apps/ATM Korea/build/Release-iphonesimulator/include" "-I/Users/macmath22/Development/IPhone/My Apps/ATM Korea/build/ATM Korea.build/Release-iphonesimulator/ATM Korea.build/DerivedSources/i386" "-I/Users/macmath22/Development/IPhone/My Apps/ATM Korea/build/ATM Korea.build/Release-iphonesimulator/ATM Korea.build/DerivedSources" -include /var/folders/lR/lR4Jr+itHKycB0liBwNolE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/ATM_Korea_Prefix-avsscilhfspeyfauvccvkrowylkk/ATM_Korea_Prefix.pch -c "/Users/macmath22/Development/IPhone/My Apps/ATM Korea/Classes/AboutDetailViewController.m" -o "/Users/macmath22/Development/IPhone/My Apps/ATM Korea/build/ATM Korea.build/Release-iphonesimulator/ATM Korea.build/Objects-normal/i386/AboutDetailViewController.o"0#
+
+CCompileC "build/ATM Korea.build/Release-iphonesimulator/ATM Korea.build/Objects-normal/i386/AboutDetailViewController2.o" "/Users/macmath22/Development/IPhone/My Apps/ATM Korea/Classes/AboutDetailViewController2.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+s292860532.903133
+e292860533.133306
+r1
+xCompileC
+xbuild/ATM Korea.build/Release-iphonesimulator/ATM Korea.build/Objects-normal/i386/AboutDetailViewController2.o
+x/Users/macmath22/Development/IPhone/My Apps/ATM Korea/Classes/AboutDetailViewController2.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@98"Compile /Users/macmath22/Development/IPhone/My Apps/ATM Korea/Classes/AboutDetailViewController2.m292860532#292860533#0(0"0(0#0#90"/Users/macmath22/Development/IPhone/My Apps/ATM Korea/Classes/AboutDetailViewController2.m4300739032#2173"    cd "/Users/macmath22/Development/IPhone/My Apps/ATM Korea"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -Os -mdynamic-no-pic -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30000 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.3.sdk -fvisibility=hidden -mmacosx-version-min=10.5 -gdwarf-2 -iquote "/Users/macmath22/Development/IPhone/My Apps/ATM Korea/build/ATM Korea.build/Release-iphonesimulator/ATM Korea.build/ATM Korea-generated-files.hmap" "-I/Users/macmath22/Development/IPhone/My Apps/ATM Korea/build/ATM Korea.build/Release-iphonesimulator/ATM Korea.build/ATM Korea-own-target-headers.hmap" "-I/Users/macmath22/Development/IPhone/My Apps/ATM Korea/build/ATM Korea.build/Release-iphonesimulator/ATM Korea.build/ATM Korea-all-target-headers.hmap" -iquote "/Users/macmath22/Development/IPhone/My Apps/ATM Korea/build/ATM Korea.build/Release-iphonesimulator/ATM Korea.build/ATM Korea-project-headers.hmap" "-F/Users/macmath22/Development/IPhone/My Apps/ATM Korea/build/Release-iphonesimulator" "-I/Users/macmath22/Development/IPhone/My Apps/ATM Korea/build/Release-iphonesimulator/include" "-I/Users/macmath22/Development/IPhone/My Apps/ATM Korea/build/ATM Korea.build/Release-iphonesimulator/ATM Korea.build/DerivedSources/i386" "-I/Users/macmath22/Development/IPhone/My Apps/ATM Korea/build/ATM Korea.build/Release-iphonesimulator/ATM Korea.build/DerivedSources" -include /var/folders/lR/lR4Jr+itHKycB0liBwNolE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/ATM_Korea_Prefix-avsscilhfspeyfauvccvkrowylkk/ATM_Korea_Prefix.pch -c "/Users/macmath22/Development/IPhone/My Apps/ATM Korea/Classes/AboutDetailViewController2.m" -o "/Users/macmath22/Development/IPhone/My Apps/ATM Korea/build/ATM Korea.build/Release-iphonesimulator/ATM Korea.build/Objects-normal/i386/AboutDetailViewController2.o"0#
+
+CCompileC "build/ATM Korea.build/Release-iphonesimulator/ATM Korea.build/Objects-normal/i386/AboutDetailViewController3.o" "/Users/macmath22/Development/IPhone/My Apps/ATM Korea/Classes/AboutDetailViewController3.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+s292860532.897918
+e292860533.377005
+r1
+xCompileC
+xbuild/ATM Korea.build/Release-iphonesimulator/ATM Korea.build/Objects-normal/i386/AboutDetailViewController3.o
+x/Users/macmath22/Development/IPhone/My Apps/ATM Korea/Classes/AboutDetailViewController3.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@98"Compile /Users/macmath22/Development/IPhone/My Apps/ATM Korea/Classes/AboutDetailViewController3.m292860532#292860533#0(0"0(0#0#90"/Users/macmath22/Development/IPhone/My Apps/ATM Korea/Classes/AboutDetailViewController3.m4300739032#2173"    cd "/Users/macmath22/Development/IPhone/My Apps/ATM Korea"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -Os -mdynamic-no-pic -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30000 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.3.sdk -fvisibility=hidden -mmacosx-version-min=10.5 -gdwarf-2 -iquote "/Users/macmath22/Development/IPhone/My Apps/ATM Korea/build/ATM Korea.build/Release-iphonesimulator/ATM Korea.build/ATM Korea-generated-files.hmap" "-I/Users/macmath22/Development/IPhone/My Apps/ATM Korea/build/ATM Korea.build/Release-iphonesimulator/ATM Korea.build/ATM Korea-own-target-headers.hmap" "-I/Users/macmath22/Development/IPhone/My Apps/ATM Korea/build/ATM Korea.build/Release-iphonesimulator/ATM Korea.build/ATM Korea-all-target-headers.hmap" -iquote "/Users/macmath22/Development/IPhone/My Apps/ATM Korea/build/ATM Korea.build/Release-iphonesimulator/ATM Korea.build/ATM Korea-project-headers.hmap" "-F/Users/macmath22/Development/IPhone/My Apps/ATM Korea/build/Release-iphonesimulator" "-I/Users/macmath22/Development/IPhone/My Apps/ATM Korea/build/Release-iphonesimulator/include" "-I/Users/macmath22/Development/IPhone/My Apps/ATM Korea/build/ATM Korea.build/Release-iphonesimulator/ATM Korea.build/DerivedSources/i386" "-I/Users/macmath22/Development/IPhone/My Apps/ATM Korea/build/ATM Korea.build/Release-iphonesimulator/ATM Korea.build/DerivedSources" -include /var/folders/lR/lR4Jr+itHKycB0liBwNolE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/ATM_Korea_Prefix-avsscilhfspeyfauvccvkrowylkk/ATM_Korea_Prefix.pch -c "/Users/macmath22/Development/IPhone/My Apps/ATM Korea/Classes/AboutDetailViewController3.m" -o "/Users/macmath22/Development/IPhone/My Apps/ATM Korea/build/ATM Korea.build/Release-iphonesimulator/ATM Korea.build/Objects-normal/i386/AboutDetailViewController3.o"0#
+
+CCompileC "build/ATM Korea.build/Release-iphonesimulator/ATM Korea.build/Objects-normal/i386/AboutRootViewController.o" "/Users/macmath22/Development/IPhone/My Apps/ATM Korea/Classes/AboutRootViewController.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+s292860532.081495
+e292860532.737673
+r1
+xCompileC
+xbuild/ATM Korea.build/Release-iphonesimulator/ATM Korea.build/Objects-normal/i386/AboutRootViewController.o
+x/Users/macmath22/Development/IPhone/My Apps/ATM Korea/Classes/AboutRootViewController.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@95"Compile /Users/macmath22/Development/IPhone/My Apps/ATM Korea/Classes/AboutRootViewController.m292860532#292860532#0(0"0(0#0#87"/Users/macmath22/Development/IPhone/My Apps/ATM Korea/Classes/AboutRootViewController.m4300739032#2167"    cd "/Users/macmath22/Development/IPhone/My Apps/ATM Korea"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -Os -mdynamic-no-pic -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30000 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.3.sdk -fvisibility=hidden -mmacosx-version-min=10.5 -gdwarf-2 -iquote "/Users/macmath22/Development/IPhone/My Apps/ATM Korea/build/ATM Korea.build/Release-iphonesimulator/ATM Korea.build/ATM Korea-generated-files.hmap" "-I/Users/macmath22/Development/IPhone/My Apps/ATM Korea/build/ATM Korea.build/Release-iphonesimulator/ATM Korea.build/ATM Korea-own-target-headers.hmap" "-I/Users/macmath22/Development/IPhone/My Apps/ATM Korea/build/ATM Korea.build/Release-iphonesimulator/ATM Korea.build/ATM Korea-all-target-headers.hmap" -iquote "/Users/macmath22/Development/IPhone/My Apps/ATM Korea/build/ATM Korea.build/Release-iphonesimulator/ATM Korea.build/ATM Korea-project-headers.hmap" "-F/Users/macmath22/Development/IPhone/My Apps/ATM Korea/build/Release-iphonesimulator" "-I/Users/macmath22/Development/IPhone/My Apps/ATM Korea/build/Release-iphonesimulator/include" "-I/Users/macmath22/Development/IPhone/My Apps/ATM Korea/build/ATM Korea.build/Release-iphonesimulator/ATM Korea.build/DerivedSources/i386" "-I/Users/macmath22/Development/IPhone/My Apps/ATM Korea/build/ATM Korea.build/Release-iphonesimulator/ATM Korea.build/DerivedSources" -include /var/folders/lR/lR4Jr+itHKycB0liBwNolE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/ATM_Korea_Prefix-avsscilhfspeyfauvccvkrowylkk/ATM_Korea_Prefix.pch -c "/Users/macmath22/Development/IPhone/My Apps/ATM Korea/Classes/AboutRootViewController.m" -o "/Users/macmath22/Development/IPhone/My Apps/ATM Korea/build/ATM Korea.build/Release-iphonesimulator/ATM Korea.build/Objects-normal/i386/AboutRootViewController.o"0#
+
+CCompileC "build/ATM Korea.build/Release-iphonesimulator/ATM Korea.build/Objects-normal/i386/DatabaseManager.o" "/Users/macmath22/Development/IPhone/My Apps/ATM Korea/Classes/DatabaseManager.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+s292860531.052858
+e292860532.081330
+r1
+xCompileC
+xbuild/ATM Korea.build/Release-iphonesimulator/ATM Korea.build/Objects-normal/i386/DatabaseManager.o
+x/Users/macmath22/Development/IPhone/My Apps/ATM Korea/Classes/DatabaseManager.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@87"Compile /Users/macmath22/Development/IPhone/My Apps/ATM Korea/Classes/DatabaseManager.m292860531#292860532#0(0"0(0#0#79"/Users/macmath22/Development/IPhone/My Apps/ATM Korea/Classes/DatabaseManager.m4300739032#2151"    cd "/Users/macmath22/Development/IPhone/My Apps/ATM Korea"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -Os -mdynamic-no-pic -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30000 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.3.sdk -fvisibility=hidden -mmacosx-version-min=10.5 -gdwarf-2 -iquote "/Users/macmath22/Development/IPhone/My Apps/ATM Korea/build/ATM Korea.build/Release-iphonesimulator/ATM Korea.build/ATM Korea-generated-files.hmap" "-I/Users/macmath22/Development/IPhone/My Apps/ATM Korea/build/ATM Korea.build/Release-iphonesimulator/ATM Korea.build/ATM Korea-own-target-headers.hmap" "-I/Users/macmath22/Development/IPhone/My Apps/ATM Korea/build/ATM Korea.build/Release-iphonesimulator/ATM Korea.build/ATM Korea-all-target-headers.hmap" -iquote "/Users/macmath22/Development/IPhone/My Apps/ATM Korea/build/ATM Korea.build/Release-iphonesimulator/ATM Korea.build/ATM Korea-project-headers.hmap" "-F/Users/macmath22/Development/IPhone/My Apps/ATM Korea/build/Release-iphonesimulator" "-I/Users/macmath22/Development/IPhone/My Apps/ATM Korea/build/Release-iphonesimulator/include" "-I/Users/macmath22/Development/IPhone/My Apps/ATM Korea/build/ATM Korea.build/Release-iphonesimulator/ATM Korea.build/DerivedSources/i386" "-I/Users/macmath22/Development/IPhone/My Apps/ATM Korea/build/ATM Korea.build/Release-iphonesimulator/ATM Korea.build/DerivedSources" -include /var/folders/lR/lR4Jr+itHKycB0liBwNolE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/ATM_Korea_Prefix-avsscilhfspeyfauvccvkrowylkk/ATM_Korea_Prefix.pch -c "/Users/macmath22/Development/IPhone/My Apps/ATM Korea/Classes/DatabaseManager.m" -o "/Users/macmath22/Development/IPhone/My Apps/ATM Korea/build/ATM Korea.build/Release-iphonesimulator/ATM Korea.build/Objects-normal/i386/DatabaseManager.o"0#
+
+CCompileC "build/ATM Korea.build/Release-iphonesimulator/ATM Korea.build/Objects-normal/i386/ImageAnnotation.o" "/Users/macmath22/Development/IPhone/My Apps/ATM Korea/Classes/ImageAnnotation.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+s292860532.384035
+e292860532.539703
+r1
+xCompileC
+xbuild/ATM Korea.build/Release-iphonesimulator/ATM Korea.build/Objects-normal/i386/ImageAnnotation.o
+x/Users/macmath22/Development/IPhone/My Apps/ATM Korea/Classes/ImageAnnotation.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@87"Compile /Users/macmath22/Development/IPhone/My Apps/ATM Korea/Classes/ImageAnnotation.m292860532#292860532#0(0"0(0#0#79"/Users/macmath22/Development/IPhone/My Apps/ATM Korea/Classes/ImageAnnotation.m4300739032#2151"    cd "/Users/macmath22/Development/IPhone/My Apps/ATM Korea"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -Os -mdynamic-no-pic -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30000 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.3.sdk -fvisibility=hidden -mmacosx-version-min=10.5 -gdwarf-2 -iquote "/Users/macmath22/Development/IPhone/My Apps/ATM Korea/build/ATM Korea.build/Release-iphonesimulator/ATM Korea.build/ATM Korea-generated-files.hmap" "-I/Users/macmath22/Development/IPhone/My Apps/ATM Korea/build/ATM Korea.build/Release-iphonesimulator/ATM Korea.build/ATM Korea-own-target-headers.hmap" "-I/Users/macmath22/Development/IPhone/My Apps/ATM Korea/build/ATM Korea.build/Release-iphonesimulator/ATM Korea.build/ATM Korea-all-target-headers.hmap" -iquote "/Users/macmath22/Development/IPhone/My Apps/ATM Korea/build/ATM Korea.build/Release-iphonesimulator/ATM Korea.build/ATM Korea-project-headers.hmap" "-F/Users/macmath22/Development/IPhone/My Apps/ATM Korea/build/Release-iphonesimulator" "-I/Users/macmath22/Development/IPhone/My Apps/ATM Korea/build/Release-iphonesimulator/include" "-I/Users/macmath22/Development/IPhone/My Apps/ATM Korea/build/ATM Korea.build/Release-iphonesimulator/ATM Korea.build/DerivedSources/i386" "-I/Users/macmath22/Development/IPhone/My Apps/ATM Korea/build/ATM Korea.build/Release-iphonesimulator/ATM Korea.build/DerivedSources" -include /var/folders/lR/lR4Jr+itHKycB0liBwNolE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/ATM_Korea_Prefix-avsscilhfspeyfauvccvkrowylkk/ATM_Korea_Prefix.pch -c "/Users/macmath22/Development/IPhone/My Apps/ATM Korea/Classes/ImageAnnotation.m" -o "/Users/macmath22/Development/IPhone/My Apps/ATM Korea/build/ATM Korea.build/Release-iphonesimulator/ATM Korea.build/Objects-normal/i386/ImageAnnotation.o"0#
+
+CCompileC "build/ATM Korea.build/Release-iphonesimulator/ATM Korea.build/Objects-normal/i386/ImageAnnotationView.o" "/Users/macmath22/Development/IPhone/My Apps/ATM Korea/Classes/ImageAnnotationView.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+s292860532.539898
+e292860532.708927
+r1
+xCompileC
+xbuild/ATM Korea.build/Release-iphonesimulator/ATM Korea.build/Objects-normal/i386/ImageAnnotationView.o
+x/Users/macmath22/Development/IPhone/My Apps/ATM Korea/Classes/ImageAnnotationView.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@91"Compile /Users/macmath22/Development/IPhone/My Apps/ATM Korea/Classes/ImageAnnotationView.m292860532#292860532#0(0"0(0#0#83"/Users/macmath22/Development/IPhone/My Apps/ATM Korea/Classes/ImageAnnotationView.m4300739032#2159"    cd "/Users/macmath22/Development/IPhone/My Apps/ATM Korea"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -Os -mdynamic-no-pic -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30000 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.3.sdk -fvisibility=hidden -mmacosx-version-min=10.5 -gdwarf-2 -iquote "/Users/macmath22/Development/IPhone/My Apps/ATM Korea/build/ATM Korea.build/Release-iphonesimulator/ATM Korea.build/ATM Korea-generated-files.hmap" "-I/Users/macmath22/Development/IPhone/My Apps/ATM Korea/build/ATM Korea.build/Release-iphonesimulator/ATM Korea.build/ATM Korea-own-target-headers.hmap" "-I/Users/macmath22/Development/IPhone/My Apps/ATM Korea/build/ATM Korea.build/Release-iphonesimulator/ATM Korea.build/ATM Korea-all-target-headers.hmap" -iquote "/Users/macmath22/Development/IPhone/My Apps/ATM Korea/build/ATM Korea.build/Release-iphonesimulator/ATM Korea.build/ATM Korea-project-headers.hmap" "-F/Users/macmath22/Development/IPhone/My Apps/ATM Korea/build/Release-iphonesimulator" "-I/Users/macmath22/Development/IPhone/My Apps/ATM Korea/build/Release-iphonesimulator/include" "-I/Users/macmath22/Development/IPhone/My Apps/ATM Korea/build/ATM Korea.build/Release-iphonesimulator/ATM Korea.build/DerivedSources/i386" "-I/Users/macmath22/Development/IPhone/My Apps/ATM Korea/build/ATM Korea.build/Release-iphonesimulator/ATM Korea.build/DerivedSources" -include /var/folders/lR/lR4Jr+itHKycB0liBwNolE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/ATM_Korea_Prefix-avsscilhfspeyfauvccvkrowylkk/ATM_Korea_Prefix.pch -c "/Users/macmath22/Development/IPhone/My Apps/ATM Korea/Classes/ImageAnnotationView.m" -o "/Users/macmath22/Development/IPhone/My Apps/ATM Korea/build/ATM Korea.build/Release-iphonesimulator/ATM Korea.build/Objects-normal/i386/ImageAnnotationView.o"0#
+
+CCompileC "build/ATM Korea.build/Release-iphonesimulator/ATM Korea.build/Objects-normal/i386/LocationManager.o" "/Users/macmath22/Development/IPhone/My Apps/ATM Korea/Classes/LocationManager.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+s292860530.588862
+e292860531.052728
+r1
+xCompileC
+xbuild/ATM Korea.build/Release-iphonesimulator/ATM Korea.build/Objects-normal/i386/LocationManager.o
+x/Users/macmath22/Development/IPhone/My Apps/ATM Korea/Classes/LocationManager.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@87"Compile /Users/macmath22/Development/IPhone/My Apps/ATM Korea/Classes/LocationManager.m292860530#292860531#0(0"0(0#0#79"/Users/macmath22/Development/IPhone/My Apps/ATM Korea/Classes/LocationManager.m4300739032#2151"    cd "/Users/macmath22/Development/IPhone/My Apps/ATM Korea"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -Os -mdynamic-no-pic -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30000 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.3.sdk -fvisibility=hidden -mmacosx-version-min=10.5 -gdwarf-2 -iquote "/Users/macmath22/Development/IPhone/My Apps/ATM Korea/build/ATM Korea.build/Release-iphonesimulator/ATM Korea.build/ATM Korea-generated-files.hmap" "-I/Users/macmath22/Development/IPhone/My Apps/ATM Korea/build/ATM Korea.build/Release-iphonesimulator/ATM Korea.build/ATM Korea-own-target-headers.hmap" "-I/Users/macmath22/Development/IPhone/My Apps/ATM Korea/build/ATM Korea.build/Release-iphonesimulator/ATM Korea.build/ATM Korea-all-target-headers.hmap" -iquote "/Users/macmath22/Development/IPhone/My Apps/ATM Korea/build/ATM Korea.build/Release-iphonesimulator/ATM Korea.build/ATM Korea-project-headers.hmap" "-F/Users/macmath22/Development/IPhone/My Apps/ATM Korea/build/Release-iphonesimulator" "-I/Users/macmath22/Development/IPhone/My Apps/ATM Korea/build/Release-iphonesimulator/include" "-I/Users/macmath22/Development/IPhone/My Apps/ATM Korea/build/ATM Korea.build/Release-iphonesimulator/ATM Korea.build/DerivedSources/i386" "-I/Users/macmath22/Development/IPhone/My Apps/ATM Korea/build/ATM Korea.build/Release-iphonesimulator/ATM Korea.build/DerivedSources" -include /var/folders/lR/lR4Jr+itHKycB0liBwNolE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/ATM_Korea_Prefix-avsscilhfspeyfauvccvkrowylkk/ATM_Korea_Prefix.pch -c "/Users/macmath22/Development/IPhone/My Apps/ATM Korea/Classes/LocationManager.m" -o "/Users/macmath22/Development/IPhone/My Apps/ATM Korea/build/ATM Korea.build/Release-iphonesimulator/ATM Korea.build/Objects-normal/i386/LocationManager.o"0#
+
+CCompileC "build/ATM Korea.build/Release-iphonesimulator/ATM Korea.build/Objects-normal/i386/MapRootViewController.o" "/Users/macmath22/Development/IPhone/My Apps/ATM Korea/Classes/MapRootViewController.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+s292860533.133578
+e292860533.618912
+r1
+xCompileC
+xbuild/ATM Korea.build/Release-iphonesimulator/ATM Korea.build/Objects-normal/i386/MapRootViewController.o
+x/Users/macmath22/Development/IPhone/My Apps/ATM Korea/Classes/MapRootViewController.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@93"Compile /Users/macmath22/Development/IPhone/My Apps/ATM Korea/Classes/MapRootViewController.m292860533#292860533#0(0"0(0#0#85"/Users/macmath22/Development/IPhone/My Apps/ATM Korea/Classes/MapRootViewController.m4300739032#2163"    cd "/Users/macmath22/Development/IPhone/My Apps/ATM Korea"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -Os -mdynamic-no-pic -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30000 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.3.sdk -fvisibility=hidden -mmacosx-version-min=10.5 -gdwarf-2 -iquote "/Users/macmath22/Development/IPhone/My Apps/ATM Korea/build/ATM Korea.build/Release-iphonesimulator/ATM Korea.build/ATM Korea-generated-files.hmap" "-I/Users/macmath22/Development/IPhone/My Apps/ATM Korea/build/ATM Korea.build/Release-iphonesimulator/ATM Korea.build/ATM Korea-own-target-headers.hmap" "-I/Users/macmath22/Development/IPhone/My Apps/ATM Korea/build/ATM Korea.build/Release-iphonesimulator/ATM Korea.build/ATM Korea-all-target-headers.hmap" -iquote "/Users/macmath22/Development/IPhone/My Apps/ATM Korea/build/ATM Korea.build/Release-iphonesimulator/ATM Korea.build/ATM Korea-project-headers.hmap" "-F/Users/macmath22/Development/IPhone/My Apps/ATM Korea/build/Release-iphonesimulator" "-I/Users/macmath22/Development/IPhone/My Apps/ATM Korea/build/Release-iphonesimulator/include" "-I/Users/macmath22/Development/IPhone/My Apps/ATM Korea/build/ATM Korea.build/Release-iphonesimulator/ATM Korea.build/DerivedSources/i386" "-I/Users/macmath22/Development/IPhone/My Apps/ATM Korea/build/ATM Korea.build/Release-iphonesimulator/ATM Korea.build/DerivedSources" -include /var/folders/lR/lR4Jr+itHKycB0liBwNolE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/ATM_Korea_Prefix-avsscilhfspeyfauvccvkrowylkk/ATM_Korea_Prefix.pch -c "/Users/macmath22/Development/IPhone/My Apps/ATM Korea/Classes/MapRootViewController.m" -o "/Users/macmath22/Development/IPhone/My Apps/ATM Korea/build/ATM Korea.build/Release-iphonesimulator/ATM Korea.build/Objects-normal/i386/MapRootViewController.o"0#
+
+CCompileC "build/ATM Korea.build/Release-iphonesimulator/ATM Korea.build/Objects-normal/i386/NearbyDetailViewController.o" "/Users/macmath22/Development/IPhone/My Apps/ATM Korea/Classes/NearbyDetailViewController.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+s292860531.638580
+e292860532.383902
+r1
+xCompileC
+xbuild/ATM Korea.build/Release-iphonesimulator/ATM Korea.build/Objects-normal/i386/NearbyDetailViewController.o
+x/Users/macmath22/Development/IPhone/My Apps/ATM Korea/Classes/NearbyDetailViewController.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@98"Compile /Users/macmath22/Development/IPhone/My Apps/ATM Korea/Classes/NearbyDetailViewController.m292860531#292860532#0(0"0(0#0#90"/Users/macmath22/Development/IPhone/My Apps/ATM Korea/Classes/NearbyDetailViewController.m4300739032#2173"    cd "/Users/macmath22/Development/IPhone/My Apps/ATM Korea"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -Os -mdynamic-no-pic -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30000 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.3.sdk -fvisibility=hidden -mmacosx-version-min=10.5 -gdwarf-2 -iquote "/Users/macmath22/Development/IPhone/My Apps/ATM Korea/build/ATM Korea.build/Release-iphonesimulator/ATM Korea.build/ATM Korea-generated-files.hmap" "-I/Users/macmath22/Development/IPhone/My Apps/ATM Korea/build/ATM Korea.build/Release-iphonesimulator/ATM Korea.build/ATM Korea-own-target-headers.hmap" "-I/Users/macmath22/Development/IPhone/My Apps/ATM Korea/build/ATM Korea.build/Release-iphonesimulator/ATM Korea.build/ATM Korea-all-target-headers.hmap" -iquote "/Users/macmath22/Development/IPhone/My Apps/ATM Korea/build/ATM Korea.build/Release-iphonesimulator/ATM Korea.build/ATM Korea-project-headers.hmap" "-F/Users/macmath22/Development/IPhone/My Apps/ATM Korea/build/Release-iphonesimulator" "-I/Users/macmath22/Development/IPhone/My Apps/ATM Korea/build/Release-iphonesimulator/include" "-I/Users/macmath22/Development/IPhone/My Apps/ATM Korea/build/ATM Korea.build/Release-iphonesimulator/ATM Korea.build/DerivedSources/i386" "-I/Users/macmath22/Development/IPhone/My Apps/ATM Korea/build/ATM Korea.build/Release-iphonesimulator/ATM Korea.build/DerivedSources" -include /var/folders/lR/lR4Jr+itHKycB0liBwNolE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/ATM_Korea_Prefix-avsscilhfspeyfauvccvkrowylkk/ATM_Korea_Prefix.pch -c "/Users/macmath22/Development/IPhone/My Apps/ATM Korea/Classes/NearbyDetailViewController.m" -o "/Users/macmath22/Development/IPhone/My Apps/ATM Korea/build/ATM Korea.build/Release-iphonesimulator/ATM Korea.build/Objects-normal/i386/NearbyDetailViewController.o"0#
+
+CCompileC "build/ATM Korea.build/Release-iphonesimulator/ATM Korea.build/Objects-normal/i386/NearbyRootController.o" "/Users/macmath22/Development/IPhone/My Apps/ATM Korea/Classes/NearbyRootController.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+s292860530.034365
+e292860531.507702
+r1
+xCompileC
+xbuild/ATM Korea.build/Release-iphonesimulator/ATM Korea.build/Objects-normal/i386/NearbyRootController.o
+x/Users/macmath22/Development/IPhone/My Apps/ATM Korea/Classes/NearbyRootController.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@92"Compile /Users/macmath22/Development/IPhone/My Apps/ATM Korea/Classes/NearbyRootController.m292860530#292860531#0(0"0(0#0#84"/Users/macmath22/Development/IPhone/My Apps/ATM Korea/Classes/NearbyRootController.m4300739032#2161"    cd "/Users/macmath22/Development/IPhone/My Apps/ATM Korea"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -Os -mdynamic-no-pic -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30000 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.3.sdk -fvisibility=hidden -mmacosx-version-min=10.5 -gdwarf-2 -iquote "/Users/macmath22/Development/IPhone/My Apps/ATM Korea/build/ATM Korea.build/Release-iphonesimulator/ATM Korea.build/ATM Korea-generated-files.hmap" "-I/Users/macmath22/Development/IPhone/My Apps/ATM Korea/build/ATM Korea.build/Release-iphonesimulator/ATM Korea.build/ATM Korea-own-target-headers.hmap" "-I/Users/macmath22/Development/IPhone/My Apps/ATM Korea/build/ATM Korea.build/Release-iphonesimulator/ATM Korea.build/ATM Korea-all-target-headers.hmap" -iquote "/Users/macmath22/Development/IPhone/My Apps/ATM Korea/build/ATM Korea.build/Release-iphonesimulator/ATM Korea.build/ATM Korea-project-headers.hmap" "-F/Users/macmath22/Development/IPhone/My Apps/ATM Korea/build/Release-iphonesimulator" "-I/Users/macmath22/Development/IPhone/My Apps/ATM Korea/build/Release-iphonesimulator/include" "-I/Users/macmath22/Development/IPhone/My Apps/ATM Korea/build/ATM Korea.build/Release-iphonesimulator/ATM Korea.build/DerivedSources/i386" "-I/Users/macmath22/Development/IPhone/My Apps/ATM Korea/build/ATM Korea.build/Release-iphonesimulator/ATM Korea.build/DerivedSources" -include /var/folders/lR/lR4Jr+itHKycB0liBwNolE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/ATM_Korea_Prefix-avsscilhfspeyfauvccvkrowylkk/ATM_Korea_Prefix.pch -c "/Users/macmath22/Development/IPhone/My Apps/ATM Korea/Classes/NearbyRootController.m" -o "/Users/macmath22/Development/IPhone/My Apps/ATM Korea/build/ATM Korea.build/Release-iphonesimulator/ATM Korea.build/Objects-normal/i386/NearbyRootController.o"0#
+
+CCompileC "build/ATM Korea.build/Release-iphonesimulator/ATM Korea.build/Objects-normal/i386/SearchViewController.o" "/Users/macmath22/Development/IPhone/My Apps/ATM Korea/Classes/SearchViewController.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+s292860532.709066
+e292860532.897790
+r1
+xCompileC
+xbuild/ATM Korea.build/Release-iphonesimulator/ATM Korea.build/Objects-normal/i386/SearchViewController.o
+x/Users/macmath22/Development/IPhone/My Apps/ATM Korea/Classes/SearchViewController.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@92"Compile /Users/macmath22/Development/IPhone/My Apps/ATM Korea/Classes/SearchViewController.m292860532#292860532#0(0"0(0#0#84"/Users/macmath22/Development/IPhone/My Apps/ATM Korea/Classes/SearchViewController.m4300739032#2161"    cd "/Users/macmath22/Development/IPhone/My Apps/ATM Korea"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -Os -mdynamic-no-pic -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30000 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.3.sdk -fvisibility=hidden -mmacosx-version-min=10.5 -gdwarf-2 -iquote "/Users/macmath22/Development/IPhone/My Apps/ATM Korea/build/ATM Korea.build/Release-iphonesimulator/ATM Korea.build/ATM Korea-generated-files.hmap" "-I/Users/macmath22/Development/IPhone/My Apps/ATM Korea/build/ATM Korea.build/Release-iphonesimulator/ATM Korea.build/ATM Korea-own-target-headers.hmap" "-I/Users/macmath22/Development/IPhone/My Apps/ATM Korea/build/ATM Korea.build/Release-iphonesimulator/ATM Korea.build/ATM Korea-all-target-headers.hmap" -iquote "/Users/macmath22/Development/IPhone/My Apps/ATM Korea/build/ATM Korea.build/Release-iphonesimulator/ATM Korea.build/ATM Korea-project-headers.hmap" "-F/Users/macmath22/Development/IPhone/My Apps/ATM Korea/build/Release-iphonesimulator" "-I/Users/macmath22/Development/IPhone/My Apps/ATM Korea/build/Release-iphonesimulator/include" "-I/Users/macmath22/Development/IPhone/My Apps/ATM Korea/build/ATM Korea.build/Release-iphonesimulator/ATM Korea.build/DerivedSources/i386" "-I/Users/macmath22/Development/IPhone/My Apps/ATM Korea/build/ATM Korea.build/Release-iphonesimulator/ATM Korea.build/DerivedSources" -include /var/folders/lR/lR4Jr+itHKycB0liBwNolE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/ATM_Korea_Prefix-avsscilhfspeyfauvccvkrowylkk/ATM_Korea_Prefix.pch -c "/Users/macmath22/Development/IPhone/My Apps/ATM Korea/Classes/SearchViewController.m" -o "/Users/macmath22/Development/IPhone/My Apps/ATM Korea/build/ATM Korea.build/Release-iphonesimulator/ATM Korea.build/Objects-normal/i386/SearchViewController.o"0#
+
+CCompileC "build/ATM Korea.build/Release-iphonesimulator/ATM Korea.build/Objects-normal/i386/SettingsController.o" "/Users/macmath22/Development/IPhone/My Apps/ATM Korea/Classes/SettingsController.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+s292860530.061554
+e292860530.588734
+r1
+xCompileC
+xbuild/ATM Korea.build/Release-iphonesimulator/ATM Korea.build/Objects-normal/i386/SettingsController.o
+x/Users/macmath22/Development/IPhone/My Apps/ATM Korea/Classes/SettingsController.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@90"Compile /Users/macmath22/Development/IPhone/My Apps/ATM Korea/Classes/SettingsController.m292860530#292860530#0(0"0(0#0#82"/Users/macmath22/Development/IPhone/My Apps/ATM Korea/Classes/SettingsController.m4300739032#2157"    cd "/Users/macmath22/Development/IPhone/My Apps/ATM Korea"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -Os -mdynamic-no-pic -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30000 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.3.sdk -fvisibility=hidden -mmacosx-version-min=10.5 -gdwarf-2 -iquote "/Users/macmath22/Development/IPhone/My Apps/ATM Korea/build/ATM Korea.build/Release-iphonesimulator/ATM Korea.build/ATM Korea-generated-files.hmap" "-I/Users/macmath22/Development/IPhone/My Apps/ATM Korea/build/ATM Korea.build/Release-iphonesimulator/ATM Korea.build/ATM Korea-own-target-headers.hmap" "-I/Users/macmath22/Development/IPhone/My Apps/ATM Korea/build/ATM Korea.build/Release-iphonesimulator/ATM Korea.build/ATM Korea-all-target-headers.hmap" -iquote "/Users/macmath22/Development/IPhone/My Apps/ATM Korea/build/ATM Korea.build/Release-iphonesimulator/ATM Korea.build/ATM Korea-project-headers.hmap" "-F/Users/macmath22/Development/IPhone/My Apps/ATM Korea/build/Release-iphonesimulator" "-I/Users/macmath22/Development/IPhone/My Apps/ATM Korea/build/Release-iphonesimulator/include" "-I/Users/macmath22/Development/IPhone/My Apps/ATM Korea/build/ATM Korea.build/Release-iphonesimulator/ATM Korea.build/DerivedSources/i386" "-I/Users/macmath22/Development/IPhone/My Apps/ATM Korea/build/ATM Korea.build/Release-iphonesimulator/ATM Korea.build/DerivedSources" -include /var/folders/lR/lR4Jr+itHKycB0liBwNolE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/ATM_Korea_Prefix-avsscilhfspeyfauvccvkrowylkk/ATM_Korea_Prefix.pch -c "/Users/macmath22/Development/IPhone/My Apps/ATM Korea/Classes/SettingsController.m" -o "/Users/macmath22/Development/IPhone/My Apps/ATM Korea/build/ATM Korea.build/Release-iphonesimulator/ATM Korea.build/Objects-normal/i386/SettingsController.o"0#
+
+CCompileC "build/ATM Korea.build/Release-iphonesimulator/ATM Korea.build/Objects-normal/i386/main.o" "/Users/macmath22/Development/IPhone/My Apps/ATM Korea/main.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+s292860529.692690
+e292860530.034223
+r1
+xCompileC
+xbuild/ATM Korea.build/Release-iphonesimulator/ATM Korea.build/Objects-normal/i386/main.o
+x/Users/macmath22/Development/IPhone/My Apps/ATM Korea/main.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@68"Compile /Users/macmath22/Development/IPhone/My Apps/ATM Korea/main.m292860529#292860530#0(0"0(0#0#60"/Users/macmath22/Development/IPhone/My Apps/ATM Korea/main.m4300739032#2121"    cd "/Users/macmath22/Development/IPhone/My Apps/ATM Korea"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -Os -mdynamic-no-pic -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30000 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.3.sdk -fvisibility=hidden -mmacosx-version-min=10.5 -gdwarf-2 -iquote "/Users/macmath22/Development/IPhone/My Apps/ATM Korea/build/ATM Korea.build/Release-iphonesimulator/ATM Korea.build/ATM Korea-generated-files.hmap" "-I/Users/macmath22/Development/IPhone/My Apps/ATM Korea/build/ATM Korea.build/Release-iphonesimulator/ATM Korea.build/ATM Korea-own-target-headers.hmap" "-I/Users/macmath22/Development/IPhone/My Apps/ATM Korea/build/ATM Korea.build/Release-iphonesimulator/ATM Korea.build/ATM Korea-all-target-headers.hmap" -iquote "/Users/macmath22/Development/IPhone/My Apps/ATM Korea/build/ATM Korea.build/Release-iphonesimulator/ATM Korea.build/ATM Korea-project-headers.hmap" "-F/Users/macmath22/Development/IPhone/My Apps/ATM Korea/build/Release-iphonesimulator" "-I/Users/macmath22/Development/IPhone/My Apps/ATM Korea/build/Release-iphonesimulator/include" "-I/Users/macmath22/Development/IPhone/My Apps/ATM Korea/build/ATM Korea.build/Release-iphonesimulator/ATM Korea.build/DerivedSources/i386" "-I/Users/macmath22/Development/IPhone/My Apps/ATM Korea/build/ATM Korea.build/Release-iphonesimulator/ATM Korea.build/DerivedSources" -include /var/folders/lR/lR4Jr+itHKycB0liBwNolE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/ATM_Korea_Prefix-avsscilhfspeyfauvccvkrowylkk/ATM_Korea_Prefix.pch -c "/Users/macmath22/Development/IPhone/My Apps/ATM Korea/main.m" -o "/Users/macmath22/Development/IPhone/My Apps/ATM Korea/build/ATM Korea.build/Release-iphonesimulator/ATM Korea.build/Objects-normal/i386/main.o"0#
+
+CCompileXIB "/Users/macmath22/Development/IPhone/My Apps/ATM Korea/AboutDetailView2Cell.xib"
+s292860523.359504
+e292860525.077316
+r1
+xCompileXIB
+x/Users/macmath22/Development/IPhone/My Apps/ATM Korea/AboutDetailView2Cell.xib
+oCouldn't open shared capabilities memory GSCapabilities (No such file or directory)
+oCouldn't open shared capabilities memory GSCapabilities (No such file or directory)
+lSLF07#2@35"CompileXIB AboutDetailView2Cell.xib292860523#292860525#0(168"Couldn't open shared capabilities memory GSCapabilities (No such file or directory)Couldn't open shared capabilities memory GSCapabilities (No such file or directory)0(0#0#78"/Users/macmath22/Development/IPhone/My Apps/ATM Korea/AboutDetailView2Cell.xib4300739032#557"    cd "/Users/macmath22/Development/IPhone/My Apps/ATM Korea"    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 3.1.3    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile "/Users/macmath22/Development/IPhone/My Apps/ATM Korea/build/Release-iphonesimulator/ATM Korea.app/AboutDetailView2Cell.nib" "/Users/macmath22/Development/IPhone/My Apps/ATM Korea/AboutDetailView2Cell.xib"0#
+
+CCompileXIB "/Users/macmath22/Development/IPhone/My Apps/ATM Korea/Classes/AboutDetailViewController.xib"
+s292860522.014812
+e292860522.814685
+r1
+xCompileXIB
+x/Users/macmath22/Development/IPhone/My Apps/ATM Korea/Classes/AboutDetailViewController.xib
+oCouldn't open shared capabilities memory GSCapabilities (No such file or directory)
+lSLF07#2@48"CompileXIB Classes/AboutDetailViewController.xib292860522#292860522#0(84"Couldn't open shared capabilities memory GSCapabilities (No such file or directory)0(0#0#91"/Users/macmath22/Development/IPhone/My Apps/ATM Korea/Classes/AboutDetailViewController.xib4300739032#575"    cd "/Users/macmath22/Development/IPhone/My Apps/ATM Korea"    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 3.1.3    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile "/Users/macmath22/Development/IPhone/My Apps/ATM Korea/build/Release-iphonesimulator/ATM Korea.app/AboutDetailViewController.nib" "/Users/macmath22/Development/IPhone/My Apps/ATM Korea/Classes/AboutDetailViewController.xib"0#
+
+CCompileXIB "/Users/macmath22/Development/IPhone/My Apps/ATM Korea/Classes/AboutDetailViewController2.xib"
+s292860522.814802
+e292860523.359382
+r1
+xCompileXIB
+x/Users/macmath22/Development/IPhone/My Apps/ATM Korea/Classes/AboutDetailViewController2.xib
+oCouldn't open shared capabilities memory GSCapabilities (No such file or directory)
+lSLF07#2@49"CompileXIB Classes/AboutDetailViewController2.xib292860522#292860523#0(84"Couldn't open shared capabilities memory GSCapabilities (No such file or directory)0(0#0#92"/Users/macmath22/Development/IPhone/My Apps/ATM Korea/Classes/AboutDetailViewController2.xib4300739032#577"    cd "/Users/macmath22/Development/IPhone/My Apps/ATM Korea"    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 3.1.3    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile "/Users/macmath22/Development/IPhone/My Apps/ATM Korea/build/Release-iphonesimulator/ATM Korea.app/AboutDetailViewController2.nib" "/Users/macmath22/Development/IPhone/My Apps/ATM Korea/Classes/AboutDetailViewController2.xib"0#
+
+CCompileXIB "/Users/macmath22/Development/IPhone/My Apps/ATM Korea/Classes/AboutDetailViewController3.xib"
+s292860522.058042
+e292860524.854221
+r1
+xCompileXIB
+x/Users/macmath22/Development/IPhone/My Apps/ATM Korea/Classes/AboutDetailViewController3.xib
+oCouldn't open shared capabilities memory GSCapabilities (No such file or directory)
+oCouldn't open shared capabilities memory GSCapabilities (No such file or directory)
+oCouldn't open shared capabilities memory GSCapabilities (No such file or directory)
+lSLF07#2@49"CompileXIB Classes/AboutDetailViewController3.xib292860522#292860524#0(252"Couldn't open shared capabilities memory GSCapabilities (No such file or directory)Couldn't open shared capabilities memory GSCapabilities (No such file or directory)Couldn't open shared capabilities memory GSCapabilities (No such file or directory)0(0#0#92"/Users/macmath22/Development/IPhone/My Apps/ATM Korea/Classes/AboutDetailViewController3.xib4300739032#577"    cd "/Users/macmath22/Development/IPhone/My Apps/ATM Korea"    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 3.1.3    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile "/Users/macmath22/Development/IPhone/My Apps/ATM Korea/build/Release-iphonesimulator/ATM Korea.app/AboutDetailViewController3.nib" "/Users/macmath22/Development/IPhone/My Apps/ATM Korea/Classes/AboutDetailViewController3.xib"0#
+
+CCompileXIB "/Users/macmath22/Development/IPhone/My Apps/ATM Korea/Classes/AboutRootViewController.xib"
+s292860521.277133
+e292860522.012512
+r1
+xCompileXIB
+x/Users/macmath22/Development/IPhone/My Apps/ATM Korea/Classes/AboutRootViewController.xib
+oCouldn't open shared capabilities memory GSCapabilities (No such file or directory)
+lSLF07#2@46"CompileXIB Classes/AboutRootViewController.xib292860521#292860522#0(84"Couldn't open shared capabilities memory GSCapabilities (No such file or directory)0(0#0#89"/Users/macmath22/Development/IPhone/My Apps/ATM Korea/Classes/AboutRootViewController.xib4300739032#571"    cd "/Users/macmath22/Development/IPhone/My Apps/ATM Korea"    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 3.1.3    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile "/Users/macmath22/Development/IPhone/My Apps/ATM Korea/build/Release-iphonesimulator/ATM Korea.app/AboutRootViewController.nib" "/Users/macmath22/Development/IPhone/My Apps/ATM Korea/Classes/AboutRootViewController.xib"0#
+
+CCompileXIB "/Users/macmath22/Development/IPhone/My Apps/ATM Korea/Classes/English.lproj/MapRootViewController.xib"
+s292860524.860253
+e292860525.786567
+r1
+xCompileXIB
+x/Users/macmath22/Development/IPhone/My Apps/ATM Korea/Classes/English.lproj/MapRootViewController.xib
+oCouldn't open shared capabilities memory GSCapabilities (No such file or directory)
+oCouldn't open shared capabilities memory GSCapabilities (No such file or directory)
+oCouldn't open shared capabilities memory GSCapabilities (No such file or directory)
+oCouldn't open shared capabilities memory GSCapabilities (No such file or directory)
+oCouldn't open shared capabilities memory GSCapabilities (No such file or directory)
+oCouldn't open shared capabilities memory GSCapabilities (No such file or directory)
+lSLF07#2@58"CompileXIB Classes/English.lproj/MapRootViewController.xib292860524#292860525#0(504"Couldn't open shared capabilities memory GSCapabilities (No such file or directory)Couldn't open shared capabilities memory GSCapabilities (No such file or directory)Couldn't open shared capabilities memory GSCapabilities (No such file or directory)Couldn't open shared capabilities memory GSCapabilities (No such file or directory)Couldn't open shared capabilities memory GSCapabilities (No such file or directory)Couldn't open shared capabilities memory GSCapabilities (No such file or directory)0(0#0#101"/Users/macmath22/Development/IPhone/My Apps/ATM Korea/Classes/English.lproj/MapRootViewController.xib4300739032#595"    cd "/Users/macmath22/Development/IPhone/My Apps/ATM Korea"    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 3.1.3    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile "/Users/macmath22/Development/IPhone/My Apps/ATM Korea/build/Release-iphonesimulator/ATM Korea.app/English.lproj/MapRootViewController.nib" "/Users/macmath22/Development/IPhone/My Apps/ATM Korea/Classes/English.lproj/MapRootViewController.xib"0#
+
+CCompileXIB "/Users/macmath22/Development/IPhone/My Apps/ATM Korea/Classes/English.lproj/NearbyDetailViewController.xib"
+s292860518.811277
+e292860521.276784
+r1
+xCompileXIB
+x/Users/macmath22/Development/IPhone/My Apps/ATM Korea/Classes/English.lproj/NearbyDetailViewController.xib
+oCouldn't open shared capabilities memory GSCapabilities (No such file or directory)
+oCouldn't open shared capabilities memory GSCapabilities (No such file or directory)
+oCouldn't open shared capabilities memory GSCapabilities (No such file or directory)
+oCouldn't open shared capabilities memory GSCapabilities (No such file or directory)
+oCouldn't open shared capabilities memory GSCapabilities (No such file or directory)
+oCouldn't open shared capabilities memory GSCapabilities (No such file or directory)
+lSLF07#2@63"CompileXIB Classes/English.lproj/NearbyDetailViewController.xib292860518#292860521#0(504"Couldn't open shared capabilities memory GSCapabilities (No such file or directory)Couldn't open shared capabilities memory GSCapabilities (No such file or directory)Couldn't open shared capabilities memory GSCapabilities (No such file or directory)Couldn't open shared capabilities memory GSCapabilities (No such file or directory)Couldn't open shared capabilities memory GSCapabilities (No such file or directory)Couldn't open shared capabilities memory GSCapabilities (No such file or directory)0(0#0#106"/Users/macmath22/Development/IPhone/My Apps/ATM Korea/Classes/English.lproj/NearbyDetailViewController.xib4300739032#605"    cd "/Users/macmath22/Development/IPhone/My Apps/ATM Korea"    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 3.1.3    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile "/Users/macmath22/Development/IPhone/My Apps/ATM Korea/build/Release-iphonesimulator/ATM Korea.app/English.lproj/NearbyDetailViewController.nib" "/Users/macmath22/Development/IPhone/My Apps/ATM Korea/Classes/English.lproj/NearbyDetailViewController.xib"0#
+
+CCompileXIB "/Users/macmath22/Development/IPhone/My Apps/ATM Korea/Classes/NearbyRootController.xib"
+s292860509.649672
+e292860513.254232
+r1
+xCompileXIB
+x/Users/macmath22/Development/IPhone/My Apps/ATM Korea/Classes/NearbyRootController.xib
+oCouldn't open shared capabilities memory GSCapabilities (No such file or directory)
+lSLF07#2@43"CompileXIB Classes/NearbyRootController.xib292860509#292860513#0(84"Couldn't open shared capabilities memory GSCapabilities (No such file or directory)0(0#0#86"/Users/macmath22/Development/IPhone/My Apps/ATM Korea/Classes/NearbyRootController.xib4300739032#565"    cd "/Users/macmath22/Development/IPhone/My Apps/ATM Korea"    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 3.1.3    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile "/Users/macmath22/Development/IPhone/My Apps/ATM Korea/build/Release-iphonesimulator/ATM Korea.app/NearbyRootController.nib" "/Users/macmath22/Development/IPhone/My Apps/ATM Korea/Classes/NearbyRootController.xib"0#
+
+CCompileXIB "/Users/macmath22/Development/IPhone/My Apps/ATM Korea/Classes/SearchViewController.xib"
+s292860521.308179
+e292860522.057936
+r1
+xCompileXIB
+x/Users/macmath22/Development/IPhone/My Apps/ATM Korea/Classes/SearchViewController.xib
+oCouldn't open shared capabilities memory GSCapabilities (No such file or directory)
+lSLF07#2@43"CompileXIB Classes/SearchViewController.xib292860521#292860522#0(84"Couldn't open shared capabilities memory GSCapabilities (No such file or directory)0(0#0#86"/Users/macmath22/Development/IPhone/My Apps/ATM Korea/Classes/SearchViewController.xib4300739032#565"    cd "/Users/macmath22/Development/IPhone/My Apps/ATM Korea"    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 3.1.3    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile "/Users/macmath22/Development/IPhone/My Apps/ATM Korea/build/Release-iphonesimulator/ATM Korea.app/SearchViewController.nib" "/Users/macmath22/Development/IPhone/My Apps/ATM Korea/Classes/SearchViewController.xib"0#
+
+CCompileXIB "/Users/macmath22/Development/IPhone/My Apps/ATM Korea/Classes/ko.lproj/MapRootViewController.xib"
+s292860525.077451
+e292860526.090271
+r1
+xCompileXIB
+x/Users/macmath22/Development/IPhone/My Apps/ATM Korea/Classes/ko.lproj/MapRootViewController.xib
+oCouldn't open shared capabilities memory GSCapabilities (No such file or directory)
+oCouldn't open shared capabilities memory GSCapabilities (No such file or directory)
+oCouldn't open shared capabilities memory GSCapabilities (No such file or directory)
+oCouldn't open shared capabilities memory GSCapabilities (No such file or directory)
+oCouldn't open shared capabilities memory GSCapabilities (No such file or directory)
+oCouldn't open shared capabilities memory GSCapabilities (No such file or directory)
+lSLF07#2@53"CompileXIB Classes/ko.lproj/MapRootViewController.xib292860525#292860526#0(504"Couldn't open shared capabilities memory GSCapabilities (No such file or directory)Couldn't open shared capabilities memory GSCapabilities (No such file or directory)Couldn't open shared capabilities memory GSCapabilities (No such file or directory)Couldn't open shared capabilities memory GSCapabilities (No such file or directory)Couldn't open shared capabilities memory GSCapabilities (No such file or directory)Couldn't open shared capabilities memory GSCapabilities (No such file or directory)0(0#0#96"/Users/macmath22/Development/IPhone/My Apps/ATM Korea/Classes/ko.lproj/MapRootViewController.xib4300739032#585"    cd "/Users/macmath22/Development/IPhone/My Apps/ATM Korea"    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 3.1.3    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile "/Users/macmath22/Development/IPhone/My Apps/ATM Korea/build/Release-iphonesimulator/ATM Korea.app/ko.lproj/MapRootViewController.nib" "/Users/macmath22/Development/IPhone/My Apps/ATM Korea/Classes/ko.lproj/MapRootViewController.xib"0#
+
+CCompileXIB "/Users/macmath22/Development/IPhone/My Apps/ATM Korea/Classes/ko.lproj/NearbyDetailViewController.xib"
+s292860519.895471
+e292860521.308063
+r1
+xCompileXIB
+x/Users/macmath22/Development/IPhone/My Apps/ATM Korea/Classes/ko.lproj/NearbyDetailViewController.xib
+oCouldn't open shared capabilities memory GSCapabilities (No such file or directory)
+oCouldn't open shared capabilities memory GSCapabilities (No such file or directory)
+oCouldn't open shared capabilities memory GSCapabilities (No such file or directory)
+oCouldn't open shared capabilities memory GSCapabilities (No such file or directory)
+oCouldn't open shared capabilities memory GSCapabilities (No such file or directory)
+oCouldn't open shared capabilities memory GSCapabilities (No such file or directory)
+lSLF07#2@58"CompileXIB Classes/ko.lproj/NearbyDetailViewController.xib292860519#292860521#0(504"Couldn't open shared capabilities memory GSCapabilities (No such file or directory)Couldn't open shared capabilities memory GSCapabilities (No such file or directory)Couldn't open shared capabilities memory GSCapabilities (No such file or directory)Couldn't open shared capabilities memory GSCapabilities (No such file or directory)Couldn't open shared capabilities memory GSCapabilities (No such file or directory)Couldn't open shared capabilities memory GSCapabilities (No such file or directory)0(0#0#101"/Users/macmath22/Development/IPhone/My Apps/ATM Korea/Classes/ko.lproj/NearbyDetailViewController.xib4300739032#595"    cd "/Users/macmath22/Development/IPhone/My Apps/ATM Korea"    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 3.1.3    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile "/Users/macmath22/Development/IPhone/My Apps/ATM Korea/build/Release-iphonesimulator/ATM Korea.app/ko.lproj/NearbyDetailViewController.nib" "/Users/macmath22/Development/IPhone/My Apps/ATM Korea/Classes/ko.lproj/NearbyDetailViewController.xib"0#
+
+CCompileXIB "/Users/macmath22/Development/IPhone/My Apps/ATM Korea/English.lproj/MainWindow.xib"
+s292860494.867028
+e292860510.942314
+r1
+xCompileXIB
+x/Users/macmath22/Development/IPhone/My Apps/ATM Korea/English.lproj/MainWindow.xib
+oCouldn't open shared capabilities memory GSCapabilities (No such file or directory)
+lSLF07#2@39"CompileXIB English.lproj/MainWindow.xib292860494#292860510#0(84"Couldn't open shared capabilities memory GSCapabilities (No such file or directory)0(0#0#82"/Users/macmath22/Development/IPhone/My Apps/ATM Korea/English.lproj/MainWindow.xib4300739032#565"    cd "/Users/macmath22/Development/IPhone/My Apps/ATM Korea"    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 3.1.3    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile "/Users/macmath22/Development/IPhone/My Apps/ATM Korea/build/Release-iphonesimulator/ATM Korea.app/English.lproj/MainWindow.nib" "/Users/macmath22/Development/IPhone/My Apps/ATM Korea/English.lproj/MainWindow.xib"0#
+
+CCompileXIB "/Users/macmath22/Development/IPhone/My Apps/ATM Korea/English.lproj/SettingsController.xib"
+s292860513.254931
+e292860514.290101
+r1
+xCompileXIB
+x/Users/macmath22/Development/IPhone/My Apps/ATM Korea/English.lproj/SettingsController.xib
+oCouldn't open shared capabilities memory GSCapabilities (No such file or directory)
+lSLF07#2@47"CompileXIB English.lproj/SettingsController.xib292860513#292860514#0(84"Couldn't open shared capabilities memory GSCapabilities (No such file or directory)0(0#0#90"/Users/macmath22/Development/IPhone/My Apps/ATM Korea/English.lproj/SettingsController.xib4300739032#581"    cd "/Users/macmath22/Development/IPhone/My Apps/ATM Korea"    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 3.1.3    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile "/Users/macmath22/Development/IPhone/My Apps/ATM Korea/build/Release-iphonesimulator/ATM Korea.app/English.lproj/SettingsController.nib" "/Users/macmath22/Development/IPhone/My Apps/ATM Korea/English.lproj/SettingsController.xib"0#
+
+CCompileXIB "/Users/macmath22/Development/IPhone/My Apps/ATM Korea/NearbyTableViewCell.xib"
+s292860510.942466
+e292860513.450433
+r1
+xCompileXIB
+x/Users/macmath22/Development/IPhone/My Apps/ATM Korea/NearbyTableViewCell.xib
+oCouldn't open shared capabilities memory GSCapabilities (No such file or directory)
+lSLF07#2@34"CompileXIB NearbyTableViewCell.xib292860510#292860513#0(84"Couldn't open shared capabilities memory GSCapabilities (No such file or directory)0(0#0#77"/Users/macmath22/Development/IPhone/My Apps/ATM Korea/NearbyTableViewCell.xib4300739032#555"    cd "/Users/macmath22/Development/IPhone/My Apps/ATM Korea"    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 3.1.3    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile "/Users/macmath22/Development/IPhone/My Apps/ATM Korea/build/Release-iphonesimulator/ATM Korea.app/NearbyTableViewCell.nib" "/Users/macmath22/Development/IPhone/My Apps/ATM Korea/NearbyTableViewCell.xib"0#
+
+CCompileXIB "/Users/macmath22/Development/IPhone/My Apps/ATM Korea/ko.lproj/MainWindow.xib"
+s292860494.889709
+e292860509.649390
+r1
+xCompileXIB
+x/Users/macmath22/Development/IPhone/My Apps/ATM Korea/ko.lproj/MainWindow.xib
+oCouldn't open shared capabilities memory GSCapabilities (No such file or directory)
+lSLF07#2@34"CompileXIB ko.lproj/MainWindow.xib292860494#292860509#0(84"Couldn't open shared capabilities memory GSCapabilities (No such file or directory)0(0#0#77"/Users/macmath22/Development/IPhone/My Apps/ATM Korea/ko.lproj/MainWindow.xib4300739032#555"    cd "/Users/macmath22/Development/IPhone/My Apps/ATM Korea"    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 3.1.3    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile "/Users/macmath22/Development/IPhone/My Apps/ATM Korea/build/Release-iphonesimulator/ATM Korea.app/ko.lproj/MainWindow.nib" "/Users/macmath22/Development/IPhone/My Apps/ATM Korea/ko.lproj/MainWindow.xib"0#
+
+CCompileXIB "/Users/macmath22/Development/IPhone/My Apps/ATM Korea/ko.lproj/SettingsController.xib"
+s292860513.450545
+e292860514.327800
+r1
+xCompileXIB
+x/Users/macmath22/Development/IPhone/My Apps/ATM Korea/ko.lproj/SettingsController.xib
+oCouldn't open shared capabilities memory GSCapabilities (No such file or directory)
+lSLF07#2@42"CompileXIB ko.lproj/SettingsController.xib292860513#292860514#0(84"Couldn't open shared capabilities memory GSCapabilities (No such file or directory)0(0#0#85"/Users/macmath22/Development/IPhone/My Apps/ATM Korea/ko.lproj/SettingsController.xib4300739032#571"    cd "/Users/macmath22/Development/IPhone/My Apps/ATM Korea"    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 3.1.3    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile "/Users/macmath22/Development/IPhone/My Apps/ATM Korea/build/Release-iphonesimulator/ATM Korea.app/ko.lproj/SettingsController.nib" "/Users/macmath22/Development/IPhone/My Apps/ATM Korea/ko.lproj/SettingsController.xib"0#
+
+CCopyStringsFile "/Users/macmath22/Development/IPhone/My Apps/ATM Korea/build/Release-iphonesimulator/ATM Korea.app/English.lproj/Localizable.strings" English.lproj/Localizable.strings
+s292860514.428915
+e292860518.811158
+r1
+xCopyStringsFile
+x/Users/macmath22/Development/IPhone/My Apps/ATM Korea/build/Release-iphonesimulator/ATM Korea.app/English.lproj/Localizable.strings
+xEnglish.lproj/Localizable.strings
+lSLF07#2@38"Copy English.lproj/Localizable.strings292860514#292860518#0(0"0(0#0#87"/Users/macmath22/Development/IPhone/My Apps/ATM Korea/English.lproj/Localizable.strings4300739032#534"    cd "/Users/macmath22/Development/IPhone/My Apps/ATM Korea"    setenv ICONV /usr/bin/iconv    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/Xcode/Plug-ins/CoreBuildTasks.xcplugin/Contents/Resources/copystrings --validate --inputencoding utf-16 --outputencoding binary English.lproj/Localizable.strings --outdir "/Users/macmath22/Development/IPhone/My Apps/ATM Korea/build/Release-iphonesimulator/ATM Korea.app/English.lproj"0#
+
+CCopyStringsFile "/Users/macmath22/Development/IPhone/My Apps/ATM Korea/build/Release-iphonesimulator/ATM Korea.app/ko.lproj/Localizable.strings" ko.lproj/Localizable.strings
+s292860517.587906
+e292860519.895259
+r1
+xCopyStringsFile
+x/Users/macmath22/Development/IPhone/My Apps/ATM Korea/build/Release-iphonesimulator/ATM Korea.app/ko.lproj/Localizable.strings
+xko.lproj/Localizable.strings
+oko.lproj/Localizable.strings: warning: the specified encoding is utf-8, but file contents appear to be UTF-16; treating as UTF-16
+lSLF07#2@33"Copy ko.lproj/Localizable.strings292860517#292860519#0(130"ko.lproj/Localizable.strings: warning: the specified encoding is utf-8, but file contents appear to be UTF-16; treating as UTF-160(0#0#82"/Users/macmath22/Development/IPhone/My Apps/ATM Korea/ko.lproj/Localizable.strings4300739032#523"    cd "/Users/macmath22/Development/IPhone/My Apps/ATM Korea"    setenv ICONV /usr/bin/iconv    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/Xcode/Plug-ins/CoreBuildTasks.xcplugin/Contents/Resources/copystrings --validate --inputencoding utf-8 --outputencoding binary ko.lproj/Localizable.strings --outdir "/Users/macmath22/Development/IPhone/My Apps/ATM Korea/build/Release-iphonesimulator/ATM Korea.app/ko.lproj"0#
+
+CCpResource "build/Release-iphonesimulator/ATM Korea.app/1_2.png" 1_2.png
+s292860525.789026
+e292860525.879366
+r1
+xCpResource
+xbuild/Release-iphonesimulator/ATM Korea.app/1_2.png
+x1_2.png
+lSLF07#2@12"Copy 1_2.png292860525#292860526#0(0"0(0#0#61"/Users/macmath22/Development/IPhone/My Apps/ATM Korea/1_2.png4300739032#527"    cd "/Users/macmath22/Development/IPhone/My Apps/ATM Korea"    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -strip-debug-symbols -resolve-src-symlinks "/Users/macmath22/Development/IPhone/My Apps/ATM Korea/1_2.png" "/Users/macmath22/Development/IPhone/My Apps/ATM Korea/build/Release-iphonesimulator/ATM Korea.app"0#
+
+CCpResource "build/Release-iphonesimulator/ATM Korea.app/2_2.png" 2_2.png
+s292860525.793432
+e292860525.879513
+r1
+xCpResource
+xbuild/Release-iphonesimulator/ATM Korea.app/2_2.png
+x2_2.png
+lSLF07#2@12"Copy 2_2.png292860525#292860526#0(0"0(0#0#61"/Users/macmath22/Development/IPhone/My Apps/ATM Korea/2_2.png4300739032#527"    cd "/Users/macmath22/Development/IPhone/My Apps/ATM Korea"    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -strip-debug-symbols -resolve-src-symlinks "/Users/macmath22/Development/IPhone/My Apps/ATM Korea/2_2.png" "/Users/macmath22/Development/IPhone/My Apps/ATM Korea/build/Release-iphonesimulator/ATM Korea.app"0#
+
+CCpResource "build/Release-iphonesimulator/ATM Korea.app/3_2.png" 3_2.png
+s292860525.795557
+e292860525.879657
+r1
+xCpResource
+xbuild/Release-iphonesimulator/ATM Korea.app/3_2.png
+x3_2.png
+lSLF07#2@12"Copy 3_2.png292860525#292860526#0(0"0(0#0#61"/Users/macmath22/Development/IPhone/My Apps/ATM Korea/3_2.png4300739032#527"    cd "/Users/macmath22/Development/IPhone/My Apps/ATM Korea"    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -strip-debug-symbols -resolve-src-symlinks "/Users/macmath22/Development/IPhone/My Apps/ATM Korea/3_2.png" "/Users/macmath22/Development/IPhone/My Apps/ATM Korea/build/Release-iphonesimulator/ATM Korea.app"0#
+
+CCpResource "build/Release-iphonesimulator/ATM Korea.app/4_2.png" 4_2.png
+s292860525.800809
+e292860525.879801
+r1
+xCpResource
+xbuild/Release-iphonesimulator/ATM Korea.app/4_2.png
+x4_2.png
+lSLF07#2@12"Copy 4_2.png292860525#292860526#0(0"0(0#0#61"/Users/macmath22/Development/IPhone/My Apps/ATM Korea/4_2.png4300739032#527"    cd "/Users/macmath22/Development/IPhone/My Apps/ATM Korea"    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -strip-debug-symbols -resolve-src-symlinks "/Users/macmath22/Development/IPhone/My Apps/ATM Korea/4_2.png" "/Users/macmath22/Development/IPhone/My Apps/ATM Korea/build/Release-iphonesimulator/ATM Korea.app"0#
+
+CCpResource "build/Release-iphonesimulator/ATM Korea.app/5_2.png" 5_2.png
+s292860525.802776
+e292860525.880021
+r1
+xCpResource
+xbuild/Release-iphonesimulator/ATM Korea.app/5_2.png
+x5_2.png
+lSLF07#2@12"Copy 5_2.png292860525#292860526#0(0"0(0#0#61"/Users/macmath22/Development/IPhone/My Apps/ATM Korea/5_2.png4300739032#527"    cd "/Users/macmath22/Development/IPhone/My Apps/ATM Korea"    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -strip-debug-symbols -resolve-src-symlinks "/Users/macmath22/Development/IPhone/My Apps/ATM Korea/5_2.png" "/Users/macmath22/Development/IPhone/My Apps/ATM Korea/build/Release-iphonesimulator/ATM Korea.app"0#
+
+CCpResource "build/Release-iphonesimulator/ATM Korea.app/6_2.png" 6_2.png
+s292860525.808419
+e292860525.918381
+r1
+xCpResource
+xbuild/Release-iphonesimulator/ATM Korea.app/6_2.png
+x6_2.png
+lSLF07#2@12"Copy 6_2.png292860525#292860526#0(0"0(0#0#61"/Users/macmath22/Development/IPhone/My Apps/ATM Korea/6_2.png4300739032#527"    cd "/Users/macmath22/Development/IPhone/My Apps/ATM Korea"    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -strip-debug-symbols -resolve-src-symlinks "/Users/macmath22/Development/IPhone/My Apps/ATM Korea/6_2.png" "/Users/macmath22/Development/IPhone/My Apps/ATM Korea/build/Release-iphonesimulator/ATM Korea.app"0#
+
+CCpResource "build/Release-iphonesimulator/ATM Korea.app/7_2.png" 7_2.png
+s292860525.810426
+e292860525.880232
+r1
+xCpResource
+xbuild/Release-iphonesimulator/ATM Korea.app/7_2.png
+x7_2.png
+lSLF07#2@12"Copy 7_2.png292860525#292860526#0(0"0(0#0#61"/Users/macmath22/Development/IPhone/My Apps/ATM Korea/7_2.png4300739032#527"    cd "/Users/macmath22/Development/IPhone/My Apps/ATM Korea"    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -strip-debug-symbols -resolve-src-symlinks "/Users/macmath22/Development/IPhone/My Apps/ATM Korea/7_2.png" "/Users/macmath22/Development/IPhone/My Apps/ATM Korea/build/Release-iphonesimulator/ATM Korea.app"0#
+
+CCpResource "build/Release-iphonesimulator/ATM Korea.app/8_2.png" 8_2.png
+s292860525.814938
+e292860525.879030
+r1
+xCpResource
+xbuild/Release-iphonesimulator/ATM Korea.app/8_2.png
+x8_2.png
+lSLF07#2@12"Copy 8_2.png292860525#292860526#0(0"0(0#0#61"/Users/macmath22/Development/IPhone/My Apps/ATM Korea/8_2.png4300739032#527"    cd "/Users/macmath22/Development/IPhone/My Apps/ATM Korea"    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -strip-debug-symbols -resolve-src-symlinks "/Users/macmath22/Development/IPhone/My Apps/ATM Korea/8_2.png" "/Users/macmath22/Development/IPhone/My Apps/ATM Korea/build/Release-iphonesimulator/ATM Korea.app"0#
+
+CCpResource "build/Release-iphonesimulator/ATM Korea.app/ABO.png" ABO.png
+s292860525.896340
+e292860525.925196
+r1
+xCpResource
+xbuild/Release-iphonesimulator/ATM Korea.app/ABO.png
+xABO.png
+lSLF07#2@12"Copy ABO.png292860525#292860526#0(0"0(0#0#61"/Users/macmath22/Development/IPhone/My Apps/ATM Korea/ABO.png4300739032#527"    cd "/Users/macmath22/Development/IPhone/My Apps/ATM Korea"    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -strip-debug-symbols -resolve-src-symlinks "/Users/macmath22/Development/IPhone/My Apps/ATM Korea/ABO.png" "/Users/macmath22/Development/IPhone/My Apps/ATM Korea/build/Release-iphonesimulator/ATM Korea.app"0#
+
+CCpResource "build/Release-iphonesimulator/ATM Korea.app/ATMDB.sqlite" ATMDB.sqlite
+s292860514.327962
+e292860515.107311
+r1
+xCpResource
+xbuild/Release-iphonesimulator/ATM Korea.app/ATMDB.sqlite
+xATMDB.sqlite
+lSLF07#2@17"Copy ATMDB.sqlite292860514#292860515#0(0"0(0#0#66"/Users/macmath22/Development/IPhone/My Apps/ATM Korea/ATMDB.sqlite4300739032#532"    cd "/Users/macmath22/Development/IPhone/My Apps/ATM Korea"    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -strip-debug-symbols -resolve-src-symlinks "/Users/macmath22/Development/IPhone/My Apps/ATM Korea/ATMDB.sqlite" "/Users/macmath22/Development/IPhone/My Apps/ATM Korea/build/Release-iphonesimulator/ATM Korea.app"0#
+
+CCpResource "build/Release-iphonesimulator/ATM Korea.app/ATM_Cell3.png" ATM_Cell3.png
+s292860514.304529
+e292860514.611865
+r1
+xCpResource
+xbuild/Release-iphonesimulator/ATM Korea.app/ATM_Cell3.png
+xATM_Cell3.png
+lSLF07#2@18"Copy ATM_Cell3.png292860514#292860515#0(0"0(0#0#67"/Users/macmath22/Development/IPhone/My Apps/ATM Korea/ATM_Cell3.png4300739032#533"    cd "/Users/macmath22/Development/IPhone/My Apps/ATM Korea"    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -strip-debug-symbols -resolve-src-symlinks "/Users/macmath22/Development/IPhone/My Apps/ATM Korea/ATM_Cell3.png" "/Users/macmath22/Development/IPhone/My Apps/ATM Korea/build/Release-iphonesimulator/ATM Korea.app"0#
+
+CCpResource "build/Release-iphonesimulator/ATM Korea.app/ATM_Cell4.png" ATM_Cell4.png
+s292860514.308830
+e292860514.612131
+r1
+xCpResource
+xbuild/Release-iphonesimulator/ATM Korea.app/ATM_Cell4.png
+xATM_Cell4.png
+lSLF07#2@18"Copy ATM_Cell4.png292860514#292860515#0(0"0(0#0#67"/Users/macmath22/Development/IPhone/My Apps/ATM Korea/ATM_Cell4.png4300739032#533"    cd "/Users/macmath22/Development/IPhone/My Apps/ATM Korea"    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -strip-debug-symbols -resolve-src-symlinks "/Users/macmath22/Development/IPhone/My Apps/ATM Korea/ATM_Cell4.png" "/Users/macmath22/Development/IPhone/My Apps/ATM Korea/build/Release-iphonesimulator/ATM Korea.app"0#
+
+CCpResource "build/Release-iphonesimulator/ATM Korea.app/About6.png" About6.png
+s292860525.787974
+e292860525.834037
+r1
+xCpResource
+xbuild/Release-iphonesimulator/ATM Korea.app/About6.png
+xAbout6.png
+lSLF07#2@15"Copy About6.png292860525#292860526#0(0"0(0#0#64"/Users/macmath22/Development/IPhone/My Apps/ATM Korea/About6.png4300739032#530"    cd "/Users/macmath22/Development/IPhone/My Apps/ATM Korea"    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -strip-debug-symbols -resolve-src-symlinks "/Users/macmath22/Development/IPhone/My Apps/ATM Korea/About6.png" "/Users/macmath22/Development/IPhone/My Apps/ATM Korea/build/Release-iphonesimulator/ATM Korea.app"0#
+
+CCpResource "build/Release-iphonesimulator/ATM Korea.app/Bank_Cell3.png" Bank_Cell3.png
+s292860514.303267
+e292860514.611424
+r1
+xCpResource
+xbuild/Release-iphonesimulator/ATM Korea.app/Bank_Cell3.png
+xBank_Cell3.png
+lSLF07#2@19"Copy Bank_Cell3.png292860514#292860515#0(0"0(0#0#68"/Users/macmath22/Development/IPhone/My Apps/ATM Korea/Bank_Cell3.png4300739032#534"    cd "/Users/macmath22/Development/IPhone/My Apps/ATM Korea"    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -strip-debug-symbols -resolve-src-symlinks "/Users/macmath22/Development/IPhone/My Apps/ATM Korea/Bank_Cell3.png" "/Users/macmath22/Development/IPhone/My Apps/ATM Korea/build/Release-iphonesimulator/ATM Korea.app"0#
+
+CCpResource "build/Release-iphonesimulator/ATM Korea.app/Bank_Cell4.png" Bank_Cell4.png
+s292860514.305863
+e292860514.612002
+r1
+xCpResource
+xbuild/Release-iphonesimulator/ATM Korea.app/Bank_Cell4.png
+xBank_Cell4.png
+lSLF07#2@19"Copy Bank_Cell4.png292860514#292860515#0(0"0(0#0#68"/Users/macmath22/Development/IPhone/My Apps/ATM Korea/Bank_Cell4.png4300739032#534"    cd "/Users/macmath22/Development/IPhone/My Apps/ATM Korea"    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -strip-debug-symbols -resolve-src-symlinks "/Users/macmath22/Development/IPhone/My Apps/ATM Korea/Bank_Cell4.png" "/Users/macmath22/Development/IPhone/My Apps/ATM Korea/build/Release-iphonesimulator/ATM Korea.app"0#
+
+CCpResource "build/Release-iphonesimulator/ATM Korea.app/CellBG.png" CellBG.png
+s292860514.310432
+e292860514.612259
+r1
+xCpResource
+xbuild/Release-iphonesimulator/ATM Korea.app/CellBG.png
+xCellBG.png
+lSLF07#2@15"Copy CellBG.png292860514#292860515#0(0"0(0#0#64"/Users/macmath22/Development/IPhone/My Apps/ATM Korea/CellBG.png4300739032#530"    cd "/Users/macmath22/Development/IPhone/My Apps/ATM Korea"    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -strip-debug-symbols -resolve-src-symlinks "/Users/macmath22/Development/IPhone/My Apps/ATM Korea/CellBG.png" "/Users/macmath22/Development/IPhone/My Apps/ATM Korea/build/Release-iphonesimulator/ATM Korea.app"0#
+
+CCpResource "build/Release-iphonesimulator/ATM Korea.app/Default.png" Default.png
+s292860525.889982
+e292860525.941525
+r1
+xCpResource
+xbuild/Release-iphonesimulator/ATM Korea.app/Default.png
+xDefault.png
+lSLF07#2@16"Copy Default.png292860525#292860526#0(0"0(0#0#65"/Users/macmath22/Development/IPhone/My Apps/ATM Korea/Default.png4300739032#531"    cd "/Users/macmath22/Development/IPhone/My Apps/ATM Korea"    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -strip-debug-symbols -resolve-src-symlinks "/Users/macmath22/Development/IPhone/My Apps/ATM Korea/Default.png" "/Users/macmath22/Development/IPhone/My Apps/ATM Korea/build/Release-iphonesimulator/ATM Korea.app"0#
+
+CCpResource "build/Release-iphonesimulator/ATM Korea.app/Default7.png" Default7.png
+s292860514.298192
+e292860514.612427
+r1
+xCpResource
+xbuild/Release-iphonesimulator/ATM Korea.app/Default7.png
+xDefault7.png
+lSLF07#2@17"Copy Default7.png292860514#292860515#0(0"0(0#0#66"/Users/macmath22/Development/IPhone/My Apps/ATM Korea/Default7.png4300739032#532"    cd "/Users/macmath22/Development/IPhone/My Apps/ATM Korea"    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -strip-debug-symbols -resolve-src-symlinks "/Users/macmath22/Development/IPhone/My Apps/ATM Korea/Default7.png" "/Users/macmath22/Development/IPhone/My Apps/ATM Korea/build/Release-iphonesimulator/ATM Korea.app"0#
+
+CCpResource "build/Release-iphonesimulator/ATM Korea.app/Icon.png" Icon.png
+s292860525.913629
+e292860525.986353
+r1
+xCpResource
+xbuild/Release-iphonesimulator/ATM Korea.app/Icon.png
+xIcon.png
+lSLF07#2@13"Copy Icon.png292860525#292860526#0(0"0(0#0#62"/Users/macmath22/Development/IPhone/My Apps/ATM Korea/Icon.png4300739032#528"    cd "/Users/macmath22/Development/IPhone/My Apps/ATM Korea"    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -strip-debug-symbols -resolve-src-symlinks "/Users/macmath22/Development/IPhone/My Apps/ATM Korea/Icon.png" "/Users/macmath22/Development/IPhone/My Apps/ATM Korea/build/Release-iphonesimulator/ATM Korea.app"0#
+
+CCpResource "build/Release-iphonesimulator/ATM Korea.app/Icon2.png" Icon2.png
+s292860525.882877
+e292860525.918182
+r1
+xCpResource
+xbuild/Release-iphonesimulator/ATM Korea.app/Icon2.png
+xIcon2.png
+lSLF07#2@14"Copy Icon2.png292860525#292860526#0(0"0(0#0#63"/Users/macmath22/Development/IPhone/My Apps/ATM Korea/Icon2.png4300739032#529"    cd "/Users/macmath22/Development/IPhone/My Apps/ATM Korea"    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -strip-debug-symbols -resolve-src-symlinks "/Users/macmath22/Development/IPhone/My Apps/ATM Korea/Icon2.png" "/Users/macmath22/Development/IPhone/My Apps/ATM Korea/build/Release-iphonesimulator/ATM Korea.app"0#
+
+CCpResource "build/Release-iphonesimulator/ATM Korea.app/Icon3.png" Icon3.png
+s292860525.908381
+e292860525.975119
+r1
+xCpResource
+xbuild/Release-iphonesimulator/ATM Korea.app/Icon3.png
+xIcon3.png
+lSLF07#2@14"Copy Icon3.png292860525#292860526#0(0"0(0#0#63"/Users/macmath22/Development/IPhone/My Apps/ATM Korea/Icon3.png4300739032#529"    cd "/Users/macmath22/Development/IPhone/My Apps/ATM Korea"    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -strip-debug-symbols -resolve-src-symlinks "/Users/macmath22/Development/IPhone/My Apps/ATM Korea/Icon3.png" "/Users/macmath22/Development/IPhone/My Apps/ATM Korea/build/Release-iphonesimulator/ATM Korea.app"0#
+
+CCpResource "build/Release-iphonesimulator/ATM Korea.app/MAp.png" MAp.png
+s292860525.901811
+e292860525.957769
+r1
+xCpResource
+xbuild/Release-iphonesimulator/ATM Korea.app/MAp.png
+xMAp.png
+lSLF07#2@12"Copy MAp.png292860525#292860526#0(0"0(0#0#61"/Users/macmath22/Development/IPhone/My Apps/ATM Korea/MAp.png4300739032#527"    cd "/Users/macmath22/Development/IPhone/My Apps/ATM Korea"    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -strip-debug-symbols -resolve-src-symlinks "/Users/macmath22/Development/IPhone/My Apps/ATM Korea/MAp.png" "/Users/macmath22/Development/IPhone/My Apps/ATM Korea/build/Release-iphonesimulator/ATM Korea.app"0#
+
+CCpResource "build/Release-iphonesimulator/ATM Korea.app/Map4.png" Map4.png
+s292860525.786682
+e292860525.814837
+r1
+xCpResource
+xbuild/Release-iphonesimulator/ATM Korea.app/Map4.png
+xMap4.png
+lSLF07#2@13"Copy Map4.png292860525#292860525#0(0"0(0#0#62"/Users/macmath22/Development/IPhone/My Apps/ATM Korea/Map4.png4300739032#528"    cd "/Users/macmath22/Development/IPhone/My Apps/ATM Korea"    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -strip-debug-symbols -resolve-src-symlinks "/Users/macmath22/Development/IPhone/My Apps/ATM Korea/Map4.png" "/Users/macmath22/Development/IPhone/My Apps/ATM Korea/build/Release-iphonesimulator/ATM Korea.app"0#
+
+CCpResource "build/Release-iphonesimulator/ATM Korea.app/Near.png" Near.png
+s292860525.904466
+e292860525.957912
+r1
+xCpResource
+xbuild/Release-iphonesimulator/ATM Korea.app/Near.png
+xNear.png
+lSLF07#2@13"Copy Near.png292860525#292860526#0(0"0(0#0#62"/Users/macmath22/Development/IPhone/My Apps/ATM Korea/Near.png4300739032#528"    cd "/Users/macmath22/Development/IPhone/My Apps/ATM Korea"    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -strip-debug-symbols -resolve-src-symlinks "/Users/macmath22/Development/IPhone/My Apps/ATM Korea/Near.png" "/Users/macmath22/Development/IPhone/My Apps/ATM Korea/build/Release-iphonesimulator/ATM Korea.app"0#
+
+CCpResource "build/Release-iphonesimulator/ATM Korea.app/Nearby.png" Nearby.png
+s292860514.290280
+e292860514.428488
+r1
+xCpResource
+xbuild/Release-iphonesimulator/ATM Korea.app/Nearby.png
+xNearby.png
+lSLF07#2@15"Copy Nearby.png292860514#292860515#0(0"0(0#0#64"/Users/macmath22/Development/IPhone/My Apps/ATM Korea/Nearby.png4300739032#530"    cd "/Users/macmath22/Development/IPhone/My Apps/ATM Korea"    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -strip-debug-symbols -resolve-src-symlinks "/Users/macmath22/Development/IPhone/My Apps/ATM Korea/Nearby.png" "/Users/macmath22/Development/IPhone/My Apps/ATM Korea/build/Release-iphonesimulator/ATM Korea.app"0#
+
+CCpResource "build/Release-iphonesimulator/ATM Korea.app/Search.png" Search.png
+s292860514.293041
+e292860514.611234
+r1
+xCpResource
+xbuild/Release-iphonesimulator/ATM Korea.app/Search.png
+xSearch.png
+lSLF07#2@15"Copy Search.png292860514#292860515#0(0"0(0#0#64"/Users/macmath22/Development/IPhone/My Apps/ATM Korea/Search.png4300739032#530"    cd "/Users/macmath22/Development/IPhone/My Apps/ATM Korea"    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -strip-debug-symbols -resolve-src-symlinks "/Users/macmath22/Development/IPhone/My Apps/ATM Korea/Search.png" "/Users/macmath22/Development/IPhone/My Apps/ATM Korea/build/Release-iphonesimulator/ATM Korea.app"0#
+
+CCpResource "build/Release-iphonesimulator/ATM Korea.app/bank_db.txt" bank_db.txt
+s292860514.300582
+e292860517.587669
+r1
+xCpResource
+xbuild/Release-iphonesimulator/ATM Korea.app/bank_db.txt
+xbank_db.txt
+lSLF07#2@16"Copy bank_db.txt292860514#292860517#0(0"0(0#0#65"/Users/macmath22/Development/IPhone/My Apps/ATM Korea/bank_db.txt4300739032#531"    cd "/Users/macmath22/Development/IPhone/My Apps/ATM Korea"    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -strip-debug-symbols -resolve-src-symlinks "/Users/macmath22/Development/IPhone/My Apps/ATM Korea/bank_db.txt" "/Users/macmath22/Development/IPhone/My Apps/ATM Korea/build/Release-iphonesimulator/ATM Korea.app"0#
+
+CCpResource "build/Release-iphonesimulator/ATM Korea.app/currentpos.png" currentpos.png
+s292860525.834149
+e292860525.879221
+r1
+xCpResource
+xbuild/Release-iphonesimulator/ATM Korea.app/currentpos.png
+xcurrentpos.png
+lSLF07#2@19"Copy currentpos.png292860525#292860526#0(0"0(0#0#68"/Users/macmath22/Development/IPhone/My Apps/ATM Korea/currentpos.png4300739032#534"    cd "/Users/macmath22/Development/IPhone/My Apps/ATM Korea"    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -strip-debug-symbols -resolve-src-symlinks "/Users/macmath22/Development/IPhone/My Apps/ATM Korea/currentpos.png" "/Users/macmath22/Development/IPhone/My Apps/ATM Korea/build/Release-iphonesimulator/ATM Korea.app"0#
+
+CCpResource "build/Release-iphonesimulator/ATM Korea.app/kingkong.png" kingkong.png
+s292860524.854645
+e292860524.884668
+r1
+xCpResource
+xbuild/Release-iphonesimulator/ATM Korea.app/kingkong.png
+xkingkong.png
+lSLF07#2@17"Copy kingkong.png292860524#292860524#0(0"0(0#0#66"/Users/macmath22/Development/IPhone/My Apps/ATM Korea/kingkong.png4300739032#532"    cd "/Users/macmath22/Development/IPhone/My Apps/ATM Korea"    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -strip-debug-symbols -resolve-src-symlinks "/Users/macmath22/Development/IPhone/My Apps/ATM Korea/kingkong.png" "/Users/macmath22/Development/IPhone/My Apps/ATM Korea/build/Release-iphonesimulator/ATM Korea.app"0#
+
+CCpResource "build/Release-iphonesimulator/ATM Korea.app/likus_logo.png" likus_logo.png
+s292860522.012715
+e292860522.050533
+r1
+xCpResource
+xbuild/Release-iphonesimulator/ATM Korea.app/likus_logo.png
+xlikus_logo.png
+lSLF07#2@19"Copy likus_logo.png292860522#292860522#0(0"0(0#0#68"/Users/macmath22/Development/IPhone/My Apps/ATM Korea/likus_logo.png4300739032#534"    cd "/Users/macmath22/Development/IPhone/My Apps/ATM Korea"    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -strip-debug-symbols -resolve-src-symlinks "/Users/macmath22/Development/IPhone/My Apps/ATM Korea/likus_logo.png" "/Users/macmath22/Development/IPhone/My Apps/ATM Korea/build/Release-iphonesimulator/ATM Korea.app"0#
+
+CCpResource "build/Release-iphonesimulator/ATM Korea.app/macmath22.png" macmath22.png
+s292860524.855905
+e292860524.886715
+r1
+xCpResource
+xbuild/Release-iphonesimulator/ATM Korea.app/macmath22.png
+xmacmath22.png
+lSLF07#2@18"Copy macmath22.png292860524#292860524#0(0"0(0#0#67"/Users/macmath22/Development/IPhone/My Apps/ATM Korea/macmath22.png4300739032#533"    cd "/Users/macmath22/Development/IPhone/My Apps/ATM Korea"    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -strip-debug-symbols -resolve-src-symlinks "/Users/macmath22/Development/IPhone/My Apps/ATM Korea/macmath22.png" "/Users/macmath22/Development/IPhone/My Apps/ATM Korea/build/Release-iphonesimulator/ATM Korea.app"0#
+
+CCpResource "build/Release-iphonesimulator/ATM Korea.app/mypos.png" mypos.png
+s292860525.880329
+e292860525.917964
+r1
+xCpResource
+xbuild/Release-iphonesimulator/ATM Korea.app/mypos.png
+xmypos.png
+lSLF07#2@14"Copy mypos.png292860525#292860526#0(0"0(0#0#63"/Users/macmath22/Development/IPhone/My Apps/ATM Korea/mypos.png4300739032#529"    cd "/Users/macmath22/Development/IPhone/My Apps/ATM Korea"    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -strip-debug-symbols -resolve-src-symlinks "/Users/macmath22/Development/IPhone/My Apps/ATM Korea/mypos.png" "/Users/macmath22/Development/IPhone/My Apps/ATM Korea/build/Release-iphonesimulator/ATM Korea.app"0#
+
+CCpResource "build/Release-iphonesimulator/ATM Korea.app/saljjinnom.png" saljjinnom.png
+s292860524.857914
+e292860524.887084
+r1
+xCpResource
+xbuild/Release-iphonesimulator/ATM Korea.app/saljjinnom.png
+xsaljjinnom.png
+lSLF07#2@19"Copy saljjinnom.png292860524#292860524#0(0"0(0#0#68"/Users/macmath22/Development/IPhone/My Apps/ATM Korea/saljjinnom.png4300739032#534"    cd "/Users/macmath22/Development/IPhone/My Apps/ATM Korea"    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -strip-debug-symbols -resolve-src-symlinks "/Users/macmath22/Development/IPhone/My Apps/ATM Korea/saljjinnom.png" "/Users/macmath22/Development/IPhone/My Apps/ATM Korea/build/Release-iphonesimulator/ATM Korea.app"0#
+
+CGenerateDSYMFile "/Users/macmath22/Development/IPhone/My Apps/ATM Korea/build/Release-iphonesimulator/ATM Korea.app.dSYM" "/Users/macmath22/Development/IPhone/My Apps/ATM Korea/build/Release-iphonesimulator/ATM Korea.app/ATM Korea"
+s292860534.369165
+e292860534.559524
+r1
+xGenerateDSYMFile
+x/Users/macmath22/Development/IPhone/My Apps/ATM Korea/build/Release-iphonesimulator/ATM Korea.app.dSYM
+x/Users/macmath22/Development/IPhone/My Apps/ATM Korea/build/Release-iphonesimulator/ATM Korea.app/ATM Korea
+lSLF07#2@123"GenerateDSYMFile "build/Release-iphonesimulator/ATM Korea.app.dSYM" "build/Release-iphonesimulator/ATM Korea.app/ATM Korea"292860534#292860534#0(0"0(0#0#107"/Users/macmath22/Development/IPhone/My Apps/ATM Korea/build/Release-iphonesimulator/ATM Korea.app/ATM Korea4300739032#444"    cd "/Users/macmath22/Development/IPhone/My Apps/ATM Korea"    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/dsymutil "/Users/macmath22/Development/IPhone/My Apps/ATM Korea/build/Release-iphonesimulator/ATM Korea.app/ATM Korea" -o "/Users/macmath22/Development/IPhone/My Apps/ATM Korea/build/Release-iphonesimulator/ATM Korea.app.dSYM"0#
+
+CLd "/Users/macmath22/Development/IPhone/My Apps/ATM Korea/build/Release-iphonesimulator/ATM Korea.app/ATM Korea" normal i386
+s292860533.619028
+e292860534.369043
+r1
+xLd
+x/Users/macmath22/Development/IPhone/My Apps/ATM Korea/build/Release-iphonesimulator/ATM Korea.app/ATM Korea
+xnormal
+xi386
+lSLF07#2@112"Link /Users/macmath22/Development/IPhone/My Apps/ATM Korea/build/Release-iphonesimulator/ATM Korea.app/ATM Korea292860533#292860534#0(0"0(0#0#0"4300739032#1021"    cd "/Users/macmath22/Development/IPhone/My Apps/ATM Korea"    setenv MACOSX_DEPLOYMENT_TARGET 10.5    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -arch i386 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.3.sdk "-L/Users/macmath22/Development/IPhone/My Apps/ATM Korea/build/Release-iphonesimulator" "-F/Users/macmath22/Development/IPhone/My Apps/ATM Korea/build/Release-iphonesimulator" -filelist "/Users/macmath22/Development/IPhone/My Apps/ATM Korea/build/ATM Korea.build/Release-iphonesimulator/ATM Korea.build/Objects-normal/i386/ATM Korea.LinkFileList" -mmacosx-version-min=10.5 -framework Foundation -framework UIKit -framework CoreGraphics -framework CoreLocation -framework MapKit -lsqlite3.0 -o "/Users/macmath22/Development/IPhone/My Apps/ATM Korea/build/Release-iphonesimulator/ATM Korea.app/ATM Korea"0#
+
+CProcessInfoPlistFile "/Users/macmath22/Development/IPhone/My Apps/ATM Korea/build/Release-iphonesimulator/ATM Korea.app/Info.plist" ATM_Korea-Info.plist
+s292860494.828353
+e292860494.866900
+r1
+xProcessInfoPlistFile
+x/Users/macmath22/Development/IPhone/My Apps/ATM Korea/build/Release-iphonesimulator/ATM Korea.app/Info.plist
+xATM_Korea-Info.plist
+lSLF07#2@28"Process ATM_Korea-Info.plist292860494#292860494#0(0"0(0#0#74"/Users/macmath22/Development/IPhone/My Apps/ATM Korea/ATM_Korea-Info.plist4300739032#540"    cd "/Users/macmath22/Development/IPhone/My Apps/ATM Korea"    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-infoPlistUtility ATM_Korea-Info.plist -genpkginfo "/Users/macmath22/Development/IPhone/My Apps/ATM Korea/build/Release-iphonesimulator/ATM Korea.app/PkgInfo" -expandbuildsettings -format binary -platform iphonesimulator -o "/Users/macmath22/Development/IPhone/My Apps/ATM Korea/build/Release-iphonesimulator/ATM Korea.app/Info.plist"0#
+
+CProcessPCH /var/folders/lR/lR4Jr+itHKycB0liBwNolE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/ATM_Korea_Prefix-avsscilhfspeyfauvccvkrowylkk/ATM_Korea_Prefix.pch.gch ATM_Korea_Prefix.pch normal i386 objective-c com.apple.compilers.gcc.4_2
+s292860526.090475
+e292860529.692371
+r1
+xProcessPCH
+x/var/folders/lR/lR4Jr+itHKycB0liBwNolE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/ATM_Korea_Prefix-avsscilhfspeyfauvccvkrowylkk/ATM_Korea_Prefix.pch.gch
+xATM_Korea_Prefix.pch
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@31"Precompile ATM_Korea_Prefix.pch292860526#292860529#0(0"0(0#0#74"/Users/macmath22/Development/IPhone/My Apps/ATM Korea/ATM_Korea_Prefix.pch4300739032#1992"    cd "/Users/macmath22/Development/IPhone/My Apps/ATM Korea"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c-header -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -Os -mdynamic-no-pic -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30000 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.3.sdk -fvisibility=hidden -mmacosx-version-min=10.5 -gdwarf-2 -iquote "/Users/macmath22/Development/IPhone/My Apps/ATM Korea/build/ATM Korea.build/Release-iphonesimulator/ATM Korea.build/ATM Korea-generated-files.hmap" "-I/Users/macmath22/Development/IPhone/My Apps/ATM Korea/build/ATM Korea.build/Release-iphonesimulator/ATM Korea.build/ATM Korea-own-target-headers.hmap" "-I/Users/macmath22/Development/IPhone/My Apps/ATM Korea/build/ATM Korea.build/Release-iphonesimulator/ATM Korea.build/ATM Korea-all-target-headers.hmap" -iquote "/Users/macmath22/Development/IPhone/My Apps/ATM Korea/build/ATM Korea.build/Release-iphonesimulator/ATM Korea.build/ATM Korea-project-headers.hmap" "-F/Users/macmath22/Development/IPhone/My Apps/ATM Korea/build/Release-iphonesimulator" "-I/Users/macmath22/Development/IPhone/My Apps/ATM Korea/build/Release-iphonesimulator/include" "-I/Users/macmath22/Development/IPhone/My Apps/ATM Korea/build/ATM Korea.build/Release-iphonesimulator/ATM Korea.build/DerivedSources/i386" "-I/Users/macmath22/Development/IPhone/My Apps/ATM Korea/build/ATM Korea.build/Release-iphonesimulator/ATM Korea.build/DerivedSources" -c "/Users/macmath22/Development/IPhone/My Apps/ATM Korea/ATM_Korea_Prefix.pch" -o /var/folders/lR/lR4Jr+itHKycB0liBwNolE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/ATM_Korea_Prefix-avsscilhfspeyfauvccvkrowylkk/ATM_Korea_Prefix.pch.gch0#
+
+CTouch "/Users/macmath22/Development/IPhone/My Apps/ATM Korea/build/Release-iphonesimulator/ATM Korea.app"
+s292860534.559640
+e292860534.598547
+r1
+xTouch
+x/Users/macmath22/Development/IPhone/My Apps/ATM Korea/build/Release-iphonesimulator/ATM Korea.app
+lSLF07#2@103"Touch /Users/macmath22/Development/IPhone/My Apps/ATM Korea/build/Release-iphonesimulator/ATM Korea.app292860534#292860534#0(0"0(0#0#0"4300739032#316"    cd "/Users/macmath22/Development/IPhone/My Apps/ATM Korea"    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /usr/bin/touch -c "/Users/macmath22/Development/IPhone/My Apps/ATM Korea/build/Release-iphonesimulator/ATM Korea.app"0#
+

@@ -1,0 +1,71 @@
+//
+//  NearbyDetailInfoViewController.m
+//  ATM Korea
+//
+//  Created by Young Byun on 10. 5. 1..
+//  Copyright 2010 __MyCompanyName__. All rights reserved.
+//
+
+#import "NearbyDetailInfoViewController.h"
+
+
+@implementation NearbyDetailInfoViewController
+
+@synthesize _tableView;
+
+/*
+ // The designated initializer.  Override if you create the controller programmatically and want to perform customization that is not appropriate for viewDidLoad.
+- (id)initWithNibName:(NSString *)nibNameOrNil bundle:(NSBundle *)nibBundleOrNil {
+    if (self = [super initWithNibName:nibNameOrNil bundle:nibBundleOrNil]) {
+        // Custom initialization
+    }
+    return self;
+}
+*/
+
+
+// Implement viewDidLoad to do additional setup after loading the view, typically from a nib.
+- (void)viewDidLoad 
+{
+   self.navigationItem.title = NSLocalizedString(@"Detail Information", @"NEARBY_DETAIL_INFO_TITLE");
+	
+    [super viewDidLoad];
+}
+
+
+/*
+// Override to allow orientations other than the default portrait orientation.
+- (BOOL)shouldAutorotateToInterfaceOrientation:(UIInterfaceOrientation)interfaceOrientation {
+    // Return YES for supported orientations
+    return (interfaceOrientation == UIInterfaceOrientationPortrait);
+}
+*/
+
+- (void)didReceiveMemoryWarning 
+{
+	// Releases the view if it doesn't have a superview.
+    [super didReceiveMemoryWarning];
+	
+	// Release any cached data, images, etc that aren't in use.
+}
+
+- (void)viewDidUnload 
+{
+	// Release any retained subviews of the main view.
+	// e.g. self.myOutlet = nil;
+	_tableView = nil;
+}
+
+
+- (void)dealloc 
+{
+    [_tableView release];
+    [super dealloc];
+}
+
+#pragma mark -
+#pragma mark Table Related Delegate
+
+
+
+@end
